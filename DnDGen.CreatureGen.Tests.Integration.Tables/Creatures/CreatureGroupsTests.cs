@@ -107,6 +107,17 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures
             return prototypes;
         }
 
+        private IEnumerable<CreaturePrototype> GetAllPrototypes()
+        {
+            var allCreatures = CreatureConstants.GetAll();
+            var prototypes = GetPrototypes(allCreatures, false);
+
+            var allCharacters = CreatureConstants.GetAllCharacters();
+            var characters = GetPrototypes(allCharacters, true);
+
+            return prototypes.Concat(characters);
+        }
+
         [TestCaseSource(typeof(CreatureTestData), nameof(CreatureTestData.Templates))]
         public void CreatureGroup_TemplateAsCharacter(string template)
         {
@@ -196,13 +207,13 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures
         [TestCaseSource(nameof(TemplatesWithTypeFilter))]
         public void CreatureGroup_Template_ResultsInType(string template, string type)
         {
-            var allCreatures = CreatureConstants.GetAll();
-            var sourcePrototypes = GetPrototypes(allCreatures, false);
+            var sourcePrototypes = GetAllPrototypes();
             var applicator = GetNewInstanceOf<TemplateApplicator>(template);
 
             var templateCreatures = sourcePrototypes
                 .Where(p => applicator.IsCompatible(p, new() { Types = [type] }))
-                .Select(p => p.Name);
+                .Select(p => p.Name)
+                .Distinct();
 
             var groupName = template + type;
             AssertDistinctCollection(groupName, [.. templateCreatures]);
@@ -239,13 +250,13 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures
         [TestCaseSource(nameof(TemplatesWithAlignmentFilter))]
         public void CreatureGroup_Template_ResultsInAlignment(string template, string alignment)
         {
-            var allCreatures = CreatureConstants.GetAll();
-            var sourcePrototypes = GetPrototypes(allCreatures, false);
+            var sourcePrototypes = GetAllPrototypes();
             var applicator = GetNewInstanceOf<TemplateApplicator>(template);
 
             var templateCreatures = sourcePrototypes
                 .Where(p => applicator.IsCompatible(p, new() { Alignments = [alignment] }))
-                .Select(p => p.Name);
+                .Select(p => p.Name)
+                .Distinct();
 
             var groupName = template + alignment;
             AssertDistinctCollection(groupName, [.. templateCreatures]);
