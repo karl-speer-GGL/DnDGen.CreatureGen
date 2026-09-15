@@ -9,7 +9,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Magics
     [TestFixture]
     public class SpellLevelsTests : TypesAndAmountsTests
     {
-        protected override string tableName => TableNameConstants.TypeAndAmount.SpellLevels;
+        protected override string TableName => TableNameConstants.TypeAndAmount.SpellLevels;
 
         [Test]
         public void SpellLevelsHaveAllNames()

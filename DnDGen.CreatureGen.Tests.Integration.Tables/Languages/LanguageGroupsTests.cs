@@ -11,7 +11,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Languages
     [TestFixture]
     public class LanguageGroupsTests : CollectionTests
     {
-        protected override string tableName => TableNameConstants.Collection.LanguageGroups;
+        protected override string TableName => TableNameConstants.Collection.LanguageGroups;
 
         private ICollectionTypeAndAmountSelector typeAndAmountSelector;
 

@@ -13,7 +13,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Alignments
     [TestFixture]
     public class AlignmentGroupsTests : CollectionTests
     {
-        protected override string tableName => TableNameConstants.Collection.AlignmentGroups;
+        protected override string TableName => TableNameConstants.Collection.AlignmentGroups;
 
         private string[][] alignmentGrid;
         private string[] partialAlignmentsStarts;

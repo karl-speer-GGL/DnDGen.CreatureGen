@@ -7,7 +7,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures
     [TestFixture]
     public class MaxAgeDescriptionsTests : CollectionTests
     {
-        protected override string tableName => TableNameConstants.Collection.MaxAgeDescriptions;
+        protected override string TableName => TableNameConstants.Collection.MaxAgeDescriptions;
 
         private const string Immortal = "Immortal";
         private const string NaturalCauses = "Will die of natural causes";

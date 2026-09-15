@@ -19,7 +19,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables
         {
             percentileMapper = GetNewInstanceOf<PercentileMapper>();
 
-            table = percentileMapper.Map(Config.Name, tableName);
+            table = percentileMapper.Map(Config.Name, TableName);
         }
 
         public abstract void TableIsComplete();
@@ -27,7 +27,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables
         protected void AssertTableIsComplete()
         {
             var percentileRolls = Enumerable.Range(1, 100);
-            Assert.That(table.Keys, Is.EquivalentTo(percentileRolls), tableName);
+            Assert.That(table.Keys, Is.EquivalentTo(percentileRolls), TableName);
         }
 
         public virtual void Percentile(int lower, int upper, string content)

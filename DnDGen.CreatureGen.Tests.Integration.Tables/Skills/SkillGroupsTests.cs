@@ -15,7 +15,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Skills
     [TestFixture]
     public class SkillGroupsTests : CollectionTests
     {
-        protected override string tableName => TableNameConstants.Collection.SkillGroups;
+        protected override string TableName => TableNameConstants.Collection.SkillGroups;
 
         private ICollectionDataSelector<CreatureDataSelection> creatureDataSelector;
 

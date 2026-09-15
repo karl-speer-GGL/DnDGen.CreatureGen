@@ -10,7 +10,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Magics
     [TestFixture]
     public class SpellsPerDayTests : TypesAndAmountsTests
     {
-        protected override string tableName => TableNameConstants.TypeAndAmount.SpellsPerDay;
+        protected override string TableName => TableNameConstants.TypeAndAmount.SpellsPerDay;
 
         [Test]
         public void SpellsPerDayContainsAllCastersAndLevels()

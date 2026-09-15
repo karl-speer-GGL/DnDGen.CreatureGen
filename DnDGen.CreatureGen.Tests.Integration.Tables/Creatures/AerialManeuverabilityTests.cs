@@ -12,7 +12,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures
     {
         private ICollectionTypeAndAmountSelector typesAndAmountsSelector;
 
-        protected override string tableName => TableNameConstants.Collection.AerialManeuverability;
+        protected override string TableName => TableNameConstants.Collection.AerialManeuverability;
 
         [SetUp]
         public void Setup()

@@ -11,7 +11,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Defenses
     [TestFixture]
     public class ArmorClassBonusesTests : CollectionTests
     {
-        protected override string tableName => TableNameConstants.Collection.ArmorClassBonuses;
+        protected override string TableName => TableNameConstants.Collection.ArmorClassBonuses;
 
         [Test]
         public void ArmorClassBonusesNames()

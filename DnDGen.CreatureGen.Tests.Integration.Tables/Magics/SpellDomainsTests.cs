@@ -11,7 +11,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Magics
     [TestFixture]
     public class SpellDomainsTests : TypesAndAmountsTests
     {
-        protected override string tableName => TableNameConstants.TypeAndAmount.SpellDomains;
+        protected override string TableName => TableNameConstants.TypeAndAmount.SpellDomains;
 
         [Test]
         public void SpellDomainsContainsAllCreatures()

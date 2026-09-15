@@ -12,7 +12,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures
     [TestFixture]
     public class SpeedsTests : TypesAndAmountsTests
     {
-        protected override string tableName => TableNameConstants.Collection.Speeds;
+        protected override string TableName => TableNameConstants.Collection.Speeds;
 
         private ICollectionDataSelector<CreatureDataSelection> collectionDataSelector;
         private Dictionary<string, Dictionary<string, int>> creatureSpeedsData;

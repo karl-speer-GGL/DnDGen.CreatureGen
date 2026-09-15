@@ -14,7 +14,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures
     {
         private Dice dice;
 
-        protected override string tableName => TableNameConstants.TypeAndAmount.Wingspans;
+        protected override string TableName => TableNameConstants.TypeAndAmount.Wingspans;
 
         private Dictionary<string, Dictionary<string, string>> wingspanRolls;
 

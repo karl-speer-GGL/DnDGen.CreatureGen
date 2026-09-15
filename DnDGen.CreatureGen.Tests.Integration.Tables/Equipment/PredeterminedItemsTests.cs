@@ -19,7 +19,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Equipment
         private IFeatsSelector featsSelector;
         private ICollectionDataSelector<CreatureDataSelection> creatureDataSelector;
 
-        protected override string tableName => TableNameConstants.Collection.PredeterminedItems;
+        protected override string TableName => TableNameConstants.Collection.PredeterminedItems;
 
         [SetUp]
         public void Setup()

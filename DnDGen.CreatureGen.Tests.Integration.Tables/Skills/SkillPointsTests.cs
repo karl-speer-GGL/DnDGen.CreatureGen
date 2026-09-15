@@ -7,7 +7,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Skills
     [TestFixture]
     public class SkillPointsTests : AdjustmentsTests
     {
-        protected override string tableName => TableNameConstants.TypeAndAmount.SkillPoints;
+        protected override string TableName => TableNameConstants.TypeAndAmount.SkillPoints;
 
         [Test]
         public void SkillPointsNames()

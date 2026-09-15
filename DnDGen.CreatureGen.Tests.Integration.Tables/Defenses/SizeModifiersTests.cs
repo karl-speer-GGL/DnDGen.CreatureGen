@@ -7,7 +7,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Combats
     [TestFixture]
     public class SizeModifiersTests : AdjustmentsTests
     {
-        protected override string tableName => TableNameConstants.TypeAndAmount.SizeModifiers;
+        protected override string TableName => TableNameConstants.TypeAndAmount.SizeModifiers;
 
         [Test]
         public void SizeModifersNames()

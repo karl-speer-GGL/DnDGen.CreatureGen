@@ -10,7 +10,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Magics
     [TestFixture]
     public class KnownSpellsTests : TypesAndAmountsTests
     {
-        protected override string tableName => TableNameConstants.TypeAndAmount.KnownSpells;
+        protected override string TableName => TableNameConstants.TypeAndAmount.KnownSpells;
 
         [Test]
         public void KnownSpellsContainsAllCastersAndLevels()

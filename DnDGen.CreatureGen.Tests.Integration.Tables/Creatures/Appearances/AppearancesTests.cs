@@ -158,7 +158,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures.Appearances
                 }
             }
 
-            var path = Path.Combine(Environment.CurrentDirectory, $"{tableName}.xml");
+            var path = Path.Combine(Environment.CurrentDirectory, $"{TableName}.xml");
             collections.Save(path);
         }
 

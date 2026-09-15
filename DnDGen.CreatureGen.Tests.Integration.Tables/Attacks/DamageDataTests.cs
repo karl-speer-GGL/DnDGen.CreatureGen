@@ -29,7 +29,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Attacks
         private Dictionary<string, Dictionary<string, string>> dragonDamages;
         private Dictionary<string, string> damageTypes;
 
-        protected override string tableName => TableNameConstants.Collection.DamageData;
+        protected override string TableName => TableNameConstants.Collection.DamageData;
 
         [OneTimeSetUp]
         public void OneTimeSetup()
@@ -304,7 +304,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Attacks
                 collections.Add(collection);
             }
 
-            var path = Path.Combine(Environment.CurrentDirectory, $"{tableName}.xml");
+            var path = Path.Combine(Environment.CurrentDirectory, $"{TableName}.xml");
             collections.Save(path);
         }
 

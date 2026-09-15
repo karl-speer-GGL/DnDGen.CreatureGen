@@ -20,7 +20,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables
             collectionMapper = GetNewInstanceOf<CollectionMapper>();
             collectionSelector = GetNewInstanceOf<ICollectionSelector>();
 
-            table = collectionMapper.Map(Config.Name, tableName);
+            table = collectionMapper.Map(Config.Name, TableName);
         }
 
         protected void AssertCollectionNames(IEnumerable<string> names)

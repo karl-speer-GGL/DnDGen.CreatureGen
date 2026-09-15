@@ -8,7 +8,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures
     [TestFixture]
     public class TemplateGroupsTests : CollectionTests
     {
-        protected override string tableName => TableNameConstants.Collection.TemplateGroups;
+        protected override string TableName => TableNameConstants.Collection.TemplateGroups;
 
         [Test]
         public void TemplateGroupNames()

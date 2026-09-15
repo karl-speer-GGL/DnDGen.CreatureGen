@@ -7,7 +7,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Magics
     [TestFixture]
     public class CasterGroupsTests : CollectionTests
     {
-        protected override string tableName => TableNameConstants.Collection.CasterGroups;
+        protected override string TableName => TableNameConstants.Collection.CasterGroups;
 
         [Test]
         public void CasterGroupsHasAllGroups()

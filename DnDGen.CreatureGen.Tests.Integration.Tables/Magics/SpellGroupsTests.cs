@@ -13,7 +13,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Magics
     [TestFixture]
     public class SpellGroupsTests : CollectionTests
     {
-        protected override string tableName => TableNameConstants.Collection.SpellGroups;
+        protected override string TableName => TableNameConstants.Collection.SpellGroups;
 
         [Test]
         public void SpellGroupsHaveAllNames()

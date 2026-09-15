@@ -10,7 +10,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Defenses
     [TestFixture]
     public class SaveBonusesTests : CollectionTests
     {
-        protected override string tableName => TableNameConstants.Collection.SaveBonuses;
+        protected override string TableName => TableNameConstants.Collection.SaveBonuses;
 
         private Dictionary<string, List<string>> saveBonusesData;
 

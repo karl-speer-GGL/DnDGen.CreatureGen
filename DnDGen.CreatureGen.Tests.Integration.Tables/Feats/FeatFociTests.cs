@@ -11,7 +11,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Feats
     [TestFixture]
     public class FeatFociTests : CollectionTests
     {
-        protected override string tableName
+        protected override string TableName
         {
             get { return TableNameConstants.Collection.FeatFoci; }
         }

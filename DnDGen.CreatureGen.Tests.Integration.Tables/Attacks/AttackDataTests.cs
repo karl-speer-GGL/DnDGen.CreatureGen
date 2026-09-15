@@ -24,7 +24,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Attacks
         private Dictionary<string, List<string>> templateAttackData;
         private Dictionary<string, CreatureDataSelection> creatureData;
 
-        protected override string tableName => TableNameConstants.Collection.AttackData;
+        protected override string TableName => TableNameConstants.Collection.AttackData;
 
         [OneTimeSetUp]
         public void OneTimeSetup()

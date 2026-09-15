@@ -16,7 +16,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures
         private Dice dice;
         private MeasurementHelper measurementHelper;
 
-        protected override string tableName => TableNameConstants.TypeAndAmount.Heights;
+        protected override string TableName => TableNameConstants.TypeAndAmount.Heights;
         private Dictionary<string, Dictionary<string, string>> creatureHeights;
 
         [OneTimeSetUp]

@@ -26320,6 +26320,26 @@
 	</collection>
 	<collection>
 		<name>Celestial CreatureNeutral Good</name>
+		<entry>Pseudodragon</entry>
+		<entry>Purple Worm</entry>
+		<entry>Razor Boar</entry>
+		<entry>Remorhaz</entry>
+		<entry>Roc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Rust Monster</entry>
+		<entry>Satyr</entry>
+		<entry>Satyr with pipes</entry>
+		<entry>Nixie</entry>
+		<entry>Nymph</entry>
+		<entry>Orc</entry>
+		<entry>Otyugh</entry>
+		<entry>Owlbear</entry>
+		<entry>Pegasus</entry>
+		<entry>Phantom Fungus</entry>
+		<entry>Phase Spider</entry>
+		<entry>Phasm</entry>
+		<entry>Pixie</entry>
+		<entry>Pixie with Irresistible dance</entry>
 		<entry>Kuo-toa</entry>
 		<entry>Lightfoot Halfling</entry>
 		<entry>Lizard</entry>
@@ -26539,6 +26559,16 @@
 	</collection>
 	<collection>
 		<name>Fiendish CreatureChaotic Evil</name>
+		<entry>Yuan-ti Pureblood</entry>
+		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Yuan-ti Abomination</entry>
+		<entry>Wood Elf</entry>
+		<entry>Worg</entry>
+		<entry>Wyvern</entry>
+		<entry>Yrthak</entry>
 		<entry>Storm Giant</entry>
 		<entry>Svirfneblin</entry>
 		<entry>Tallfellow Halfling</entry>
@@ -26828,6 +26858,26 @@
 	</collection>
 	<collection>
 		<name>Fiendish CreatureNeutral Evil</name>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Otyugh</entry>
+		<entry>Owlbear</entry>
+		<entry>Phantom Fungus</entry>
+		<entry>Phase Spider</entry>
+		<entry>Phasm</entry>
+		<entry>Purple Worm</entry>
+		<entry>Razor Boar</entry>
+		<entry>Remorhaz</entry>
+		<entry>Medusa</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Mimic</entry>
+		<entry>Mind Flayer (Illithid)</entry>
+		<entry>Minotaur</entry>
+		<entry>Monitor Lizard</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Nixie</entry>
+		<entry>Ogre</entry>
 		<entry>Krenshar</entry>
 		<entry>Kuo-toa</entry>
 		<entry>Lamia</entry>
@@ -27077,6 +27127,22 @@
 	</collection>
 	<collection>
 		<name>Half-CelestialChaotic Good</name>
+		<entry>Yuan-ti Pureblood</entry>
+		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Yuan-ti Abomination</entry>
+		<entry>Troglodyte</entry>
+		<entry>Truly Horrid Umber Hulk</entry>
+		<entry>Umber Hulk</entry>
+		<entry>Unicorn</entry>
+		<entry>Water Naga</entry>
+		<entry>Wild Elf</entry>
+		<entry>Will-O'-Wisp</entry>
+		<entry>Wood Elf</entry>
+		<entry>Wyvern</entry>
+		<entry>Yrthak</entry>
 		<entry>Sea Hag</entry>
 		<entry>Shambling Mound</entry>
 		<entry>Spirit Naga</entry>
@@ -27245,6 +27311,10 @@
 	</collection>
 	<collection>
 		<name>Half-CelestialLawful Good</name>
+		<entry>Water Naga</entry>
+		<entry>Wood Elf</entry>
+		<entry>Wyvern</entry>
+		<entry>Yrthak</entry>
 		<entry>Scorpionfolk</entry>
 		<entry>Shambling Mound</entry>
 		<entry>Skum</entry>
@@ -27405,6 +27475,26 @@
 	</collection>
 	<collection>
 		<name>Half-CelestialNeutral Good</name>
+		<entry>Phase Spider</entry>
+		<entry>Phasm</entry>
+		<entry>Pixie</entry>
+		<entry>Pixie with Irresistible dance</entry>
+		<entry>Pseudodragon</entry>
+		<entry>Purple Worm</entry>
+		<entry>Razor Boar</entry>
+		<entry>Remorhaz</entry>
+		<entry>Roc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Mimic</entry>
+		<entry>Monitor Lizard</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Nixie</entry>
+		<entry>Nymph</entry>
+		<entry>Orc</entry>
+		<entry>Otyugh</entry>
+		<entry>Owlbear</entry>
+		<entry>Pegasus</entry>
+		<entry>Phantom Fungus</entry>
 		<entry>Human</entry>
 		<entry>Invisible Stalker</entry>
 		<entry>Kraken</entry>
@@ -27607,6 +27697,27 @@
 	</collection>
 	<collection>
 		<name>Half-FiendChaotic Evil</name>
+		<entry>Shambling Mound</entry>
+		<entry>Spirit Naga</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Storm Giant</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Thoqqua</entry>
+		<entry>Troglodyte</entry>
+		<entry>Truly Horrid Umber Hulk</entry>
+		<entry>Umber Hulk</entry>
+		<entry>Orc</entry>
+		<entry>Otyugh</entry>
+		<entry>Pegasus</entry>
+		<entry>Phasm</entry>
+		<entry>Remorhaz</entry>
+		<entry>Roper</entry>
+		<entry>Satyr</entry>
+		<entry>Satyr with pipes</entry>
+		<entry>Scrag</entry>
+		<entry>Troll</entry>
+		<entry>Sea Hag</entry>
 		<entry>Lightfoot Halfling</entry>
 		<entry>Tallfellow Halfling</entry>
 		<entry>Lizardfolk</entry>
@@ -27770,6 +27881,18 @@
 	</collection>
 	<collection>
 		<name>Half-FiendLawful Evil</name>
+		<entry>Wyvern</entry>
+		<entry>Yrthak</entry>
+		<entry>Skum</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Thoqqua</entry>
+		<entry>Water Naga</entry>
+		<entry>Winter Wolf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Worg</entry>
 		<entry>Mind Flayer (Illithid)</entry>
 		<entry>Mountain Dwarf</entry>
 		<entry>Ogre Mage</entry>
@@ -27914,6 +28037,30 @@
 	</collection>
 	<collection>
 		<name>Half-FiendNeutral Evil</name>
+		<entry>Kraken</entry>
+		<entry>Krenshar</entry>
+		<entry>Kuo-toa</entry>
+		<entry>Lamia</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Lizard</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Malenti</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Manticore</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Harpy</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Hill Giant</entry>
+		<entry>Hippogriff</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Invisible Stalker</entry>
+		<entry>Kobold</entry>
 		<entry>Githzerai</entry>
 		<entry>Gnoll</entry>
 		<entry>Goblin</entry>
@@ -31546,6 +31693,12 @@
 	</collection>
 	<collection>
 		<name>LichChaotic Evil</name>
+		<entry>Goblin</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Orc</entry>
+		<entry>Troglodyte</entry>
 		<entry>Aquatic Elf</entry>
 		<entry>High Elf</entry>
 		<entry>Gray Elf</entry>
@@ -31578,6 +31731,12 @@
 	</collection>
 	<collection>
 		<name>LichLawful Evil</name>
+		<entry>Hobgoblin</entry>
+		<entry>Kobold</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Orc</entry>
 		<entry>Deep Dwarf</entry>
 		<entry>Hill Dwarf</entry>
 		<entry>Mountain Dwarf</entry>
@@ -31594,8 +31753,6 @@
 		<entry>Goblin</entry>
 		<entry>Half-Elf</entry>
 		<entry>Half-Orc</entry>
-		<entry>High Elf</entry>
-		<entry>Wild Elf</entry>
 		<entry>Wood Elf</entry>
 		<entry>Human</entry>
 	</collection>
@@ -31607,6 +31764,14 @@
 	</collection>
 	<collection>
 		<name>LichNeutral Evil</name>
+		<entry>Gray Elf</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Kobold</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Orc</entry>
+		<entry>Troglodyte</entry>
 		<entry>Aquatic Elf</entry>
 		<entry>Bugbear</entry>
 		<entry>Deep Dwarf</entry>
@@ -32363,6 +32528,18 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Black Bear (Werebear, Afflicted)Lawful Neutral</name>
+		<entry>Wood Elf</entry>
+		<entry>Kobold</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Svirfneblin</entry>
 		<entry>Deep Dwarf</entry>
 		<entry>Deep Halfling</entry>
 		<entry>Duergar</entry>
@@ -32376,6 +32553,27 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Black Bear (Werebear, Afflicted)Neutral Evil</name>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Goblin</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Kobold</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
 		<entry>Bugbear</entry>
 		<entry>Deep Dwarf</entry>
 		<entry>Deep Halfling</entry>
@@ -32389,9 +32587,56 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Black Bear (Werebear, Afflicted)Neutral Good</name>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Black Bear (Werebear, Afflicted)True Neutral</name>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Orc</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Goblin</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Black Bear (Werebear, Natural)Chaotic Evil</name>
@@ -32499,6 +32744,18 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Black Bear (Werebear, Natural)Lawful Neutral</name>
+		<entry>Wood Elf</entry>
+		<entry>Kobold</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Svirfneblin</entry>
 		<entry>Deep Dwarf</entry>
 		<entry>Deep Halfling</entry>
 		<entry>Duergar</entry>
@@ -32512,6 +32769,27 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Black Bear (Werebear, Natural)Neutral Evil</name>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Goblin</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Kobold</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
 		<entry>Bugbear</entry>
 		<entry>Deep Dwarf</entry>
 		<entry>Deep Halfling</entry>
@@ -32525,9 +32803,56 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Black Bear (Werebear, Natural)Neutral Good</name>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Black Bear (Werebear, Natural)True Neutral</name>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Orc</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Goblin</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Brown Bear (Werebear, Afflicted)Chaotic Evil</name>

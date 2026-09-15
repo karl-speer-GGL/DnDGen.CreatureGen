@@ -23,7 +23,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures
         private Dictionary<string, CreatureDataSelection> creatureData;
         private SpaceReachHelper spaceReachHelper;
 
-        protected override string tableName => TableNameConstants.Collection.Advancements;
+        protected override string TableName => TableNameConstants.Collection.Advancements;
 
         [OneTimeSetUp]
         public void OnetimeSetup()

@@ -8,7 +8,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Abilities
     [TestFixture]
     public class AbilityGroupsTests : CollectionTests
     {
-        protected override string tableName => TableNameConstants.Collection.AbilityGroups;
+        protected override string TableName => TableNameConstants.Collection.AbilityGroups;
 
         [Test]
         public void AbilityGroupsHasAllGroups()

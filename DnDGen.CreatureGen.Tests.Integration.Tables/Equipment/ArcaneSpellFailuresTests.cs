@@ -7,7 +7,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Equipment
     [TestFixture]
     public class ArcaneSpellFailuresTests : AdjustmentsTests
     {
-        protected override string tableName => TableNameConstants.TypeAndAmount.ArcaneSpellFailures;
+        protected override string TableName => TableNameConstants.TypeAndAmount.ArcaneSpellFailures;
 
         [Test]
         public void ArcaneSpellFailuresContainsAllItemNames()

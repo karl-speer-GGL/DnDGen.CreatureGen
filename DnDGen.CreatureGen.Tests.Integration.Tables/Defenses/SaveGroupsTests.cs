@@ -13,7 +13,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Defenses
     [TestFixture]
     public class SaveGroupsTests : CollectionTests
     {
-        protected override string tableName => TableNameConstants.Collection.SaveGroups;
+        protected override string TableName => TableNameConstants.Collection.SaveGroups;
 
         private Dictionary<string, IEnumerable<string>> saveGroups;
         private ICollectionDataSelector<CreatureDataSelection> creatureDataSelector;

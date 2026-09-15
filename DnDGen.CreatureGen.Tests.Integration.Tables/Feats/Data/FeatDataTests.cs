@@ -15,7 +15,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Feats.Data
     [TestFixture]
     public class FeatDataTests : CollectionTests
     {
-        protected override string tableName => TableNameConstants.Collection.FeatData;
+        protected override string TableName => TableNameConstants.Collection.FeatData;
 
         private Dictionary<string, Dictionary<string, int>> requiredAbilities;
         private Dictionary<string, IEnumerable<FeatDataSelection.RequiredFeatDataSelection>> requiredFeats;

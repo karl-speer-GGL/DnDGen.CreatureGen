@@ -20,7 +20,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures
         private Dictionary<string, double> creatureHitDiceQuantities;
         private Dictionary<string, int> hitDies;
 
-        protected override string tableName => TableNameConstants.Collection.CreatureData;
+        protected override string TableName => TableNameConstants.Collection.CreatureData;
 
         [OneTimeSetUp]
         public void OnetimeSetup()

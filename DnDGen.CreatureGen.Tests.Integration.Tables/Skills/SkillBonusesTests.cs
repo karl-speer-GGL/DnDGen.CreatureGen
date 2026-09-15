@@ -11,7 +11,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Skills
     [TestFixture]
     public class SkillBonusesTests : CollectionTests
     {
-        protected override string tableName => TableNameConstants.Collection.SkillBonuses;
+        protected override string TableName => TableNameConstants.Collection.SkillBonuses;
 
         private Dictionary<string, List<string>> skillBonusesData;
 

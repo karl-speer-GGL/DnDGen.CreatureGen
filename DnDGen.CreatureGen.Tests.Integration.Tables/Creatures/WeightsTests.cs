@@ -21,7 +21,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures
         private const int BASE_INDEX = 1;
         private const int MULTIPLIER_INDEX = 0;
 
-        protected override string tableName => TableNameConstants.TypeAndAmount.Weights;
+        protected override string TableName => TableNameConstants.TypeAndAmount.Weights;
 
         private Dictionary<string, Dictionary<string, string>> heights;
         private Dictionary<string, Dictionary<string, string>> lengths;

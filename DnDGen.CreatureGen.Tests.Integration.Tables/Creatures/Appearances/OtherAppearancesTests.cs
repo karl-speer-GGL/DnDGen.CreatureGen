@@ -10,7 +10,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures.Appearances
     [TestFixture]
     internal class OtherAppearancesTests : AppearancesTests
     {
-        protected override string tableName =>
+        protected override string TableName =>
             TableNameConstants.Collection.Appearances(TableNameConstants.Collection.AppearanceCategories.Other);
 
         [Test]

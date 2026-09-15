@@ -13,7 +13,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Magics
     [TestFixture]
     public class CastersTests : TypesAndAmountsTests
     {
-        protected override string tableName => TableNameConstants.TypeAndAmount.Casters;
+        protected override string TableName => TableNameConstants.TypeAndAmount.Casters;
 
         private ICollectionDataSelector<AttackDataSelection> attackDataSelector;
 

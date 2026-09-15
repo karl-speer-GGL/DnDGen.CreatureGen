@@ -7,7 +7,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Defenses
     [TestFixture]
     public class MaxHitDiceTests : AdjustmentsTests
     {
-        protected override string tableName => TableNameConstants.TypeAndAmount.MaxHitDice;
+        protected override string TableName => TableNameConstants.TypeAndAmount.MaxHitDice;
 
         [Test]
         public void MaxHitDiceNames()

@@ -10,7 +10,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures
     [TestFixture]
     internal class GendersTests : CollectionTests
     {
-        protected override string tableName => TableNameConstants.Collection.Genders;
+        protected override string TableName => TableNameConstants.Collection.Genders;
 
         private ICollectionDataSelector<CreatureDataSelection> creatureDataSelector;
 

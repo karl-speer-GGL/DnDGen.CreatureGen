@@ -23,7 +23,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Feats.Data
         private Dictionary<string, List<string>> subtypeSpecialQualityData;
         private Dictionary<string, CreatureDataSelection> creatureDataSelections;
 
-        protected override string tableName => TableNameConstants.Collection.SpecialQualityData;
+        protected override string TableName => TableNameConstants.Collection.SpecialQualityData;
 
         [OneTimeSetUp]
         public void OneTimeSetup()

@@ -11,7 +11,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures
     [TestFixture]
     public class AgeRollsTests : TypesAndAmountsTests
     {
-        protected override string tableName => TableNameConstants.TypeAndAmount.AgeRolls;
+        protected override string TableName => TableNameConstants.TypeAndAmount.AgeRolls;
 
         private Dice dice;
 
