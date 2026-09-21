@@ -46,7 +46,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures.CreatureGroups
                 .Union(ChallengeRatings.SelectMany(cr => templates.Select(t => t + bool.FalseString + cr)))
                 .Union(ChallengeRatings.SelectMany(cr => templates.Select(t => t + bool.TrueString + cr)));
 
-            const int LowestAdjustment = -9;
+            const int LowestAdjustment = -10;
             const int MinimumAbilityScore = 1;
             foreach (var template in templates)
             {

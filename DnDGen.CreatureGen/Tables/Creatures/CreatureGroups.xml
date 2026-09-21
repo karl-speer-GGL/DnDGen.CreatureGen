@@ -35050,6 +35050,7 @@
 		<entry>Lightfoot Halfling</entry>
 		<entry>Tallfellow Halfling</entry>
 		<entry>Deep Halfling</entry>
+		<entry>Svirfneblin</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Rat (Wererat, Afflicted)Lawful Evil</name>
@@ -35071,48 +35072,31 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Rat (Wererat, Afflicted)Neutral Evil</name>
-		<entry>Bugbear</entry>
-		<entry>Deep Dwarf</entry>
-		<entry>Deep Halfling</entry>
-		<entry>Drow</entry>
-		<entry>Duergar</entry>
-		<entry>Githyanki</entry>
-		<entry>Gnoll</entry>
+		<entry>Kobold</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Svirfneblin</entry>
 		<entry>Goblin</entry>
-		<entry>Half-Orc</entry>
-		<entry>Hobgoblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Deep Halfling</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Rat (Wererat, Afflicted)Neutral Good</name>
-		<entry>Aquatic Elf</entry>
-		<entry>Deep Dwarf</entry>
+		<entry>Lightfoot Halfling</entry>
 		<entry>Deep Halfling</entry>
+		<entry>Rock Gnome</entry>
 		<entry>Forest Gnome</entry>
-		<entry>Gray Elf</entry>
-		<entry>Half-Elf</entry>
-		<entry>Half-Orc</entry>
-		<entry>High Elf</entry>
-		<entry>Hill Dwarf</entry>
-		<entry>Human</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Rat (Wererat, Afflicted)True Neutral</name>
-		<entry>Deep Dwarf</entry>
-		<entry>Hill Dwarf</entry>
-		<entry>Mountain Dwarf</entry>
 		<entry>Deep Halfling</entry>
 		<entry>Lightfoot Halfling</entry>
 		<entry>Tallfellow Halfling</entry>
-		<entry>Drow</entry>
-		<entry>Duergar</entry>
 		<entry>Forest Gnome</entry>
 		<entry>Rock Gnome</entry>
 		<entry>Svirfneblin</entry>
-		<entry>Githyanki</entry>
-		<entry>Githzerai</entry>
 		<entry>Goblin</entry>
-		<entry>Half-Elf</entry>
-		<entry>Half-Orc</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Rat (Wererat, Natural)Chaotic Evil</name>
@@ -35128,6 +35112,7 @@
 		<entry>Lightfoot Halfling</entry>
 		<entry>Tallfellow Halfling</entry>
 		<entry>Deep Halfling</entry>
+		<entry>Svirfneblin</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Rat (Wererat, Natural)Lawful Evil</name>
@@ -35149,48 +35134,31 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Rat (Wererat, Natural)Neutral Evil</name>
-		<entry>Bugbear</entry>
-		<entry>Deep Dwarf</entry>
-		<entry>Deep Halfling</entry>
-		<entry>Drow</entry>
-		<entry>Duergar</entry>
-		<entry>Githyanki</entry>
-		<entry>Gnoll</entry>
+		<entry>Kobold</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Svirfneblin</entry>
 		<entry>Goblin</entry>
-		<entry>Half-Orc</entry>
-		<entry>Hobgoblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Deep Halfling</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Rat (Wererat, Natural)Neutral Good</name>
-		<entry>Aquatic Elf</entry>
-		<entry>Deep Dwarf</entry>
+		<entry>Lightfoot Halfling</entry>
 		<entry>Deep Halfling</entry>
+		<entry>Rock Gnome</entry>
 		<entry>Forest Gnome</entry>
-		<entry>Gray Elf</entry>
-		<entry>Half-Elf</entry>
-		<entry>Half-Orc</entry>
-		<entry>High Elf</entry>
-		<entry>Hill Dwarf</entry>
-		<entry>Human</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Rat (Wererat, Natural)True Neutral</name>
-		<entry>Deep Dwarf</entry>
-		<entry>Hill Dwarf</entry>
-		<entry>Mountain Dwarf</entry>
 		<entry>Deep Halfling</entry>
 		<entry>Lightfoot Halfling</entry>
 		<entry>Tallfellow Halfling</entry>
-		<entry>Drow</entry>
-		<entry>Duergar</entry>
 		<entry>Forest Gnome</entry>
 		<entry>Rock Gnome</entry>
 		<entry>Svirfneblin</entry>
-		<entry>Githyanki</entry>
-		<entry>Githzerai</entry>
 		<entry>Goblin</entry>
-		<entry>Half-Elf</entry>
-		<entry>Half-Orc</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Rat (Wererat, Afflicted)Chaotic Evil</name>
@@ -36328,8 +36296,7 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Afflicted)Chaotic Evil</name>
-		<entry>Cloud Giant</entry>
-		<entry>Storm Giant</entry>
+		<entry>Goblin</entry>
 		<entry>Half-Orc</entry>
 		<entry>Hill Giant</entry>
 		<entry>Human</entry>
@@ -36351,8 +36318,8 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Afflicted)Chaotic Good</name>
-		<entry>Cloud Giant</entry>
-		<entry>Storm Giant</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
 		<entry>Mountain Dwarf</entry>
 		<entry>Orc</entry>
 		<entry>Wild Elf</entry>
@@ -36368,7 +36335,10 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Afflicted)Chaotic Neutral</name>
-		<entry>Storm Giant</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Svirfneblin</entry>
 		<entry>Ogre</entry>
 		<entry>Orc</entry>
 		<entry>Scrag</entry>
@@ -36399,7 +36369,8 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Afflicted)Lawful Evil</name>
-		<entry>Cloud Giant</entry>
+		<entry>Goblin</entry>
+		<entry>Kobold</entry>
 		<entry>Hobgoblin</entry>
 		<entry>Human</entry>
 		<entry>Mountain Dwarf</entry>
@@ -36417,8 +36388,8 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Afflicted)Lawful Good</name>
-		<entry>Cloud Giant</entry>
-		<entry>Storm Giant</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
 		<entry>Deep Dwarf</entry>
 		<entry>Duergar</entry>
 		<entry>Fire Giant</entry>
@@ -36429,6 +36400,11 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Afflicted)Lawful Neutral</name>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Kobold</entry>
 		<entry>Wood Elf</entry>
 		<entry>Lizardfolk</entry>
 		<entry>Locathah</entry>
@@ -36449,7 +36425,12 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Afflicted)Neutral Evil</name>
-		<entry>Cloud Giant</entry>
+		<entry>Goblin</entry>
+		<entry>Kobold</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
 		<entry>Wood Elf</entry>
 		<entry>Merrow</entry>
 		<entry>Ogre</entry>
@@ -36479,8 +36460,12 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Afflicted)Neutral Good</name>
-		<entry>Cloud Giant</entry>
-		<entry>Storm Giant</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
 		<entry>Lizardfolk</entry>
 		<entry>Locathah</entry>
 		<entry>Merfolk</entry>
@@ -36500,8 +36485,13 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Afflicted)True Neutral</name>
-		<entry>Cloud Giant</entry>
-		<entry>Storm Giant</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Goblin</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
 		<entry>Wood Elf</entry>
 		<entry>Half-Elf</entry>
 		<entry>Half-Orc</entry>
@@ -36525,8 +36515,7 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Natural)Chaotic Evil</name>
-		<entry>Cloud Giant</entry>
-		<entry>Storm Giant</entry>
+		<entry>Goblin</entry>
 		<entry>Half-Orc</entry>
 		<entry>Hill Giant</entry>
 		<entry>Human</entry>
@@ -36548,8 +36537,8 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Natural)Chaotic Good</name>
-		<entry>Cloud Giant</entry>
-		<entry>Storm Giant</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
 		<entry>Mountain Dwarf</entry>
 		<entry>Orc</entry>
 		<entry>Wild Elf</entry>
@@ -36565,7 +36554,10 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Natural)Chaotic Neutral</name>
-		<entry>Storm Giant</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Svirfneblin</entry>
 		<entry>Ogre</entry>
 		<entry>Orc</entry>
 		<entry>Scrag</entry>
@@ -36596,7 +36588,8 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Natural)Lawful Evil</name>
-		<entry>Cloud Giant</entry>
+		<entry>Goblin</entry>
+		<entry>Kobold</entry>
 		<entry>Hobgoblin</entry>
 		<entry>Human</entry>
 		<entry>Mountain Dwarf</entry>
@@ -36614,8 +36607,8 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Natural)Lawful Good</name>
-		<entry>Cloud Giant</entry>
-		<entry>Storm Giant</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
 		<entry>Deep Dwarf</entry>
 		<entry>Duergar</entry>
 		<entry>Fire Giant</entry>
@@ -36626,6 +36619,11 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Natural)Lawful Neutral</name>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Kobold</entry>
 		<entry>Wood Elf</entry>
 		<entry>Lizardfolk</entry>
 		<entry>Locathah</entry>
@@ -36646,7 +36644,12 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Natural)Neutral Evil</name>
-		<entry>Cloud Giant</entry>
+		<entry>Goblin</entry>
+		<entry>Kobold</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
 		<entry>Wood Elf</entry>
 		<entry>Merrow</entry>
 		<entry>Ogre</entry>
@@ -36676,8 +36679,12 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Natural)Neutral Good</name>
-		<entry>Cloud Giant</entry>
-		<entry>Storm Giant</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
 		<entry>Lizardfolk</entry>
 		<entry>Locathah</entry>
 		<entry>Merfolk</entry>
@@ -36697,8 +36704,13 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Natural)True Neutral</name>
-		<entry>Cloud Giant</entry>
-		<entry>Storm Giant</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Goblin</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
 		<entry>Wood Elf</entry>
 		<entry>Half-Elf</entry>
 		<entry>Half-Orc</entry>
@@ -37113,5 +37125,204 @@
 		<entry>Frost Giant</entry>
 		<entry>Githyanki</entry>
 		<entry>Githzerai</entry>
+	</collection>
+	<collection>
+		<name>NoneChaotic Evil</name>
+		<entry>Annis</entry>
+		<entry>Athach</entry>
+		<entry>Average Salamander</entry>
+		<entry>Babau</entry>
+		<entry>Balor</entry>
+		<entry>Bebilith</entry>
+		<entry>Behir</entry>
+		<entry>Belker</entry>
+		<entry>Black Dragon, Wyrmling</entry>
+		<entry>Black Dragon, Very Young</entry>
+		<entry>Black Dragon, Young</entry>
+		<entry>Black Dragon, Juvenile</entry>
+		<entry>Black Dragon, Young Adult</entry>
+		<entry>Black Dragon, Adult</entry>
+		<entry>Black Dragon, Mature Adult</entry>
+		<entry>Black Dragon, Old</entry>
+		<entry>Black Dragon, Very Old</entry>
+		<entry>Black Dragon, Ancient</entry>
+		<entry>Black Dragon, Wyrm</entry>
+		<entry>Black Dragon, Great Wyrm</entry>
+		<entry>Red Dragon, Wyrmling</entry>
+		<entry>Red Dragon, Very Young</entry>
+		<entry>Red Dragon, Young</entry>
+		<entry>Red Dragon, Juvenile</entry>
+		<entry>Red Dragon, Young Adult</entry>
+		<entry>Red Dragon, Adult</entry>
+		<entry>Red Dragon, Mature Adult</entry>
+		<entry>Red Dragon, Old</entry>
+		<entry>Red Dragon, Very Old</entry>
+		<entry>Red Dragon, Ancient</entry>
+		<entry>Red Dragon, Wyrm</entry>
+		<entry>Red Dragon, Great Wyrm</entry>
+		<entry>White Dragon, Wyrmling</entry>
+		<entry>White Dragon, Very Young</entry>
+		<entry>White Dragon, Young</entry>
+		<entry>White Dragon, Juvenile</entry>
+		<entry>White Dragon, Young Adult</entry>
+		<entry>White Dragon, Adult</entry>
+		<entry>White Dragon, Mature Adult</entry>
+		<entry>White Dragon, Old</entry>
+		<entry>White Dragon, Very Old</entry>
+		<entry>White Dragon, Ancient</entry>
+		<entry>White Dragon, Wyrm</entry>
+		<entry>White Dragon, Great Wyrm</entry>
+	</collection>
+	<collection>
+		<name>NoneChaotic Good</name>
+		<entry>Aasimar</entry>
+		<entry>Androsphinx</entry>
+		<entry>Angel, Astral Deva</entry>
+		<entry>Angel, Planetar</entry>
+		<entry>Angel, Solar</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Athach</entry>
+		<entry>Behir</entry>
+		<entry>Blue Slaad</entry>
+		<entry>Bralani</entry>
+	</collection>
+	<collection>
+		<name>NoneChaotic Neutral</name>
+	</collection>
+	<collection>
+		<name>NoneLawful Evil</name>
+		<entry>Blue Dragon, Wyrmling</entry>
+		<entry>Blue Dragon, Very Young</entry>
+		<entry>Blue Dragon, Young</entry>
+		<entry>Blue Dragon, Juvenile</entry>
+		<entry>Blue Dragon, Young Adult</entry>
+		<entry>Blue Dragon, Adult</entry>
+		<entry>Blue Dragon, Mature Adult</entry>
+		<entry>Blue Dragon, Old</entry>
+		<entry>Blue Dragon, Very Old</entry>
+		<entry>Blue Dragon, Ancient</entry>
+		<entry>Blue Dragon, Wyrm</entry>
+		<entry>Blue Dragon, Great Wyrm</entry>
+		<entry>Green Dragon, Wyrmling</entry>
+		<entry>Green Dragon, Very Young</entry>
+		<entry>Green Dragon, Young</entry>
+		<entry>Green Dragon, Juvenile</entry>
+		<entry>Green Dragon, Young Adult</entry>
+		<entry>Green Dragon, Adult</entry>
+		<entry>Green Dragon, Mature Adult</entry>
+		<entry>Green Dragon, Old</entry>
+		<entry>Green Dragon, Very Old</entry>
+		<entry>Green Dragon, Ancient</entry>
+		<entry>Green Dragon, Wyrm</entry>
+		<entry>Green Dragon, Great Wyrm</entry>
+	</collection>
+	<collection>
+		<name>NoneLawful Good</name>
+		<entry>Gold Dragon, Wyrmling</entry>
+		<entry>Gold Dragon, Very Young</entry>
+		<entry>Gold Dragon, Young</entry>
+		<entry>Gold Dragon, Juvenile</entry>
+		<entry>Gold Dragon, Young Adult</entry>
+		<entry>Gold Dragon, Adult</entry>
+		<entry>Gold Dragon, Mature Adult</entry>
+		<entry>Gold Dragon, Old</entry>
+		<entry>Gold Dragon, Very Old</entry>
+		<entry>Gold Dragon, Ancient</entry>
+		<entry>Gold Dragon, Wyrm</entry>
+		<entry>Gold Dragon, Great Wyrm</entry>
+	</collection>
+	<collection>
+		<name>NoneLawful Neutral</name>
+	</collection>
+	<collection>
+		<name>NoneNeutral Evil</name>
+	</collection>
+	<collection>
+		<name>NoneNeutral Good</name>
+	</collection>
+	<collection>
+		<name>NoneTrue Neutral</name>
+		<entry>Camel, Bactrian (Two-Humped)</entry>
+		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Deinonychus</entry>
+		<entry>Dire Boar</entry>
+		<entry>Dire Shark</entry>
+		<entry>Elasmosaurus</entry>
+		<entry>Megaraptor</entry>
+		<entry>Monkey</entry>
+		<entry>Roc</entry>
+		<entry>Triceratops</entry>
+		<entry>Tyrannosaurus</entry>
+		<entry>Ape</entry>
+		<entry>Dire Ape</entry>
+		<entry>Baboon</entry>
+		<entry>Badger</entry>
+		<entry>Dire Badger</entry>
+		<entry>Baleen Whale</entry>
+		<entry>Cachalot Whale</entry>
+		<entry>Orca Whale</entry>
+		<entry>Bat</entry>
+		<entry>Dire Bat</entry>
+		<entry>Bat Swarm</entry>
+		<entry>Bison</entry>
+		<entry>Black Bear</entry>
+		<entry>Boar</entry>
+		<entry>Brown Bear</entry>
+		<entry>Dire Bear</entry>
+		<entry>Polar Bear</entry>
+		<entry>Lion</entry>
+		<entry>Dire Lion</entry>
+		<entry>Tiger</entry>
+		<entry>Dire Tiger</entry>
+		<entry>Wolf</entry>
+		<entry>Dire Wolf</entry>
+		<entry>Wolverine</entry>
+		<entry>Dire Wolverine</entry>
+		<entry>Weasel</entry>
+		<entry>Dire Weasel</entry>
+		<entry>Octopus</entry>
+		<entry>Giant Octopus</entry>
+		<entry>Squid</entry>
+		<entry>Giant Squid</entry>
+		<entry>Hawk</entry>
+		<entry>Eagle</entry>
+		<entry>Owl</entry>
+		<entry>Rat</entry>
+		<entry>Dire Rat</entry>
+		<entry>Rat Swarm</entry>
+		<entry>Lizard</entry>
+		<entry>Monitor Lizard</entry>
+		<entry>Light Horse</entry>
+		<entry>Light Warhorse</entry>
+		<entry>Heavy Horse</entry>
+		<entry>Heavy Warhorse</entry>
+		<entry>Pony</entry>
+		<entry>Warpony</entry>
+		<entry>Dog</entry>
+		<entry>Dog, Riding</entry>
+		<entry>Cat</entry>
+		<entry>Donkey</entry>
+		<entry>Mule</entry>
+		<entry>Rhinoceras</entry>
+		<entry>Cheetah</entry>
+		<entry>Leopard</entry>
+		<entry>Crocodile</entry>
+		<entry>Giant Crocodile</entry>
+		<entry>Elephant</entry>
+		<entry>Hyena</entry>
+		<entry>Raven</entry>
+		<entry>Toad</entry>
+		<entry>Constrictor Snake</entry>
+		<entry>Giant Constrictor Snake</entry>
+		<entry>Viper Snake, Huge</entry>
+		<entry>Viper Snake, Large</entry>
+		<entry>Viper Snake, Medium</entry>
+		<entry>Viper Snake, Small</entry>
+		<entry>Viper Snake, Tiny</entry>
+		<entry>Manta Ray</entry>
+		<entry>Porpoise</entry>
+		<entry>Shark, Medium</entry>
+		<entry>Shark, Large</entry>
+		<entry>Shark, Huge</entry>
 	</collection>
 </collections>
