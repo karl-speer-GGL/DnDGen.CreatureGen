@@ -35038,6 +35038,163 @@
 	</collection>
 	<collection>
 		<name>Lycanthrope, Rat (Wererat, Afflicted)Chaotic Evil</name>
+		<entry>Goblin</entry>
+	</collection>
+	<collection>
+		<name>Lycanthrope, Rat (Wererat, Afflicted)Chaotic Good</name>
+		<entry>Rock Gnome</entry>
+		<entry>Forest Gnome</entry>
+	</collection>
+	<collection>
+		<name>Lycanthrope, Rat (Wererat, Afflicted)Chaotic Neutral</name>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Deep Halfling</entry>
+	</collection>
+	<collection>
+		<name>Lycanthrope, Rat (Wererat, Afflicted)Lawful Evil</name>
+		<entry>Goblin</entry>
+		<entry>Kobold</entry>
+	</collection>
+	<collection>
+		<name>Lycanthrope, Rat (Wererat, Afflicted)Lawful Good</name>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+	</collection>
+	<collection>
+		<name>Lycanthrope, Rat (Wererat, Afflicted)Lawful Neutral</name>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Kobold</entry>
+		<entry>Svirfneblin</entry>
+	</collection>
+	<collection>
+		<name>Lycanthrope, Rat (Wererat, Afflicted)Neutral Evil</name>
+		<entry>Bugbear</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Githyanki</entry>
+		<entry>Gnoll</entry>
+		<entry>Goblin</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hobgoblin</entry>
+	</collection>
+	<collection>
+		<name>Lycanthrope, Rat (Wererat, Afflicted)Neutral Good</name>
+		<entry>Aquatic Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Human</entry>
+	</collection>
+	<collection>
+		<name>Lycanthrope, Rat (Wererat, Afflicted)True Neutral</name>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Goblin</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+	</collection>
+	<collection>
+		<name>Lycanthrope, Rat (Wererat, Natural)Chaotic Evil</name>
+		<entry>Goblin</entry>
+	</collection>
+	<collection>
+		<name>Lycanthrope, Rat (Wererat, Natural)Chaotic Good</name>
+		<entry>Rock Gnome</entry>
+		<entry>Forest Gnome</entry>
+	</collection>
+	<collection>
+		<name>Lycanthrope, Rat (Wererat, Natural)Chaotic Neutral</name>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Deep Halfling</entry>
+	</collection>
+	<collection>
+		<name>Lycanthrope, Rat (Wererat, Natural)Lawful Evil</name>
+		<entry>Goblin</entry>
+		<entry>Kobold</entry>
+	</collection>
+	<collection>
+		<name>Lycanthrope, Rat (Wererat, Natural)Lawful Good</name>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+	</collection>
+	<collection>
+		<name>Lycanthrope, Rat (Wererat, Natural)Lawful Neutral</name>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Kobold</entry>
+		<entry>Svirfneblin</entry>
+	</collection>
+	<collection>
+		<name>Lycanthrope, Rat (Wererat, Natural)Neutral Evil</name>
+		<entry>Bugbear</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Githyanki</entry>
+		<entry>Gnoll</entry>
+		<entry>Goblin</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hobgoblin</entry>
+	</collection>
+	<collection>
+		<name>Lycanthrope, Rat (Wererat, Natural)Neutral Good</name>
+		<entry>Aquatic Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Human</entry>
+	</collection>
+	<collection>
+		<name>Lycanthrope, Rat (Wererat, Natural)True Neutral</name>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Goblin</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+	</collection>
+	<collection>
+		<name>Lycanthrope, Dire Rat (Wererat, Afflicted)Chaotic Evil</name>
+		<entry>Troglodyte</entry>
 		<entry>Bugbear</entry>
 		<entry>Drow</entry>
 		<entry>Duergar</entry>
@@ -35050,7 +35207,9 @@
 		<entry>Orc</entry>
 	</collection>
 	<collection>
-		<name>Lycanthrope, Rat (Wererat, Afflicted)Chaotic Good</name>
+		<name>Lycanthrope, Dire Rat (Wererat, Afflicted)Chaotic Good</name>
+		<entry>Rock Gnome</entry>
+		<entry>Wild Elf</entry>
 		<entry>Aquatic Elf</entry>
 		<entry>Forest Gnome</entry>
 		<entry>Gray Elf</entry>
@@ -35063,7 +35222,19 @@
 		<entry>Orc</entry>
 	</collection>
 	<collection>
-		<name>Lycanthrope, Rat (Wererat, Afflicted)Chaotic Neutral</name>
+		<name>Lycanthrope, Dire Rat (Wererat, Afflicted)Chaotic Neutral</name>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>High Elf</entry>
+		<entry>Human</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Orc</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
 		<entry>Aquatic Elf</entry>
 		<entry>Bugbear</entry>
 		<entry>Deep Dwarf</entry>
@@ -35076,7 +35247,7 @@
 		<entry>Half-Orc</entry>
 	</collection>
 	<collection>
-		<name>Lycanthrope, Rat (Wererat, Afflicted)Lawful Evil</name>
+		<name>Lycanthrope, Dire Rat (Wererat, Afflicted)Lawful Evil</name>
 		<entry>Deep Dwarf</entry>
 		<entry>Drow</entry>
 		<entry>Duergar</entry>
@@ -35084,27 +35255,119 @@
 		<entry>Goblin</entry>
 		<entry>Half-Orc</entry>
 		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Kobold</entry>
+		<entry>Orc</entry>
+	</collection>
+	<collection>
+		<name>Lycanthrope, Dire Rat (Wererat, Afflicted)Lawful Good</name>
+		<entry>Deep Dwarf</entry>
+		<entry>Duergar</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Half-Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Human</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Rock Gnome</entry>
+	</collection>
+	<collection>
+		<name>Lycanthrope, Dire Rat (Wererat, Afflicted)Lawful Neutral</name>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Wood Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Duergar</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
 		<entry>Hobgoblin</entry>
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 	</collection>
 	<collection>
-		<name>Lycanthrope, Rat (Wererat, Afflicted)Lawful Good</name>
+		<name>Lycanthrope, Dire Rat (Wererat, Afflicted)Neutral Evil</name>
+		<entry>Wood Elf</entry>
+		<entry>Human</entry>
+		<entry>Kobold</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Orc</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Bugbear</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Githyanki</entry>
+		<entry>Gnoll</entry>
+		<entry>Goblin</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hobgoblin</entry>
 	</collection>
 	<collection>
-		<name>Lycanthrope, Rat (Wererat, Afflicted)Lawful Neutral</name>
+		<name>Lycanthrope, Dire Rat (Wererat, Afflicted)Neutral Good</name>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
-		<name>Lycanthrope, Rat (Wererat, Afflicted)Neutral Evil</name>
+		<name>Lycanthrope, Dire Rat (Wererat, Afflicted)True Neutral</name>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Orc</entry>
+		<entry>Wood Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Goblin</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
 	</collection>
 	<collection>
-		<name>Lycanthrope, Rat (Wererat, Afflicted)Neutral Good</name>
-	</collection>
-	<collection>
-		<name>Lycanthrope, Rat (Wererat, Afflicted)True Neutral</name>
-	</collection>
-	<collection>
-		<name>Lycanthrope, Rat (Wererat, Natural)Chaotic Evil</name>
+		<name>Lycanthrope, Dire Rat (Wererat, Natural)Chaotic Evil</name>
+		<entry>Troglodyte</entry>
 		<entry>Bugbear</entry>
 		<entry>Drow</entry>
 		<entry>Duergar</entry>
@@ -35117,297 +35380,1738 @@
 		<entry>Orc</entry>
 	</collection>
 	<collection>
-		<name>Lycanthrope, Rat (Wererat, Natural)Chaotic Good</name>
-	</collection>
-	<collection>
-		<name>Lycanthrope, Rat (Wererat, Natural)Chaotic Neutral</name>
-	</collection>
-	<collection>
-		<name>Lycanthrope, Rat (Wererat, Natural)Lawful Evil</name>
-	</collection>
-	<collection>
-		<name>Lycanthrope, Rat (Wererat, Natural)Lawful Good</name>
-	</collection>
-	<collection>
-		<name>Lycanthrope, Rat (Wererat, Natural)Lawful Neutral</name>
-	</collection>
-	<collection>
-		<name>Lycanthrope, Rat (Wererat, Natural)Neutral Evil</name>
-	</collection>
-	<collection>
-		<name>Lycanthrope, Rat (Wererat, Natural)Neutral Good</name>
-	</collection>
-	<collection>
-		<name>Lycanthrope, Rat (Wererat, Natural)True Neutral</name>
-	</collection>
-	<collection>
-		<name>Lycanthrope, Dire Rat (Wererat, Afflicted)Chaotic Evil</name>
-	</collection>
-	<collection>
-		<name>Lycanthrope, Dire Rat (Wererat, Afflicted)Chaotic Good</name>
-	</collection>
-	<collection>
-		<name>Lycanthrope, Dire Rat (Wererat, Afflicted)Chaotic Neutral</name>
-	</collection>
-	<collection>
-		<name>Lycanthrope, Dire Rat (Wererat, Afflicted)Lawful Evil</name>
-	</collection>
-	<collection>
-		<name>Lycanthrope, Dire Rat (Wererat, Afflicted)Lawful Good</name>
-	</collection>
-	<collection>
-		<name>Lycanthrope, Dire Rat (Wererat, Afflicted)Lawful Neutral</name>
-	</collection>
-	<collection>
-		<name>Lycanthrope, Dire Rat (Wererat, Afflicted)Neutral Evil</name>
-	</collection>
-	<collection>
-		<name>Lycanthrope, Dire Rat (Wererat, Afflicted)Neutral Good</name>
-	</collection>
-	<collection>
-		<name>Lycanthrope, Dire Rat (Wererat, Afflicted)True Neutral</name>
-	</collection>
-	<collection>
-		<name>Lycanthrope, Dire Rat (Wererat, Natural)Chaotic Evil</name>
-	</collection>
-	<collection>
 		<name>Lycanthrope, Dire Rat (Wererat, Natural)Chaotic Good</name>
+		<entry>Rock Gnome</entry>
+		<entry>Wild Elf</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Human</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Rat (Wererat, Natural)Chaotic Neutral</name>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>High Elf</entry>
+		<entry>Human</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Orc</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Bugbear</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Gnoll</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Rat (Wererat, Natural)Lawful Evil</name>
+		<entry>Deep Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Githyanki</entry>
+		<entry>Goblin</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Kobold</entry>
+		<entry>Orc</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Rat (Wererat, Natural)Lawful Good</name>
+		<entry>Deep Dwarf</entry>
+		<entry>Duergar</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Half-Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Human</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Rock Gnome</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Rat (Wererat, Natural)Lawful Neutral</name>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Wood Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Duergar</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Kobold</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Rat (Wererat, Natural)Neutral Evil</name>
+		<entry>Wood Elf</entry>
+		<entry>Human</entry>
+		<entry>Kobold</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Orc</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Bugbear</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Githyanki</entry>
+		<entry>Gnoll</entry>
+		<entry>Goblin</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hobgoblin</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Rat (Wererat, Natural)Neutral Good</name>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Rat (Wererat, Natural)True Neutral</name>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Orc</entry>
+		<entry>Wood Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Goblin</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Tiger (Weretiger, Afflicted)Chaotic Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Bugbear</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Ettin</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Gnoll</entry>
+		<entry>Half-Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Tiger (Weretiger, Afflicted)Chaotic Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Wild Elf</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Frost Giant</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Tiger (Weretiger, Afflicted)Chaotic Neutral</name>
+		<entry>Storm Giant</entry>
+		<entry>Ogre</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Bugbear</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Ettin</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Gnoll</entry>
+		<entry>Gray Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Tiger (Weretiger, Afflicted)Lawful Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hill Giant</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Tiger (Weretiger, Afflicted)Lawful Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Half-Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Human</entry>
+		<entry>Mountain Dwarf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Tiger (Weretiger, Afflicted)Lawful Neutral</name>
+		<entry>Wood Elf</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Tiger (Weretiger, Afflicted)Neutral Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Wood Elf</entry>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Bugbear</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Ettin</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Gnoll</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Tiger (Weretiger, Afflicted)Neutral Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Tiger (Weretiger, Afflicted)True Neutral</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Orc</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Tiger (Weretiger, Natural)Chaotic Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Bugbear</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Ettin</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Gnoll</entry>
+		<entry>Half-Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Tiger (Weretiger, Natural)Chaotic Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Wild Elf</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Frost Giant</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Tiger (Weretiger, Natural)Chaotic Neutral</name>
+		<entry>Storm Giant</entry>
+		<entry>Ogre</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Bugbear</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Ettin</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Gnoll</entry>
+		<entry>Gray Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Tiger (Weretiger, Natural)Lawful Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hill Giant</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Tiger (Weretiger, Natural)Lawful Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Half-Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Human</entry>
+		<entry>Mountain Dwarf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Tiger (Weretiger, Natural)Lawful Neutral</name>
+		<entry>Wood Elf</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Tiger (Weretiger, Natural)Neutral Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Wood Elf</entry>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Bugbear</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Ettin</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Gnoll</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Tiger (Weretiger, Natural)Neutral Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Tiger (Weretiger, Natural)True Neutral</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Orc</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Tiger (Dire Weretiger, Afflicted)Chaotic Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Bugbear</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Ettin</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Gnoll</entry>
+		<entry>Half-Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Tiger (Dire Weretiger, Afflicted)Chaotic Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Wild Elf</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Frost Giant</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Tiger (Dire Weretiger, Afflicted)Chaotic Neutral</name>
+		<entry>Storm Giant</entry>
+		<entry>Ogre</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Bugbear</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Ettin</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Gnoll</entry>
+		<entry>Gray Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Tiger (Dire Weretiger, Afflicted)Lawful Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hill Giant</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Tiger (Dire Weretiger, Afflicted)Lawful Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Half-Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Human</entry>
+		<entry>Mountain Dwarf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Tiger (Dire Weretiger, Afflicted)Lawful Neutral</name>
+		<entry>Wood Elf</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Tiger (Dire Weretiger, Afflicted)Neutral Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Wood Elf</entry>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Bugbear</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Ettin</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Gnoll</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Tiger (Dire Weretiger, Afflicted)Neutral Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Tiger (Dire Weretiger, Afflicted)True Neutral</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Orc</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Tiger (Dire Weretiger, Natural)Chaotic Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Bugbear</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Ettin</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Gnoll</entry>
+		<entry>Half-Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Tiger (Dire Weretiger, Natural)Chaotic Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Wild Elf</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Frost Giant</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Tiger (Dire Weretiger, Natural)Chaotic Neutral</name>
+		<entry>Storm Giant</entry>
+		<entry>Ogre</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Bugbear</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Ettin</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Gnoll</entry>
+		<entry>Gray Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Tiger (Dire Weretiger, Natural)Lawful Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hill Giant</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Tiger (Dire Weretiger, Natural)Lawful Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Half-Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Human</entry>
+		<entry>Mountain Dwarf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Tiger (Dire Weretiger, Natural)Lawful Neutral</name>
+		<entry>Wood Elf</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Tiger (Dire Weretiger, Natural)Neutral Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Wood Elf</entry>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Bugbear</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Ettin</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Gnoll</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Tiger (Dire Weretiger, Natural)Neutral Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Tiger (Dire Weretiger, Natural)True Neutral</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Orc</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Afflicted)Chaotic Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Bugbear</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Ettin</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Gnoll</entry>
+		<entry>Half-Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Afflicted)Chaotic Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Wild Elf</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Frost Giant</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Afflicted)Chaotic Neutral</name>
+		<entry>Storm Giant</entry>
+		<entry>Ogre</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Bugbear</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Ettin</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Gnoll</entry>
+		<entry>Gray Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Afflicted)Lawful Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hill Giant</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Afflicted)Lawful Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Half-Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Human</entry>
+		<entry>Mountain Dwarf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Afflicted)Lawful Neutral</name>
+		<entry>Wood Elf</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Afflicted)Neutral Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Wood Elf</entry>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Bugbear</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Ettin</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Gnoll</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Afflicted)Neutral Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Afflicted)True Neutral</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Orc</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Natural)Chaotic Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Bugbear</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Ettin</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Gnoll</entry>
+		<entry>Half-Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Natural)Chaotic Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Wild Elf</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Frost Giant</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Natural)Chaotic Neutral</name>
+		<entry>Storm Giant</entry>
+		<entry>Ogre</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Bugbear</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Ettin</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Gnoll</entry>
+		<entry>Gray Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Natural)Lawful Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hill Giant</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Natural)Lawful Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Half-Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Human</entry>
+		<entry>Mountain Dwarf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Natural)Lawful Neutral</name>
+		<entry>Wood Elf</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Natural)Neutral Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Wood Elf</entry>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Bugbear</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Ettin</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Gnoll</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Natural)Neutral Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Natural)True Neutral</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Orc</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Wolf (Dire Werewolf, Afflicted)Chaotic Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Bugbear</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Ettin</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Gnoll</entry>
+		<entry>Half-Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Wolf (Dire Werewolf, Afflicted)Chaotic Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Wild Elf</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Frost Giant</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Wolf (Dire Werewolf, Afflicted)Chaotic Neutral</name>
+		<entry>Storm Giant</entry>
+		<entry>Ogre</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Bugbear</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Ettin</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Gnoll</entry>
+		<entry>Gray Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Wolf (Dire Werewolf, Afflicted)Lawful Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hill Giant</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Wolf (Dire Werewolf, Afflicted)Lawful Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Half-Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Human</entry>
+		<entry>Mountain Dwarf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Wolf (Dire Werewolf, Afflicted)Lawful Neutral</name>
+		<entry>Wood Elf</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Wolf (Dire Werewolf, Afflicted)Neutral Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Wood Elf</entry>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Bugbear</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Ettin</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Gnoll</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Wolf (Dire Werewolf, Afflicted)Neutral Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Wolf (Dire Werewolf, Afflicted)True Neutral</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Orc</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Wolf (Dire Werewolf, Natural)Chaotic Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Bugbear</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Ettin</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Gnoll</entry>
+		<entry>Half-Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Wolf (Dire Werewolf, Natural)Chaotic Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Wild Elf</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Frost Giant</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Wolf (Dire Werewolf, Natural)Chaotic Neutral</name>
+		<entry>Storm Giant</entry>
+		<entry>Ogre</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Bugbear</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Ettin</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Gnoll</entry>
+		<entry>Gray Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Wolf (Dire Werewolf, Natural)Lawful Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hill Giant</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Wolf (Dire Werewolf, Natural)Lawful Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Half-Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Human</entry>
+		<entry>Mountain Dwarf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Wolf (Dire Werewolf, Natural)Lawful Neutral</name>
+		<entry>Wood Elf</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Wolf (Dire Werewolf, Natural)Neutral Evil</name>
+		<entry>Cloud Giant</entry>
+		<entry>Wood Elf</entry>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Bugbear</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Ettin</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Gnoll</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Wolf (Dire Werewolf, Natural)Neutral Good</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Gray Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Human</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Wolf (Dire Werewolf, Natural)True Neutral</name>
+		<entry>Cloud Giant</entry>
+		<entry>Storm Giant</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Orc</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
 	</collection>
 </collections>
