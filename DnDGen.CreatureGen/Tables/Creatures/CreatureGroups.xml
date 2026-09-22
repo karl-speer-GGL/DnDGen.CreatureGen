@@ -32297,6 +32297,20 @@
 	</collection>
 	<collection>
 		<name>VampireChaotic Evil</name>
+		<entry>Annis</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Bugbear</entry>
+		<entry>Centaur</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Derro</entry>
+		<entry>Derro (Sane)</entry>
+		<entry>Doppelganger</entry>
+		<entry>Drow</entry>
 	</collection>
 	<collection>
 		<name>VampireChaotic Good</name>
@@ -32306,6 +32320,22 @@
 	</collection>
 	<collection>
 		<name>VampireLawful Evil</name>
+		<entry>Centaur</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Doppelganger</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Goblin</entry>
 	</collection>
 	<collection>
 		<name>VampireLawful Good</name>
@@ -32315,6 +32345,20 @@
 	</collection>
 	<collection>
 		<name>VampireNeutral Evil</name>
+		<entry>Annis</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Bugbear</entry>
+		<entry>Centaur</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Derro</entry>
+		<entry>Derro (Sane)</entry>
+		<entry>Doppelganger</entry>
+		<entry>Drow</entry>
 	</collection>
 	<collection>
 		<name>VampireNeutral Good</name>
@@ -37188,6 +37232,16 @@
 	</collection>
 	<collection>
 		<name>NoneChaotic Neutral</name>
+		<entry>Air Elemental, Elder</entry>
+		<entry>Air Elemental, Greater</entry>
+		<entry>Air Elemental, Huge</entry>
+		<entry>Air Elemental, Large</entry>
+		<entry>Air Elemental, Medium</entry>
+		<entry>Air Elemental, Small</entry>
+		<entry>Aasimar</entry>
+		<entry>Air Mephit</entry>
+		<entry>Annis</entry>
+		<entry>Aquatic Elf</entry>
 	</collection>
 	<collection>
 		<name>NoneLawful Evil</name>
@@ -37215,6 +37269,20 @@
 		<entry>Green Dragon, Ancient</entry>
 		<entry>Green Dragon, Wyrm</entry>
 		<entry>Green Dragon, Great Wyrm</entry>
+		<entry>Aboleth</entry>
+		<entry>Achaierai</entry>
+		<entry>Athach</entry>
+		<entry>Flamebrother Salamander</entry>
+		<entry>Average Salamander</entry>
+		<entry>Noble Salamander</entry>
+		<entry>Barbed Devil (Hamatula)</entry>
+		<entry>Barghest</entry>
+		<entry>Greater Barghest</entry>
+		<entry>Bearded Devil (Barbazu)</entry>
+		<entry>Behir</entry>
+		<entry>Beholder</entry>
+		<entry>Gauth (Lesser Beholder)</entry>
+		<entry>Belker</entry>
 	</collection>
 	<collection>
 		<name>NoneLawful Good</name>
@@ -37230,18 +37298,81 @@
 		<entry>Gold Dragon, Ancient</entry>
 		<entry>Gold Dragon, Wyrm</entry>
 		<entry>Gold Dragon, Great Wyrm</entry>
+		<entry>Bronze Dragon, Wyrmling</entry>
+		<entry>Bronze Dragon, Very Young</entry>
+		<entry>Bronze Dragon, Young</entry>
+		<entry>Bronze Dragon, Juvenile</entry>
+		<entry>Bronze Dragon, Young Adult</entry>
+		<entry>Bronze Dragon, Adult</entry>
+		<entry>Bronze Dragon, Mature Adult</entry>
+		<entry>Bronze Dragon, Old</entry>
+		<entry>Bronze Dragon, Very Old</entry>
+		<entry>Bronze Dragon, Ancient</entry>
+		<entry>Bronze Dragon, Wyrm</entry>
+		<entry>Bronze Dragon, Great Wyrm</entry>
+		<entry>Aasimar</entry>
+		<entry>Angel, Astral Deva</entry>
+		<entry>Angel, Planetar</entry>
+		<entry>Angel, Solar</entry>
+		<entry>Behir</entry>
+		<entry>Blink Dog</entry>
 	</collection>
 	<collection>
 		<name>NoneLawful Neutral</name>
+		<entry>Air Elemental, Elder</entry>
+		<entry>Air Elemental, Greater</entry>
+		<entry>Air Elemental, Huge</entry>
+		<entry>Air Elemental, Large</entry>
+		<entry>Air Elemental, Medium</entry>
+		<entry>Air Elemental, Small</entry>
+		<entry>Aasimar</entry>
+		<entry>Aboleth</entry>
+		<entry>Aranea</entry>
+		<entry>Air Mephit</entry>
 	</collection>
 	<collection>
 		<name>NoneNeutral Evil</name>
+		<entry>Aboleth</entry>
+		<entry>Air Elemental, Elder</entry>
+		<entry>Air Elemental, Greater</entry>
+		<entry>Air Elemental, Huge</entry>
+		<entry>Air Elemental, Large</entry>
+		<entry>Air Elemental, Medium</entry>
+		<entry>Air Elemental, Small</entry>
+		<entry>Air Mephit</entry>
+		<entry>Allip</entry>
+		<entry>Annis</entry>
 	</collection>
 	<collection>
 		<name>NoneNeutral Good</name>
+		<entry>Air Elemental, Elder</entry>
+		<entry>Air Elemental, Greater</entry>
+		<entry>Air Elemental, Huge</entry>
+		<entry>Air Elemental, Large</entry>
+		<entry>Air Elemental, Medium</entry>
+		<entry>Air Elemental, Small</entry>
+		<entry>Aasimar</entry>
+		<entry>Air Mephit</entry>
+		<entry>Angel, Astral Deva</entry>
+		<entry>Angel, Planetar</entry>
+		<entry>Angel, Solar</entry>
 	</collection>
 	<collection>
 		<name>NoneTrue Neutral</name>
+		<entry>Aasimar</entry>
+		<entry>Juvenile Arrowhawk</entry>
+		<entry>Adult Arrowhawk</entry>
+		<entry>Elder Arrowhawk</entry>
+		<entry>Juvenile Tojanida</entry>
+		<entry>Adult Tojanida</entry>
+		<entry>Elder Tojanida</entry>
+		<entry>Air Elemental, Elder</entry>
+		<entry>Air Elemental, Greater</entry>
+		<entry>Air Elemental, Huge</entry>
+		<entry>Air Elemental, Large</entry>
+		<entry>Air Elemental, Medium</entry>
+		<entry>Air Elemental, Small</entry>
+		<entry>Air Mephit</entry>
 		<entry>Camel, Bactrian (Two-Humped)</entry>
 		<entry>Camel, Dromedary (One-Humped)</entry>
 		<entry>Deinonychus</entry>
