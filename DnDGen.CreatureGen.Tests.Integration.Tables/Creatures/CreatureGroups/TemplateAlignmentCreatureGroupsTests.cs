@@ -2,6 +2,7 @@
 using DnDGen.CreatureGen.Templates;
 using NUnit.Framework;
 using System.Collections;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures.CreatureGroups
@@ -10,9 +11,15 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures.CreatureGroups
     public class TemplateAlignmentCreatureGroupsTests : CreatureGroupsTestBase
     {
         [Test]
-        public void CreatureGroupNames() => AssertCreatureGroupNames();
+        public void CreatureAllGroupNames() => AssertAllCreatureGroupNames();
 
-        private static IEnumerable TemplatesWithAlignmentFilter
+        [Test]
+        public void TemplateAlignmentCreatureGroupNames()
+        {
+            AssertSubsetCreatureGroupNames(TemplateAlignmentPairs.Select(p => p[0] + p[1]));
+        }
+
+        private static IEnumerable<string[]> TemplateAlignmentPairs
         {
             get
             {
@@ -20,9 +27,11 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures.CreatureGroups
 
                 foreach (var template in templates)
                     foreach (var alignment in Alignments)
-                        yield return new TestCaseData(template, alignment);
+                        yield return [template, alignment];
             }
         }
+
+        private static IEnumerable TemplatesWithAlignmentFilter => TemplateAlignmentPairs.Select(p => new TestCaseData(p[0], p[1]));
 
         [TestCaseSource(nameof(TemplatesWithAlignmentFilter))]
         public void CreatureGroup_Template_ResultsInAlignment(string template, string alignment)

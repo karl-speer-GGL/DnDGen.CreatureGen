@@ -25,7 +25,13 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures.CreatureGroups
             prototypeFactory = GetNewInstanceOf<ICreaturePrototypeFactory>();
         }
 
-        protected void AssertCreatureGroupNames()
+        protected void AssertAllCreatureGroupNames()
+        {
+            var names = GetAllExpectedGroupNames();
+            AssertCollectionNames(names);
+        }
+
+        private IEnumerable<string> GetAllExpectedGroupNames()
         {
             var templates = CreatureConstants.Templates.GetAll();
             var types = CreatureConstants.Types.GetAll();
@@ -59,7 +65,13 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures.CreatureGroups
                 names = names.Union(adjustments.Select(adj => applicator.MinimumAbility.Name + adj));
             }
 
-            AssertCollectionNames(names);
+            return names;
+        }
+
+        protected void AssertSubsetCreatureGroupNames(IEnumerable<string> subset)
+        {
+            Assert.That(subset, Is.SubsetOf(GetAllExpectedGroupNames()));
+            Assert.That(subset, Is.SubsetOf(table.Keys));
         }
 
         protected static string[] Alignments =>
@@ -108,7 +120,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures.CreatureGroups
             return prototypes.Concat(characters);
         }
 
-        protected static IEnumerable TemplatesWithChallengeRatingFilter
+        protected static IEnumerable<string[]> TemplateChallengeRatingPairs
         {
             get
             {
@@ -116,8 +128,10 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures.CreatureGroups
 
                 foreach (var template in templates)
                     foreach (var cr in ChallengeRatings)
-                        yield return new TestCaseData(template, cr);
+                        yield return [template, cr];
             }
         }
+
+        protected static IEnumerable TemplatesWithChallengeRatingFilter => TemplateChallengeRatingPairs.Select(p => new TestCaseData(p[0], p[1]));
     }
 }

@@ -9,7 +9,14 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures.CreatureGroups
     public class TemplateCreatureGroupsTests : CreatureGroupsTestBase
     {
         [Test]
-        public void CreatureGroupNames() => AssertCreatureGroupNames();
+        public void CreatureAllGroupNames() => AssertAllCreatureGroupNames();
+
+        [Test]
+        public void TemplateCreatureGroupNames()
+        {
+            AssertSubsetCreatureGroupNames(CreatureConstants.Templates.GetAll().Select(t => t + bool.FalseString));
+            AssertSubsetCreatureGroupNames(CreatureConstants.Templates.GetAll().Select(t => t + bool.TrueString));
+        }
 
         [TestCaseSource(typeof(CreatureTestData), nameof(CreatureTestData.Templates))]
         public void CreatureGroup_Template(string template)

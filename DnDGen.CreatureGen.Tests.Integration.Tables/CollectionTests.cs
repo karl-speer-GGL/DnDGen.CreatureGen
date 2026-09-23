@@ -34,7 +34,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables
             return table[name];
         }
 
-        protected void AssertUniqueCollection(IEnumerable<string> collection, string message)
+        protected static void AssertUniqueCollection(IEnumerable<string> collection, string message)
         {
             Assert.That(collection, Is.Unique, message);
         }
@@ -45,7 +45,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables
             AssertCollection(table[name], collection, name);
         }
 
-        private void AssertCollection(IEnumerable<string> source, IEnumerable<string> expected, string message = "")
+        private static void AssertCollection(IEnumerable<string> source, IEnumerable<string> expected, string message = "")
         {
             Assert.That(source.Order(), Is.EquivalentTo(expected.Order()), message);
         }

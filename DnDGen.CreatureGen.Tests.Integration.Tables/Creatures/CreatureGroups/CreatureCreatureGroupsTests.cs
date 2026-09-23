@@ -3,6 +3,7 @@ using DnDGen.CreatureGen.Creatures;
 using DnDGen.CreatureGen.Tables;
 using DnDGen.Infrastructure.Selectors.Collections;
 using NUnit.Framework;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures.CreatureGroups
@@ -11,6 +12,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures.CreatureGroups
     public class CreatureCreatureGroupsTests : CreatureGroupsTestBase
     {
         private ICollectionTypeAndAmountSelector typeAndAmountSelector;
+        private const int LowestAbilityAdjustment = -10;
 
         [SetUp]
         public void Setup()
@@ -19,7 +21,19 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures.CreatureGroups
         }
 
         [Test]
-        public void CreatureGroupNames() => AssertCreatureGroupNames();
+        public void CreatureCreatureGroupNames()
+        {
+            AssertSubsetCreatureGroupNames([GroupConstants.All, GroupConstants.Characters]);
+            AssertSubsetCreatureGroupNames(GetAbilityNames(AbilityConstants.Charisma, 6));
+            AssertSubsetCreatureGroupNames(GetAbilityNames(AbilityConstants.Intelligence, 4));
+        }
+
+        [Test]
+        public void CreatureAllGroupNames() => AssertAllCreatureGroupNames();
+
+        private static IEnumerable<string> GetAbilityNames(string ability, int requiredMin) => GetRange(requiredMin - 1)
+            .Select(i => ability + i);
+        private static IEnumerable<int> GetRange(int max) => Enumerable.Range(LowestAbilityAdjustment, max - LowestAbilityAdjustment + 1);
 
         [Test]
         public void CreatureGroup_All()

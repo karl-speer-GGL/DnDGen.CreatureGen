@@ -2,6 +2,7 @@
 using DnDGen.CreatureGen.Templates;
 using NUnit.Framework;
 using System.Collections;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures.CreatureGroups
@@ -10,9 +11,15 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures.CreatureGroups
     public class TemplateTypeCreatureGroupsTests : CreatureGroupsTestBase
     {
         [Test]
-        public void CreatureGroupNames() => AssertCreatureGroupNames();
+        public void CreatureAllGroupNames() => AssertAllCreatureGroupNames();
 
-        private static IEnumerable TemplatesWithTypeFilter
+        [Test]
+        public void TemplateTypeCreatureGroupNames()
+        {
+            AssertSubsetCreatureGroupNames(TemplateTypePairs.Select(p => p[0] + p[1]));
+        }
+
+        private static IEnumerable<string[]> TemplateTypePairs
         {
             get
             {
@@ -23,13 +30,15 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures.CreatureGroups
                 foreach (var template in templates)
                 {
                     foreach (var type in types)
-                        yield return new TestCaseData(template, type);
+                        yield return [template, type];
 
                     foreach (var subtype in subtypes)
-                        yield return new TestCaseData(template, subtype);
+                        yield return [template, subtype];
                 }
             }
         }
+
+        private static IEnumerable TemplatesWithTypeFilter => TemplateTypePairs.Select(p => new TestCaseData(p[0], p[1]));
 
         [TestCaseSource(nameof(TemplatesWithTypeFilter))]
         public void CreatureGroup_Template_ResultsInType(string template, string type)

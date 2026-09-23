@@ -9,7 +9,13 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures.CreatureGroups
     public class TemplateChallengeRatingAsCharacterCreatureGroupsTests : CreatureGroupsTestBase
     {
         [Test]
-        public void CreatureGroupNames() => AssertCreatureGroupNames();
+        public void CreatureAllGroupNames() => AssertAllCreatureGroupNames();
+
+        [Test]
+        public void TemplateChallengeRatingAsCharacterCreatureGroupNames()
+        {
+            AssertSubsetCreatureGroupNames(TemplateChallengeRatingPairs.Select(p => p[0] + bool.TrueString + p[1]));
+        }
 
         [TestCaseSource(typeof(CreatureGroupsTestBase), nameof(TemplatesWithChallengeRatingFilter))]
         public void CreatureGroup_TemplateAsCharacter_ResultsInChallengeRating(string template, string cr)
