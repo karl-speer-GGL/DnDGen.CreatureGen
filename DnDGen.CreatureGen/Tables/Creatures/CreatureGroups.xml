@@ -32297,6 +32297,19 @@
 	</collection>
 	<collection>
 		<name>VampireChaotic Evil</name>
+		<entry>Duergar</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Gargoyle</entry>
+		<entry>Kapoacinth</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Gnoll</entry>
+		<entry>Goblin</entry>
+		<entry>Gray Elf</entry>
+		<entry>Green Hag</entry>
+		<entry>Grimlock</entry>
 		<entry>Annis</entry>
 		<entry>Aquatic Elf</entry>
 		<entry>Bugbear</entry>
@@ -32320,6 +32333,18 @@
 	</collection>
 	<collection>
 		<name>VampireLawful Evil</name>
+		<entry>Grimlock</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Kobold</entry>
+		<entry>Kuo-toa</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Malenti</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
 		<entry>Centaur</entry>
 		<entry>Deep Dwarf</entry>
 		<entry>Hill Dwarf</entry>
@@ -32345,6 +32370,19 @@
 	</collection>
 	<collection>
 		<name>VampireNeutral Evil</name>
+		<entry>Duergar</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Gargoyle</entry>
+		<entry>Kapoacinth</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Gnoll</entry>
+		<entry>Goblin</entry>
+		<entry>Gray Elf</entry>
+		<entry>Green Hag</entry>
+		<entry>Grimlock</entry>
 		<entry>Annis</entry>
 		<entry>Aquatic Elf</entry>
 		<entry>Bugbear</entry>
@@ -37172,6 +37210,26 @@
 	</collection>
 	<collection>
 		<name>NoneChaotic Evil</name>
+		<entry>Cloaker</entry>
+		<entry>Cloud Giant</entry>
+		<entry>Death Slaad</entry>
+		<entry>Derro</entry>
+		<entry>Derro (Sane)</entry>
+		<entry>Destrachan</entry>
+		<entry>Dretch</entry>
+		<entry>Drider</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Blue Slaad</entry>
+		<entry>Bodak</entry>
+		<entry>Bugbear</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
 		<entry>Annis</entry>
 		<entry>Athach</entry>
 		<entry>Average Salamander</entry>
@@ -37219,6 +37277,18 @@
 	</collection>
 	<collection>
 		<name>NoneChaotic Good</name>
+		<entry>Brass Dragon, Wyrmling</entry>
+		<entry>Brass Dragon, Very Young</entry>
+		<entry>Brass Dragon, Young</entry>
+		<entry>Brass Dragon, Juvenile</entry>
+		<entry>Brass Dragon, Young Adult</entry>
+		<entry>Brass Dragon, Adult</entry>
+		<entry>Brass Dragon, Mature Adult</entry>
+		<entry>Brass Dragon, Old</entry>
+		<entry>Brass Dragon, Very Old</entry>
+		<entry>Brass Dragon, Ancient</entry>
+		<entry>Brass Dragon, Wyrm</entry>
+		<entry>Brass Dragon, Great Wyrm</entry>
 		<entry>Aasimar</entry>
 		<entry>Androsphinx</entry>
 		<entry>Angel, Astral Deva</entry>
@@ -37232,6 +37302,23 @@
 	</collection>
 	<collection>
 		<name>NoneChaotic Neutral</name>
+		<entry>Aranea</entry>
+		<entry>Athach</entry>
+		<entry>Flamebrother Salamander</entry>
+		<entry>Average Salamander</entry>
+		<entry>Noble Salamander</entry>
+		<entry>Minor Xorn</entry>
+		<entry>Average Xorn</entry>
+		<entry>Elder Xorn</entry>
+		<entry>Behir</entry>
+		<entry>Blue Slaad</entry>
+		<entry>Bugbear</entry>
+		<entry>Chaos Beast</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
 		<entry>Air Elemental, Elder</entry>
 		<entry>Air Elemental, Greater</entry>
 		<entry>Air Elemental, Huge</entry>
@@ -37245,6 +37332,19 @@
 	</collection>
 	<collection>
 		<name>NoneLawful Evil</name>
+		<entry>Bone Devil (Osyluth)</entry>
+		<entry>Chain Devil (Kyton)</entry>
+		<entry>Cloud Giant</entry>
+		<entry>Dark Naga</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Destrachan</entry>
+		<entry>Displacer Beast</entry>
+		<entry>Displacer Beast Pack Lord</entry>
+		<entry>Wraith</entry>
+		<entry>Dread Wraith</entry>
+		<entry>Drow</entry>
 		<entry>Blue Dragon, Wyrmling</entry>
 		<entry>Blue Dragon, Very Young</entry>
 		<entry>Blue Dragon, Young</entry>
@@ -37286,6 +37386,20 @@
 	</collection>
 	<collection>
 		<name>NoneLawful Good</name>
+		<entry>Centaur</entry>
+		<entry>Cloud Giant</entry>
+		<entry>Couatl</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Duergar</entry>
+		<entry>Fire Giant</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Giant Eagle</entry>
+		<entry>Giant Owl</entry>
+		<entry>Guardian Naga</entry>
 		<entry>Gold Dragon, Wyrmling</entry>
 		<entry>Gold Dragon, Very Young</entry>
 		<entry>Gold Dragon, Young</entry>
@@ -37319,6 +37433,25 @@
 	</collection>
 	<collection>
 		<name>NoneLawful Neutral</name>
+		<entry>Flamebrother Salamander</entry>
+		<entry>Average Salamander</entry>
+		<entry>Noble Salamander</entry>
+		<entry>Minor Xorn</entry>
+		<entry>Average Xorn</entry>
+		<entry>Elder Xorn</entry>
+		<entry>Azer</entry>
+		<entry>Behir</entry>
+		<entry>Beholder</entry>
+		<entry>Gauth (Lesser Beholder)</entry>
+		<entry>Blink Dog</entry>
+		<entry>Dark Naga</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Delver</entry>
 		<entry>Air Elemental, Elder</entry>
 		<entry>Air Elemental, Greater</entry>
 		<entry>Air Elemental, Huge</entry>
@@ -37332,6 +37465,24 @@
 	</collection>
 	<collection>
 		<name>NoneNeutral Evil</name>
+		<entry>Aranea</entry>
+		<entry>Athach</entry>
+		<entry>Flamebrother Salamander</entry>
+		<entry>Average Salamander</entry>
+		<entry>Noble Salamander</entry>
+		<entry>Minor Xorn</entry>
+		<entry>Average Xorn</entry>
+		<entry>Elder Xorn</entry>
+		<entry>Behir</entry>
+		<entry>Beholder</entry>
+		<entry>Gauth (Lesser Beholder)</entry>
+		<entry>Belker</entry>
+		<entry>Bugbear</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
 		<entry>Aboleth</entry>
 		<entry>Air Elemental, Elder</entry>
 		<entry>Air Elemental, Greater</entry>
@@ -37345,6 +37496,22 @@
 	</collection>
 	<collection>
 		<name>NoneNeutral Good</name>
+		<entry>Aquatic Elf</entry>
+		<entry>Aranea</entry>
+		<entry>Minor Xorn</entry>
+		<entry>Average Xorn</entry>
+		<entry>Elder Xorn</entry>
+		<entry>Avoral</entry>
+		<entry>Behir</entry>
+		<entry>Blink Dog</entry>
+		<entry>Centaur</entry>
+		<entry>Cloud Giant</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
 		<entry>Air Elemental, Elder</entry>
 		<entry>Air Elemental, Greater</entry>
 		<entry>Air Elemental, Huge</entry>
@@ -37359,6 +37526,77 @@
 	</collection>
 	<collection>
 		<name>NoneTrue Neutral</name>
+		<entry>Animated Object, Colossal</entry>
+		<entry>Animated Object, Colossal (Flexible)</entry>
+		<entry>Animated Object, Colossal (More Than Two Legs, Long, Wooden)</entry>
+		<entry>Animated Object, Colossal (More Than Two Legs, Long)</entry>
+		<entry>Animated Object, Colossal (More Than Two Legs, Tall, Wooden)</entry>
+		<entry>Animated Object, Colossal (More Than Two Legs, Tall)</entry>
+		<entry>Animated Object, Colossal (Sheetlike)</entry>
+		<entry>Animated Object, Colossal (Two Legs, Wooden)</entry>
+		<entry>Animated Object, Colossal (Two Legs)</entry>
+		<entry>Animated Object, Colossal (Wheels, Wooden)</entry>
+		<entry>Animated Object, Colossal (Wooden)</entry>
+		<entry>Animated Object, Gargantuan</entry>
+		<entry>Animated Object, Gargantuan (Flexible)</entry>
+		<entry>Animated Object, Gargantuan (More Than Two Legs, Long, Wooden)</entry>
+		<entry>Animated Object, Gargantuan (More Than Two Legs, Long)</entry>
+		<entry>Animated Object, Gargantuan (More Than Two Legs, Tall, Wooden)</entry>
+		<entry>Animated Object, Gargantuan (More Than Two Legs, Tall)</entry>
+		<entry>Animated Object, Gargantuan (Sheetlike)</entry>
+		<entry>Animated Object, Gargantuan (Two Legs, Wooden)</entry>
+		<entry>Animated Object, Gargantuan (Two Legs)</entry>
+		<entry>Animated Object, Gargantuan (Wheels, Wooden)</entry>
+		<entry>Animated Object, Gargantuan (Wooden)</entry>
+		<entry>Animated Object, Huge</entry>
+		<entry>Animated Object, Huge (Flexible)</entry>
+		<entry>Animated Object, Huge (More Than Two Legs, Long, Wooden)</entry>
+		<entry>Animated Object, Huge (More Than Two Legs, Long)</entry>
+		<entry>Animated Object, Huge (More Than Two Legs, Tall, Wooden)</entry>
+		<entry>Animated Object, Huge (More Than Two Legs, Tall)</entry>
+		<entry>Animated Object, Huge (Sheetlike)</entry>
+		<entry>Animated Object, Huge (Two Legs, Wooden)</entry>
+		<entry>Animated Object, Huge (Two Legs)</entry>
+		<entry>Animated Object, Huge (Wheels, Wooden)</entry>
+		<entry>Animated Object, Huge (Wooden)</entry>
+		<entry>Animated Object, Large</entry>
+		<entry>Animated Object, Large (Flexible)</entry>
+		<entry>Animated Object, Large (More Than Two Legs, Long, Wooden)</entry>
+		<entry>Animated Object, Large (More Than Two Legs, Long)</entry>
+		<entry>Animated Object, Large (More Than Two Legs, Tall, Wooden)</entry>
+		<entry>Animated Object, Large (More Than Two Legs, Tall)</entry>
+		<entry>Animated Object, Large (Sheetlike)</entry>
+		<entry>Animated Object, Large (Two Legs, Wooden)</entry>
+		<entry>Animated Object, Large (Two Legs)</entry>
+		<entry>Animated Object, Large (Wheels, Wooden)</entry>
+		<entry>Animated Object, Large (Wooden)</entry>
+		<entry>Animated Object, Medium</entry>
+		<entry>Animated Object, Medium (Flexible)</entry>
+		<entry>Animated Object, Medium (More Than Two Legs, Wooden)</entry>
+		<entry>Animated Object, Medium (More Than Two Legs)</entry>
+		<entry>Animated Object, Medium (Sheetlike)</entry>
+		<entry>Animated Object, Medium (Two Legs, Wooden)</entry>
+		<entry>Animated Object, Medium (Two Legs)</entry>
+		<entry>Animated Object, Medium (Wheels, Wooden)</entry>
+		<entry>Animated Object, Medium (Wooden)</entry>
+		<entry>Animated Object, Small</entry>
+		<entry>Animated Object, Small (Flexible)</entry>
+		<entry>Animated Object, Small (More Than Two Legs, Wooden)</entry>
+		<entry>Animated Object, Small (More Than Two Legs)</entry>
+		<entry>Animated Object, Small (Sheetlike)</entry>
+		<entry>Animated Object, Small (Two Legs, Wooden)</entry>
+		<entry>Animated Object, Small (Two Legs)</entry>
+		<entry>Animated Object, Small (Wheels, Wooden)</entry>
+		<entry>Animated Object, Small (Wooden)</entry>
+		<entry>Animated Object, Tiny</entry>
+		<entry>Animated Object, Tiny (Flexible)</entry>
+		<entry>Animated Object, Tiny (More Than Two Legs, Wooden)</entry>
+		<entry>Animated Object, Tiny (More Than Two Legs)</entry>
+		<entry>Animated Object, Tiny (Sheetlike)</entry>
+		<entry>Animated Object, Tiny (Two Legs, Wooden)</entry>
+		<entry>Animated Object, Tiny (Two Legs)</entry>
+		<entry>Animated Object, Tiny (Wheels, Wooden)</entry>
+		<entry>Animated Object, Tiny (Wooden)</entry>
 		<entry>Aasimar</entry>
 		<entry>Juvenile Arrowhawk</entry>
 		<entry>Adult Arrowhawk</entry>
