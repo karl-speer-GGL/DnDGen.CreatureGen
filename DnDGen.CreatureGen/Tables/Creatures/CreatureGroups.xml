@@ -32297,6 +32297,16 @@
 	</collection>
 	<collection>
 		<name>VampireChaotic Evil</name>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Harpy</entry>
+		<entry>High Elf</entry>
+		<entry>Human</entry>
+		<entry>Kuo-toa</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Minotaur</entry>
 		<entry>Duergar</entry>
 		<entry>Forest Gnome</entry>
 		<entry>Rock Gnome</entry>
@@ -32333,6 +32343,11 @@
 	</collection>
 	<collection>
 		<name>VampireLawful Evil</name>
+		<entry>Medusa</entry>
+		<entry>Merfolk</entry>
+		<entry>Orc</entry>
+		<entry>Scorpionfolk</entry>
+		<entry>Wood Elf</entry>
 		<entry>Grimlock</entry>
 		<entry>Half-Elf</entry>
 		<entry>Half-Orc</entry>
@@ -32370,6 +32385,16 @@
 	</collection>
 	<collection>
 		<name>VampireNeutral Evil</name>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Harpy</entry>
+		<entry>High Elf</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Kobold</entry>
+		<entry>Kuo-toa</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
 		<entry>Duergar</entry>
 		<entry>Forest Gnome</entry>
 		<entry>Rock Gnome</entry>
@@ -37210,6 +37235,19 @@
 	</collection>
 	<collection>
 		<name>NoneChaotic Evil</name>
+		<entry>Ettercap</entry>
+		<entry>Ettin</entry>
+		<entry>Fire Giant</entry>
+		<entry>Flamebrother Salamander</entry>
+		<entry>Noble Salamander</entry>
+		<entry>Frost Giant</entry>
+		<entry>Gargoyle</entry>
+		<entry>Kapoacinth</entry>
+		<entry>Ghast</entry>
+		<entry>Ghoul</entry>
+		<entry>Lacedon</entry>
+		<entry>Githyanki</entry>
+		<entry>Glabrezu</entry>
 		<entry>Cloaker</entry>
 		<entry>Cloud Giant</entry>
 		<entry>Death Slaad</entry>
@@ -37277,6 +37315,9 @@
 	</collection>
 	<collection>
 		<name>NoneChaotic Good</name>
+		<entry>Centaur</entry>
+		<entry>Cloaker</entry>
+		<entry>Cloud Giant</entry>
 		<entry>Brass Dragon, Wyrmling</entry>
 		<entry>Brass Dragon, Very Young</entry>
 		<entry>Brass Dragon, Young</entry>
@@ -37289,6 +37330,18 @@
 		<entry>Brass Dragon, Ancient</entry>
 		<entry>Brass Dragon, Wyrm</entry>
 		<entry>Brass Dragon, Great Wyrm</entry>
+		<entry>Copper Dragon, Wyrmling</entry>
+		<entry>Copper Dragon, Very Young</entry>
+		<entry>Copper Dragon, Young</entry>
+		<entry>Copper Dragon, Juvenile</entry>
+		<entry>Copper Dragon, Young Adult</entry>
+		<entry>Copper Dragon, Adult</entry>
+		<entry>Copper Dragon, Mature Adult</entry>
+		<entry>Copper Dragon, Old</entry>
+		<entry>Copper Dragon, Very Old</entry>
+		<entry>Copper Dragon, Ancient</entry>
+		<entry>Copper Dragon, Wyrm</entry>
+		<entry>Copper Dragon, Great Wyrm</entry>
 		<entry>Aasimar</entry>
 		<entry>Androsphinx</entry>
 		<entry>Angel, Astral Deva</entry>
@@ -37302,6 +37355,20 @@
 	</collection>
 	<collection>
 		<name>NoneChaotic Neutral</name>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
+		<entry>Cloaker</entry>
+		<entry>Death Slaad</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Delver</entry>
+		<entry>Derro</entry>
+		<entry>Derro (Sane)</entry>
+		<entry>Doppelganger</entry>
 		<entry>Aranea</entry>
 		<entry>Athach</entry>
 		<entry>Flamebrother Salamander</entry>
@@ -37332,6 +37399,16 @@
 	</collection>
 	<collection>
 		<name>NoneLawful Evil</name>
+		<entry>Duergar</entry>
+		<entry>Efreeti</entry>
+		<entry>Erinyes</entry>
+		<entry>Ettercap</entry>
+		<entry>Fire Giant</entry>
+		<entry>Frost Giant</entry>
+		<entry>Githyanki</entry>
+		<entry>Goblin</entry>
+		<entry>Grimlock</entry>
+		<entry>Half-Orc</entry>
 		<entry>Bone Devil (Osyluth)</entry>
 		<entry>Chain Devil (Kyton)</entry>
 		<entry>Cloud Giant</entry>
@@ -37386,6 +37463,24 @@
 	</collection>
 	<collection>
 		<name>NoneLawful Good</name>
+		<entry>Silver Dragon, Wyrmling</entry>
+		<entry>Silver Dragon, Very Young</entry>
+		<entry>Silver Dragon, Young</entry>
+		<entry>Silver Dragon, Juvenile</entry>
+		<entry>Silver Dragon, Young Adult</entry>
+		<entry>Silver Dragon, Adult</entry>
+		<entry>Silver Dragon, Mature Adult</entry>
+		<entry>Silver Dragon, Old</entry>
+		<entry>Silver Dragon, Very Old</entry>
+		<entry>Silver Dragon, Ancient</entry>
+		<entry>Silver Dragon, Wyrm</entry>
+		<entry>Silver Dragon, Great Wyrm</entry>
+		<entry>Half-Elf</entry>
+		<entry>Homunculus</entry>
+		<entry>Hound Archon</entry>
+		<entry>Human</entry>
+		<entry>Lammasu</entry>
+		<entry>Lantern Archon</entry>
 		<entry>Centaur</entry>
 		<entry>Cloud Giant</entry>
 		<entry>Couatl</entry>
@@ -37396,7 +37491,6 @@
 		<entry>Fire Giant</entry>
 		<entry>Forest Gnome</entry>
 		<entry>Rock Gnome</entry>
-		<entry>Svirfneblin</entry>
 		<entry>Giant Eagle</entry>
 		<entry>Giant Owl</entry>
 		<entry>Guardian Naga</entry>
@@ -37433,6 +37527,19 @@
 	</collection>
 	<collection>
 		<name>NoneLawful Neutral</name>
+		<entry>Earth Elemental, Elder</entry>
+		<entry>Earth Elemental, Greater</entry>
+		<entry>Earth Elemental, Huge</entry>
+		<entry>Earth Elemental, Large</entry>
+		<entry>Earth Elemental, Medium</entry>
+		<entry>Earth Elemental, Small</entry>
+		<entry>Displacer Beast</entry>
+		<entry>Displacer Beast Pack Lord</entry>
+		<entry>Doppelganger</entry>
+		<entry>Dragon Turtle</entry>
+		<entry>Dragonne</entry>
+		<entry>Duergar</entry>
+		<entry>Dust Mephit</entry>
 		<entry>Flamebrother Salamander</entry>
 		<entry>Average Salamander</entry>
 		<entry>Noble Salamander</entry>
@@ -37465,6 +37572,20 @@
 	</collection>
 	<collection>
 		<name>NoneNeutral Evil</name>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
+		<entry>Cloud Giant</entry>
+		<entry>Dark Naga</entry>
+		<entry>Death Slaad</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Delver</entry>
+		<entry>Derro</entry>
+		<entry>Derro (Sane)</entry>
 		<entry>Aranea</entry>
 		<entry>Athach</entry>
 		<entry>Flamebrother Salamander</entry>
@@ -37496,6 +37617,12 @@
 	</collection>
 	<collection>
 		<name>NoneNeutral Good</name>
+		<entry>Delver</entry>
+		<entry>Doppelganger</entry>
+		<entry>Dragon Turtle</entry>
+		<entry>Dragonne</entry>
+		<entry>Dryad</entry>
+		<entry>Dust Mephit</entry>
 		<entry>Aquatic Elf</entry>
 		<entry>Aranea</entry>
 		<entry>Minor Xorn</entry>
@@ -37518,6 +37645,12 @@
 		<entry>Air Elemental, Large</entry>
 		<entry>Air Elemental, Medium</entry>
 		<entry>Air Elemental, Small</entry>
+		<entry>Earth Elemental, Elder</entry>
+		<entry>Earth Elemental, Greater</entry>
+		<entry>Earth Elemental, Huge</entry>
+		<entry>Earth Elemental, Large</entry>
+		<entry>Earth Elemental, Medium</entry>
+		<entry>Earth Elemental, Small</entry>
 		<entry>Aasimar</entry>
 		<entry>Air Mephit</entry>
 		<entry>Angel, Astral Deva</entry>
@@ -37526,6 +37659,22 @@
 	</collection>
 	<collection>
 		<name>NoneTrue Neutral</name>
+		<entry>Ankheg</entry>
+		<entry>Aranea</entry>
+		<entry>Assassin Vine</entry>
+		<entry>Athach</entry>
+		<entry>Flamebrother Salamander</entry>
+		<entry>Average Salamander</entry>
+		<entry>Noble Salamander</entry>
+		<entry>Minor Xorn</entry>
+		<entry>Average Xorn</entry>
+		<entry>Elder Xorn</entry>
+		<entry>Basilisk</entry>
+		<entry>Greater Basilisk</entry>
+		<entry>Behir</entry>
+		<entry>Belker</entry>
+		<entry>Black Pudding</entry>
+		<entry>Elder Black Pudding</entry>
 		<entry>Animated Object, Colossal</entry>
 		<entry>Animated Object, Colossal (Flexible)</entry>
 		<entry>Animated Object, Colossal (More Than Two Legs, Long, Wooden)</entry>
