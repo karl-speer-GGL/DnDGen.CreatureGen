@@ -30,20 +30,20 @@ namespace DnDGen.CreatureGen.Generators.Alignments
         private IEnumerable<string> GetWeightedAlignments(string creatureName, string[] templates, Filters filters)
         {
             var weightedAlignments = collectionSelector.SelectFrom(Config.Name, TableNameConstants.Collection.AlignmentGroups, creatureName);
+            var hasAlignmentFilter = filters?.Alignments?.Any() == true;
 
-            if (templates.Length == 1)
+            if (templates.Length == 0 && hasAlignmentFilter)
+                return weightedAlignments.Where(filters.Alignments.Contains);
+            else if (templates.Length == 0)
+                return weightedAlignments;
+
+            if (templates.Length == 1 && !hasAlignmentFilter)
             {
                 var templateAlignments = collectionSelector.SelectFrom(Config.Name, TableNameConstants.Collection.AlignmentGroups, templates[0] + GroupConstants.AllowedInput);
 
                 //INFO: Doing this instead of intersect in order to preserve duplicates/weighting
-                weightedAlignments = weightedAlignments.Where(templateAlignments.Contains);
+                return weightedAlignments.Where(templateAlignments.Contains);
             }
-
-            if (!(filters?.Alignments?.Count > 0) && templates.Length < 2)
-                return weightedAlignments;
-
-            if (templates.Length == 0)
-                return weightedAlignments.Where(filters.Alignments.Contains);
 
             var creaturePrototype = prototypeFactory.Build(creatureName, false);
 
