@@ -71,7 +71,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures.CreatureGroups
         protected void AssertSubsetCreatureGroupNames(IEnumerable<string> subset)
         {
             Assert.That(subset, Is.SubsetOf(GetAllExpectedGroupNames()));
-            Assert.That(subset, Is.SubsetOf(table.Keys));
+            Assert.That(table.Keys, Is.SupersetOf(subset));
         }
 
         protected static string[] Alignments =>

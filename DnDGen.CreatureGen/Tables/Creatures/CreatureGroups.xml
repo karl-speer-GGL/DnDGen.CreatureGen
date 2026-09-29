@@ -37479,6 +37479,45 @@
 	</collection>
 	<collection>
 		<name>NoneChaotic Neutral</name>
+		<entry>Yuan-ti Pureblood</entry>
+		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Yuan-ti Abomination</entry>
+		<entry>Wyvern</entry>
+		<entry>Yrthak</entry>
+		<entry>Tiefling</entry>
+		<entry>Titan</entry>
+		<entry>Troglodyte</entry>
+		<entry>Truly Horrid Umber Hulk</entry>
+		<entry>Umber Hulk</entry>
+		<entry>Water Mephit</entry>
+		<entry>Water Naga</entry>
+		<entry>Wild Elf</entry>
+		<entry>Will-O'-Wisp</entry>
+		<entry>Wood Elf</entry>
+		<entry>Scrag</entry>
+		<entry>Troll</entry>
+		<entry>Sea Hag</entry>
+		<entry>Shambling Mound</entry>
+		<entry>Spirit Naga</entry>
+		<entry>Steam Mephit</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Storm Giant</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Thoqqua</entry>
+		<entry>Otyugh</entry>
+		<entry>Pegasus</entry>
+		<entry>Phasm</entry>
+		<entry>Rast</entry>
+		<entry>Red Slaad</entry>
+		<entry>Remorhaz</entry>
+		<entry>Roper</entry>
+		<entry>Salt Mephit</entry>
+		<entry>Satyr</entry>
+		<entry>Satyr with pipes</entry>
 		<entry>Magma Mephit</entry>
 		<entry>Magmin</entry>
 		<entry>Merfolk</entry>
@@ -37526,6 +37565,12 @@
 		<entry>Fire Elemental, Large</entry>
 		<entry>Fire Elemental, Medium</entry>
 		<entry>Fire Elemental, Small</entry>
+		<entry>Water Elemental, Elder</entry>
+		<entry>Water Elemental, Greater</entry>
+		<entry>Water Elemental, Huge</entry>
+		<entry>Water Elemental, Large</entry>
+		<entry>Water Elemental, Medium</entry>
+		<entry>Water Elemental, Small</entry>
 		<entry>Ettin</entry>
 		<entry>Ethereal Filcher</entry>
 		<entry>Earth Mephit</entry>
@@ -37774,6 +37819,14 @@
 	</collection>
 	<collection>
 		<name>NoneLawful Neutral</name>
+		<entry>Wood Elf</entry>
+		<entry>Wyvern</entry>
+		<entry>Yrthak</entry>
+		<entry>Zelekhut</entry>
+		<entry>Thoqqua</entry>
+		<entry>Tiefling</entry>
+		<entry>Water Mephit</entry>
+		<entry>Water Naga</entry>
 		<entry>Rast</entry>
 		<entry>Remorhaz</entry>
 		<entry>Salt Mephit</entry>
@@ -37833,6 +37886,12 @@
 		<entry>Fire Elemental, Large</entry>
 		<entry>Fire Elemental, Medium</entry>
 		<entry>Fire Elemental, Small</entry>
+		<entry>Water Elemental, Elder</entry>
+		<entry>Water Elemental, Greater</entry>
+		<entry>Water Elemental, Huge</entry>
+		<entry>Water Elemental, Large</entry>
+		<entry>Water Elemental, Medium</entry>
+		<entry>Water Elemental, Small</entry>
 		<entry>Earth Mephit</entry>
 		<entry>Five-Headed Cryohydra</entry>
 		<entry>Five-Headed Hydra</entry>
@@ -37903,6 +37962,60 @@
 	</collection>
 	<collection>
 		<name>NoneNeutral Evil</name>
+		<entry>Winter Wolf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Worg</entry>
+		<entry>Wyvern</entry>
+		<entry>Yeth Hound</entry>
+		<entry>Yrthak</entry>
+		<entry>Yuan-ti Pureblood</entry>
+		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Yuan-ti Abomination</entry>
+		<entry>Thoqqua</entry>
+		<entry>Tiefling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Truly Horrid Umber Hulk</entry>
+		<entry>Umber Hulk</entry>
+		<entry>Vampire Spawn</entry>
+		<entry>Vargouille</entry>
+		<entry>Water Mephit</entry>
+		<entry>Water Naga</entry>
+		<entry>Will-O'-Wisp</entry>
+		<entry>Scrag</entry>
+		<entry>Troll</entry>
+		<entry>Sea Hag</entry>
+		<entry>Shadow Mastiff</entry>
+		<entry>Shambling Mound</entry>
+		<entry>Skum</entry>
+		<entry>Spirit Naga</entry>
+		<entry>Steam Mephit</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Nightmare, Cauchemar</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Ooze Mephit</entry>
+		<entry>Orc</entry>
+		<entry>Otyugh</entry>
+		<entry>Rast</entry>
+		<entry>Remorhaz</entry>
+		<entry>Roper</entry>
+		<entry>Salt Mephit</entry>
+		<entry>Scorpionfolk</entry>
+		<entry>Manticore</entry>
+		<entry>Medusa</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Mimic</entry>
+		<entry>Mind Flayer (Illithid)</entry>
+		<entry>Minotaur</entry>
+		<entry>Mummy</entry>
+		<entry>Night Hag</entry>
+		<entry>Nightmare</entry>
 		<entry>Janni</entry>
 		<entry>Kobold</entry>
 		<entry>Kraken</entry>
@@ -37943,6 +38056,12 @@
 		<entry>Fire Elemental, Large</entry>
 		<entry>Fire Elemental, Medium</entry>
 		<entry>Fire Elemental, Small</entry>
+		<entry>Water Elemental, Elder</entry>
+		<entry>Water Elemental, Greater</entry>
+		<entry>Water Elemental, Huge</entry>
+		<entry>Water Elemental, Large</entry>
+		<entry>Water Elemental, Medium</entry>
+		<entry>Water Elemental, Small</entry>
 		<entry>Ethereal Filcher</entry>
 		<entry>Ettercap</entry>
 		<entry>Ettin</entry>
@@ -38030,6 +38149,12 @@
 	</collection>
 	<collection>
 		<name>NoneNeutral Good</name>
+		<entry>Water Mephit</entry>
+		<entry>Water Naga</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Wyvern</entry>
+		<entry>Yrthak</entry>
 		<entry>Stone Giant</entry>
 		<entry>Stone Giant Elder</entry>
 		<entry>Storm Giant</entry>
@@ -38159,6 +38284,70 @@
 	</collection>
 	<collection>
 		<name>NoneTrue Neutral</name>
+		<entry>Worg</entry>
+		<entry>Wyvern</entry>
+		<entry>Yrthak</entry>
+		<entry>Tendriculos</entry>
+		<entry>Thoqqua</entry>
+		<entry>Tiefling</entry>
+		<entry>Treant</entry>
+		<entry>Triton</entry>
+		<entry>Violet Fungus</entry>
+		<entry>Water Mephit</entry>
+		<entry>Water Naga</entry>
+		<entry>Winter Wolf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Shrieker</entry>
+		<entry>Spider Eater</entry>
+		<entry>Spider Swarm</entry>
+		<entry>Steam Mephit</entry>
+		<entry>Stirge</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Storm Giant</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tarrasque</entry>
+		<entry>Razor Boar</entry>
+		<entry>Red Slaad</entry>
+		<entry>Remorhaz</entry>
+		<entry>Rust Monster</entry>
+		<entry>Salt Mephit</entry>
+		<entry>Satyr</entry>
+		<entry>Satyr with pipes</entry>
+		<entry>Sea Cat</entry>
+		<entry>Shambling Mound</entry>
+		<entry>Shocker Lizard</entry>
+		<entry>Ooze Mephit</entry>
+		<entry>Orc</entry>
+		<entry>Otyugh</entry>
+		<entry>Owlbear</entry>
+		<entry>Phantom Fungus</entry>
+		<entry>Phase Spider</entry>
+		<entry>Phasm</entry>
+		<entry>Purple Worm</entry>
+		<entry>Rast</entry>
+		<entry>Ravid</entry>
+		<entry>Kraken</entry>
+		<entry>Krenshar</entry>
+		<entry>Kuo-toa</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Locust Swarm</entry>
+		<entry>Magma Mephit</entry>
+		<entry>Merfolk</entry>
+		<entry>Mimic</entry>
+		<entry>Nixie</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Hill Giant</entry>
+		<entry>Hippogriff</entry>
+		<entry>Homunculus</entry>
+		<entry>Shield Guardian</entry>
+		<entry>Human</entry>
+		<entry>Ice Mephit</entry>
+		<entry>Invisible Stalker</entry>
+		<entry>Janni</entry>
 		<entry>Githyanki</entry>
 		<entry>Githzerai</entry>
 		<entry>Goblin</entry>
@@ -38191,6 +38380,12 @@
 		<entry>Fire Elemental, Large</entry>
 		<entry>Fire Elemental, Medium</entry>
 		<entry>Fire Elemental, Small</entry>
+		<entry>Water Elemental, Elder</entry>
+		<entry>Water Elemental, Greater</entry>
+		<entry>Water Elemental, Huge</entry>
+		<entry>Water Elemental, Large</entry>
+		<entry>Water Elemental, Medium</entry>
+		<entry>Water Elemental, Small</entry>
 		<entry>Ethereal Filcher</entry>
 		<entry>Ethereal Marauder</entry>
 		<entry>Ettercap</entry>
@@ -38472,5 +38667,2343 @@
 		<entry>Shark, Medium</entry>
 		<entry>Shark, Large</entry>
 		<entry>Shark, Huge</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue0</name>
+		<entry>Merfolk</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Goblin</entry>
+		<entry>Human</entry>
+		<entry>Gray Elf</entry>
+		<entry>High Elf</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Orc</entry>
+		<entry>Kobold</entry>
+		<entry>Hobgoblin</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue1/10</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue1/8</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue1/6</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue1/4</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue1/3</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue1/2</name>
+		<entry>Locathah</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue1</name>
+		<entry>Gnoll</entry>
+		<entry>Grig</entry>
+		<entry>Grig with fiddle</entry>
+		<entry>Grimlock</entry>
+		<entry>Krenshar</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Nixie</entry>
+		<entry>Pseudodragon</entry>
+		<entry>Troglodyte</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue2</name>
+		<entry>Bugbear</entry>
+		<entry>Kuo-toa</entry>
+		<entry>Malenti</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Skum</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue3</name>
+		<entry>Blink Dog</entry>
+		<entry>Derro</entry>
+		<entry>Derro (Sane)</entry>
+		<entry>Satyr</entry>
+		<entry>Worg</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue4</name>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Pegasus</entry>
+		<entry>Pixie</entry>
+		<entry>Sea Hag</entry>
+		<entry>Unicorn</entry>
+		<entry>Yuan-ti Pureblood</entry>
+		<entry>Aranea</entry>
+		<entry>Brass Dragon, Wyrmling</entry>
+		<entry>Bronze Dragon, Wyrmling</entry>
+		<entry>Centaur</entry>
+		<entry>Copper Dragon, Wyrmling</entry>
+		<entry>Doppelganger</entry>
+		<entry>Dryad</entry>
+		<entry>Ettercap</entry>
+		<entry>Giant Eagle</entry>
+		<entry>Giant Owl</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue5</name>
+		<entry>Brass Dragon, Very Young</entry>
+		<entry>Displacer Beast</entry>
+		<entry>Gargoyle</entry>
+		<entry>Griffon</entry>
+		<entry>Harpy</entry>
+		<entry>Kapoacinth</entry>
+		<entry>Minotaur</entry>
+		<entry>Pixie with Irresistible dance</entry>
+		<entry>Satyr with pipes</entry>
+		<entry>Silver Dragon, Wyrmling</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue6</name>
+		<entry>Manticore</entry>
+		<entry>Scrag</entry>
+		<entry>Troll</entry>
+		<entry>Winter Wolf</entry>
+		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue7</name>
+		<entry>Annis</entry>
+		<entry>Bronze Dragon, Very Young</entry>
+		<entry>Copper Dragon, Very Young</entry>
+		<entry>Gold Dragon, Wyrmling</entry>
+		<entry>Green Hag</entry>
+		<entry>Silver Dragon, Very Young</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue8</name>
+		<entry>Brass Dragon, Young</entry>
+		<entry>Ettin</entry>
+		<entry>Lamia</entry>
+		<entry>Medusa</entry>
+		<entry>Nymph</entry>
+		<entry>Shambling Mound</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue9</name>
+		<entry>Gold Dragon, Very Young</entry>
+		<entry>Hill Giant</entry>
+		<entry>Lammasu</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Scorpionfolk</entry>
+		<entry>Silver Dragon, Young</entry>
+		<entry>Treant</entry>
+		<entry>Yuan-ti Abomination</entry>
+		<entry>Aboleth</entry>
+		<entry>Bronze Dragon, Young</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Copper Dragon, Young</entry>
+		<entry>Criosphinx</entry>
+		<entry>Dragonne</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue10</name>
+		<entry>Athach</entry>
+		<entry>Brass Dragon, Juvenile</entry>
+		<entry>Gray Render</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Mind Flayer (Illithid)</entry>
+		<entry>Stone Giant</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue11</name>
+		<entry>Androsphinx</entry>
+		<entry>Copper Dragon, Juvenile</entry>
+		<entry>Frost Giant</entry>
+		<entry>Gold Dragon, Young</entry>
+		<entry>Stone Giant Elder</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue12</name>
+		<entry>Fire Giant</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue13</name>
+		<entry>Cloud Giant</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue14</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue15</name>
+		<entry>Storm Giant</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue16</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue17</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue18</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue19</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue20</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue21</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue22</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue23</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue24</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue25</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue26</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue27</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue28</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue29</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureTrue30</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse0</name>
+		<entry>Merfolk</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Goblin</entry>
+		<entry>Human</entry>
+		<entry>Gray Elf</entry>
+		<entry>High Elf</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Orc</entry>
+		<entry>Kobold</entry>
+		<entry>Hobgoblin</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse1/10</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse1/8</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse1/6</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse1/4</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse1/3</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse1/2</name>
+		<entry>Locathah</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse1</name>
+		<entry>Gnoll</entry>
+		<entry>Grig</entry>
+		<entry>Grig with fiddle</entry>
+		<entry>Grimlock</entry>
+		<entry>Krenshar</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Nixie</entry>
+		<entry>Pseudodragon</entry>
+		<entry>Troglodyte</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse2</name>
+		<entry>Bugbear</entry>
+		<entry>Kuo-toa</entry>
+		<entry>Malenti</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Skum</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse3</name>
+		<entry>Blink Dog</entry>
+		<entry>Derro</entry>
+		<entry>Derro (Sane)</entry>
+		<entry>Satyr</entry>
+		<entry>Worg</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse4</name>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Pegasus</entry>
+		<entry>Pixie</entry>
+		<entry>Sea Hag</entry>
+		<entry>Unicorn</entry>
+		<entry>Yuan-ti Pureblood</entry>
+		<entry>Aranea</entry>
+		<entry>Brass Dragon, Wyrmling</entry>
+		<entry>Bronze Dragon, Wyrmling</entry>
+		<entry>Centaur</entry>
+		<entry>Copper Dragon, Wyrmling</entry>
+		<entry>Doppelganger</entry>
+		<entry>Dryad</entry>
+		<entry>Ettercap</entry>
+		<entry>Giant Eagle</entry>
+		<entry>Giant Owl</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse5</name>
+		<entry>Brass Dragon, Very Young</entry>
+		<entry>Displacer Beast</entry>
+		<entry>Gargoyle</entry>
+		<entry>Griffon</entry>
+		<entry>Harpy</entry>
+		<entry>Kapoacinth</entry>
+		<entry>Minotaur</entry>
+		<entry>Pixie with Irresistible dance</entry>
+		<entry>Satyr with pipes</entry>
+		<entry>Silver Dragon, Wyrmling</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse6</name>
+		<entry>Manticore</entry>
+		<entry>Scrag</entry>
+		<entry>Troll</entry>
+		<entry>Winter Wolf</entry>
+		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse7</name>
+		<entry>Annis</entry>
+		<entry>Bronze Dragon, Very Young</entry>
+		<entry>Copper Dragon, Very Young</entry>
+		<entry>Gold Dragon, Wyrmling</entry>
+		<entry>Green Hag</entry>
+		<entry>Silver Dragon, Very Young</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse8</name>
+		<entry>Brass Dragon, Young</entry>
+		<entry>Ettin</entry>
+		<entry>Lamia</entry>
+		<entry>Medusa</entry>
+		<entry>Nymph</entry>
+		<entry>Shambling Mound</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse9</name>
+		<entry>Gold Dragon, Very Young</entry>
+		<entry>Hill Giant</entry>
+		<entry>Lammasu</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Scorpionfolk</entry>
+		<entry>Silver Dragon, Young</entry>
+		<entry>Treant</entry>
+		<entry>Yuan-ti Abomination</entry>
+		<entry>Aboleth</entry>
+		<entry>Bronze Dragon, Young</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Copper Dragon, Young</entry>
+		<entry>Criosphinx</entry>
+		<entry>Dragonne</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse10</name>
+		<entry>Athach</entry>
+		<entry>Brass Dragon, Juvenile</entry>
+		<entry>Gray Render</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Mind Flayer (Illithid)</entry>
+		<entry>Stone Giant</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse11</name>
+		<entry>Androsphinx</entry>
+		<entry>Copper Dragon, Juvenile</entry>
+		<entry>Frost Giant</entry>
+		<entry>Gold Dragon, Young</entry>
+		<entry>Stone Giant Elder</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse12</name>
+		<entry>Fire Giant</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse13</name>
+		<entry>Cloud Giant</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse14</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse15</name>
+		<entry>Storm Giant</entry>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse16</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse17</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse18</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse19</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse20</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse21</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse22</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse23</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse24</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse25</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse26</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse27</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse28</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse29</name>
+	</collection>
+	<collection>
+		<name>Celestial CreatureFalse30</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue0</name>
+		<entry>Merfolk</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Goblin</entry>
+		<entry>Human</entry>
+		<entry>Gray Elf</entry>
+		<entry>High Elf</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Orc</entry>
+		<entry>Kobold</entry>
+		<entry>Hobgoblin</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue1/10</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue1/8</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue1/6</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue1/4</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue1/3</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue1/2</name>
+		<entry>Locathah</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue1</name>
+		<entry>Gnoll</entry>
+		<entry>Grimlock</entry>
+		<entry>Krenshar</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Nixie</entry>
+		<entry>Troglodyte</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue2</name>
+		<entry>White Dragon, Wyrmling</entry>
+		<entry>Bugbear</entry>
+		<entry>Kuo-toa</entry>
+		<entry>Malenti</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Skum</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue3</name>
+		<entry>Blink Dog</entry>
+		<entry>Derro</entry>
+		<entry>Derro (Sane)</entry>
+		<entry>Satyr</entry>
+		<entry>Worg</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue4</name>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Pegasus</entry>
+		<entry>White Dragon, Very Young</entry>
+		<entry>Sea Hag</entry>
+		<entry>Yuan-ti Pureblood</entry>
+		<entry>Aranea</entry>
+		<entry>Black Dragon, Wyrmling</entry>
+		<entry>Blue Dragon, Wyrmling</entry>
+		<entry>Centaur</entry>
+		<entry>Green Dragon, Wyrmling</entry>
+		<entry>Doppelganger</entry>
+		<entry>Dryad</entry>
+		<entry>Ettercap</entry>
+		<entry>Giant Eagle</entry>
+		<entry>Giant Owl</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue5</name>
+		<entry>Black Dragon, Very Young</entry>
+		<entry>Displacer Beast</entry>
+		<entry>Gargoyle</entry>
+		<entry>Griffon</entry>
+		<entry>Harpy</entry>
+		<entry>Kapoacinth</entry>
+		<entry>Minotaur</entry>
+		<entry>Red Dragon, Wyrmling</entry>
+		<entry>Satyr with pipes</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue6</name>
+		<entry>Manticore</entry>
+		<entry>Scrag</entry>
+		<entry>Troll</entry>
+		<entry>Winter Wolf</entry>
+		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Blue Dragon, Very Young</entry>
+		<entry>Green Dragon, Very Young</entry>
+		<entry>White Dragon, Young</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue7</name>
+		<entry>Hieracosphinx</entry>
+		<entry>Annis</entry>
+		<entry>Black Dragon, Young</entry>
+		<entry>Green Dragon, Young</entry>
+		<entry>Green Hag</entry>
+		<entry>Red Dragon, Very Young</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue8</name>
+		<entry>Drider</entry>
+		<entry>Blue Dragon, Young</entry>
+		<entry>White Dragon, Juvenile</entry>
+		<entry>Ettin</entry>
+		<entry>Lamia</entry>
+		<entry>Medusa</entry>
+		<entry>Nymph</entry>
+		<entry>Shambling Mound</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue9</name>
+		<entry>Hill Giant</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Scorpionfolk</entry>
+		<entry>Red Dragon, Young</entry>
+		<entry>Treant</entry>
+		<entry>Yuan-ti Abomination</entry>
+		<entry>Aboleth</entry>
+		<entry>Black Dragon, Juvenile</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Criosphinx</entry>
+		<entry>Dragonne</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue10</name>
+		<entry>Athach</entry>
+		<entry>Green Dragon, Juvenile</entry>
+		<entry>Gray Render</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Mind Flayer (Illithid)</entry>
+		<entry>Stone Giant</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue11</name>
+		<entry>Frost Giant</entry>
+		<entry>Stone Giant Elder</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue12</name>
+		<entry>Fire Giant</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue13</name>
+		<entry>Cloud Giant</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue14</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue15</name>
+		<entry>Storm Giant</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue16</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue17</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue18</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue19</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue20</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue21</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue22</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue23</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue24</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue25</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue26</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue27</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue28</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue29</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureTrue30</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse0</name>
+		<entry>Merfolk</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Goblin</entry>
+		<entry>Human</entry>
+		<entry>Gray Elf</entry>
+		<entry>High Elf</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Orc</entry>
+		<entry>Kobold</entry>
+		<entry>Hobgoblin</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse1/10</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse1/8</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse1/6</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse1/4</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse1/3</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse1/2</name>
+		<entry>Locathah</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse1</name>
+		<entry>Gnoll</entry>
+		<entry>Grig</entry>
+		<entry>Grig with fiddle</entry>
+		<entry>Grimlock</entry>
+		<entry>Krenshar</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Nixie</entry>
+		<entry>Pseudodragon</entry>
+		<entry>Troglodyte</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse2</name>
+		<entry>Bugbear</entry>
+		<entry>Kuo-toa</entry>
+		<entry>Malenti</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Skum</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse3</name>
+		<entry>Blink Dog</entry>
+		<entry>Derro</entry>
+		<entry>Derro (Sane)</entry>
+		<entry>Satyr</entry>
+		<entry>Worg</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse4</name>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Pegasus</entry>
+		<entry>Pixie</entry>
+		<entry>Sea Hag</entry>
+		<entry>Unicorn</entry>
+		<entry>Yuan-ti Pureblood</entry>
+		<entry>Aranea</entry>
+		<entry>Brass Dragon, Wyrmling</entry>
+		<entry>Bronze Dragon, Wyrmling</entry>
+		<entry>Centaur</entry>
+		<entry>Copper Dragon, Wyrmling</entry>
+		<entry>Doppelganger</entry>
+		<entry>Dryad</entry>
+		<entry>Ettercap</entry>
+		<entry>Giant Eagle</entry>
+		<entry>Giant Owl</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse5</name>
+		<entry>Brass Dragon, Very Young</entry>
+		<entry>Displacer Beast</entry>
+		<entry>Gargoyle</entry>
+		<entry>Griffon</entry>
+		<entry>Harpy</entry>
+		<entry>Kapoacinth</entry>
+		<entry>Minotaur</entry>
+		<entry>Pixie with Irresistible dance</entry>
+		<entry>Satyr with pipes</entry>
+		<entry>Silver Dragon, Wyrmling</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse6</name>
+		<entry>Manticore</entry>
+		<entry>Scrag</entry>
+		<entry>Troll</entry>
+		<entry>Winter Wolf</entry>
+		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse7</name>
+		<entry>Annis</entry>
+		<entry>Bronze Dragon, Very Young</entry>
+		<entry>Copper Dragon, Very Young</entry>
+		<entry>Gold Dragon, Wyrmling</entry>
+		<entry>Green Hag</entry>
+		<entry>Silver Dragon, Very Young</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse8</name>
+		<entry>Brass Dragon, Young</entry>
+		<entry>Ettin</entry>
+		<entry>Lamia</entry>
+		<entry>Medusa</entry>
+		<entry>Nymph</entry>
+		<entry>Shambling Mound</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse9</name>
+		<entry>Gold Dragon, Very Young</entry>
+		<entry>Hill Giant</entry>
+		<entry>Lammasu</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Scorpionfolk</entry>
+		<entry>Silver Dragon, Young</entry>
+		<entry>Treant</entry>
+		<entry>Yuan-ti Abomination</entry>
+		<entry>Aboleth</entry>
+		<entry>Bronze Dragon, Young</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Copper Dragon, Young</entry>
+		<entry>Criosphinx</entry>
+		<entry>Dragonne</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse10</name>
+		<entry>Athach</entry>
+		<entry>Brass Dragon, Juvenile</entry>
+		<entry>Gray Render</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Mind Flayer (Illithid)</entry>
+		<entry>Stone Giant</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse11</name>
+		<entry>Androsphinx</entry>
+		<entry>Copper Dragon, Juvenile</entry>
+		<entry>Frost Giant</entry>
+		<entry>Gold Dragon, Young</entry>
+		<entry>Stone Giant Elder</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse12</name>
+		<entry>Fire Giant</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse13</name>
+		<entry>Cloud Giant</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse14</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse15</name>
+		<entry>Storm Giant</entry>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse16</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse17</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse18</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse19</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse20</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse21</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse22</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse23</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse24</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse25</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse26</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse27</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse28</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse29</name>
+	</collection>
+	<collection>
+		<name>Fiendish CreatureFalse30</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue0</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue1/10</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue1/8</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue1/6</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue1/4</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue1/3</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue1/2</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue1</name>
+		<entry>Merfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Goblin</entry>
+		<entry>Human</entry>
+		<entry>Gray Elf</entry>
+		<entry>High Elf</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Orc</entry>
+		<entry>Kobold</entry>
+		<entry>Hobgoblin</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue2</name>
+		<entry>Gnoll</entry>
+		<entry>Grig</entry>
+		<entry>Grig with fiddle</entry>
+		<entry>Grimlock</entry>
+		<entry>Krenshar</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Nixie</entry>
+		<entry>Pseudodragon</entry>
+		<entry>Troglodyte</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue3</name>
+		<entry>Bugbear</entry>
+		<entry>Kuo-toa</entry>
+		<entry>Malenti</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Skum</entry>
+		<entry>Blink Dog</entry>
+		<entry>Satyr</entry>
+		<entry>Worg</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue4</name>
+		<entry>Derro</entry>
+		<entry>Derro (Sane)</entry>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Pegasus</entry>
+		<entry>Unicorn</entry>
+		<entry>Yuan-ti Pureblood</entry>
+		<entry>Brass Dragon, Wyrmling</entry>
+		<entry>Centaur</entry>
+		<entry>Copper Dragon, Wyrmling</entry>
+		<entry>Doppelganger</entry>
+		<entry>Dryad</entry>
+		<entry>Ettercap</entry>
+		<entry>Giant Eagle</entry>
+		<entry>Giant Owl</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue5</name>
+		<entry>Pixie</entry>
+		<entry>Sea Hag</entry>
+		<entry>Aranea</entry>
+		<entry>Bronze Dragon, Wyrmling</entry>
+		<entry>Gargoyle</entry>
+		<entry>Kapoacinth</entry>
+		<entry>Satyr with pipes</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue6</name>
+		<entry>Silver Dragon, Wyrmling</entry>
+		<entry>Minotaur</entry>
+		<entry>Pixie with Irresistible dance</entry>
+		<entry>Griffon</entry>
+		<entry>Harpy</entry>
+		<entry>Brass Dragon, Very Young</entry>
+		<entry>Displacer Beast</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue7</name>
+		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Manticore</entry>
+		<entry>Scrag</entry>
+		<entry>Troll</entry>
+		<entry>Winter Wolf</entry>
+		<entry>Bronze Dragon, Very Young</entry>
+		<entry>Copper Dragon, Very Young</entry>
+		<entry>Gold Dragon, Wyrmling</entry>
+		<entry>Green Hag</entry>
+		<entry>Silver Dragon, Very Young</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue8</name>
+		<entry>Annis</entry>
+		<entry>Brass Dragon, Young</entry>
+		<entry>Ettin</entry>
+		<entry>Lamia</entry>
+		<entry>Shambling Mound</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue9</name>
+		<entry>Medusa</entry>
+		<entry>Nymph</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Yuan-ti Abomination</entry>
+		<entry>Aboleth</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Criosphinx</entry>
+		<entry>Dragonne</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue10</name>
+		<entry>Treant</entry>
+		<entry>Silver Dragon, Young</entry>
+		<entry>Scorpionfolk</entry>
+		<entry>Lammasu</entry>
+		<entry>Hill Giant</entry>
+		<entry>Gold Dragon, Very Young</entry>
+		<entry>Copper Dragon, Young</entry>
+		<entry>Bronze Dragon, Young</entry>
+		<entry>Gray Render</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Mind Flayer (Illithid)</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue11</name>
+		<entry>Stone Giant</entry>
+		<entry>Brass Dragon, Juvenile</entry>
+		<entry>Athach</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue12</name>
+		<entry>Stone Giant Elder</entry>
+		<entry>Gold Dragon, Young</entry>
+		<entry>Frost Giant</entry>
+		<entry>Copper Dragon, Juvenile</entry>
+		<entry>Androsphinx</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue13</name>
+		<entry>Fire Giant</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue14</name>
+		<entry>Cloud Giant</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue15</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue16</name>
+		<entry>Storm Giant</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue17</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue18</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue19</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue20</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue21</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue22</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue23</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue24</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue25</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue26</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue27</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue28</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue29</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialTrue30</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse0</name>
+		<entry>Merfolk</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Goblin</entry>
+		<entry>Human</entry>
+		<entry>Gray Elf</entry>
+		<entry>High Elf</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Orc</entry>
+		<entry>Kobold</entry>
+		<entry>Hobgoblin</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse1/10</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse1/8</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse1/6</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse1/4</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse1/3</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse1/2</name>
+		<entry>Locathah</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse1</name>
+		<entry>Gnoll</entry>
+		<entry>Grig</entry>
+		<entry>Grig with fiddle</entry>
+		<entry>Grimlock</entry>
+		<entry>Krenshar</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Nixie</entry>
+		<entry>Pseudodragon</entry>
+		<entry>Troglodyte</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse2</name>
+		<entry>Bugbear</entry>
+		<entry>Kuo-toa</entry>
+		<entry>Malenti</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Skum</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse3</name>
+		<entry>Blink Dog</entry>
+		<entry>Derro</entry>
+		<entry>Derro (Sane)</entry>
+		<entry>Satyr</entry>
+		<entry>Worg</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse4</name>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Pegasus</entry>
+		<entry>Pixie</entry>
+		<entry>Sea Hag</entry>
+		<entry>Unicorn</entry>
+		<entry>Yuan-ti Pureblood</entry>
+		<entry>Aranea</entry>
+		<entry>Brass Dragon, Wyrmling</entry>
+		<entry>Bronze Dragon, Wyrmling</entry>
+		<entry>Centaur</entry>
+		<entry>Copper Dragon, Wyrmling</entry>
+		<entry>Doppelganger</entry>
+		<entry>Dryad</entry>
+		<entry>Ettercap</entry>
+		<entry>Giant Eagle</entry>
+		<entry>Giant Owl</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse5</name>
+		<entry>Brass Dragon, Very Young</entry>
+		<entry>Displacer Beast</entry>
+		<entry>Gargoyle</entry>
+		<entry>Griffon</entry>
+		<entry>Harpy</entry>
+		<entry>Kapoacinth</entry>
+		<entry>Minotaur</entry>
+		<entry>Pixie with Irresistible dance</entry>
+		<entry>Satyr with pipes</entry>
+		<entry>Silver Dragon, Wyrmling</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse6</name>
+		<entry>Manticore</entry>
+		<entry>Scrag</entry>
+		<entry>Troll</entry>
+		<entry>Winter Wolf</entry>
+		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse7</name>
+		<entry>Annis</entry>
+		<entry>Bronze Dragon, Very Young</entry>
+		<entry>Copper Dragon, Very Young</entry>
+		<entry>Gold Dragon, Wyrmling</entry>
+		<entry>Green Hag</entry>
+		<entry>Silver Dragon, Very Young</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse8</name>
+		<entry>Brass Dragon, Young</entry>
+		<entry>Ettin</entry>
+		<entry>Lamia</entry>
+		<entry>Medusa</entry>
+		<entry>Nymph</entry>
+		<entry>Shambling Mound</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse9</name>
+		<entry>Gold Dragon, Very Young</entry>
+		<entry>Hill Giant</entry>
+		<entry>Lammasu</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Scorpionfolk</entry>
+		<entry>Silver Dragon, Young</entry>
+		<entry>Treant</entry>
+		<entry>Yuan-ti Abomination</entry>
+		<entry>Aboleth</entry>
+		<entry>Bronze Dragon, Young</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Copper Dragon, Young</entry>
+		<entry>Criosphinx</entry>
+		<entry>Dragonne</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse10</name>
+		<entry>Athach</entry>
+		<entry>Brass Dragon, Juvenile</entry>
+		<entry>Gray Render</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Mind Flayer (Illithid)</entry>
+		<entry>Stone Giant</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse11</name>
+		<entry>Androsphinx</entry>
+		<entry>Copper Dragon, Juvenile</entry>
+		<entry>Frost Giant</entry>
+		<entry>Gold Dragon, Young</entry>
+		<entry>Stone Giant Elder</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse12</name>
+		<entry>Fire Giant</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse13</name>
+		<entry>Cloud Giant</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse14</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse15</name>
+		<entry>Storm Giant</entry>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse16</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse17</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse18</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse19</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse20</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse21</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse22</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse23</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse24</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse25</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse26</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse27</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse28</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse29</name>
+	</collection>
+	<collection>
+		<name>Half-CelestialFalse30</name>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue0</name>
+		<entry>Merfolk</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Goblin</entry>
+		<entry>Human</entry>
+		<entry>Gray Elf</entry>
+		<entry>High Elf</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Orc</entry>
+		<entry>Kobold</entry>
+		<entry>Hobgoblin</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue1/10</name>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue1/8</name>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue1/6</name>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue1/4</name>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue1/3</name>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue1/2</name>
+		<entry>Locathah</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue1</name>
+		<entry>Gnoll</entry>
+		<entry>Grimlock</entry>
+		<entry>Krenshar</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Nixie</entry>
+		<entry>Troglodyte</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue2</name>
+		<entry>White Dragon, Wyrmling</entry>
+		<entry>Bugbear</entry>
+		<entry>Kuo-toa</entry>
+		<entry>Malenti</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Skum</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue3</name>
+		<entry>Blink Dog</entry>
+		<entry>Derro</entry>
+		<entry>Derro (Sane)</entry>
+		<entry>Satyr</entry>
+		<entry>Worg</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue4</name>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Pegasus</entry>
+		<entry>White Dragon, Very Young</entry>
+		<entry>Sea Hag</entry>
+		<entry>Yuan-ti Pureblood</entry>
+		<entry>Aranea</entry>
+		<entry>Black Dragon, Wyrmling</entry>
+		<entry>Blue Dragon, Wyrmling</entry>
+		<entry>Centaur</entry>
+		<entry>Green Dragon, Wyrmling</entry>
+		<entry>Doppelganger</entry>
+		<entry>Dryad</entry>
+		<entry>Ettercap</entry>
+		<entry>Giant Eagle</entry>
+		<entry>Giant Owl</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue5</name>
+		<entry>Black Dragon, Very Young</entry>
+		<entry>Displacer Beast</entry>
+		<entry>Gargoyle</entry>
+		<entry>Griffon</entry>
+		<entry>Harpy</entry>
+		<entry>Kapoacinth</entry>
+		<entry>Minotaur</entry>
+		<entry>Red Dragon, Wyrmling</entry>
+		<entry>Satyr with pipes</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue6</name>
+		<entry>Manticore</entry>
+		<entry>Scrag</entry>
+		<entry>Troll</entry>
+		<entry>Winter Wolf</entry>
+		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Blue Dragon, Very Young</entry>
+		<entry>Green Dragon, Very Young</entry>
+		<entry>White Dragon, Young</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue7</name>
+		<entry>Hieracosphinx</entry>
+		<entry>Annis</entry>
+		<entry>Black Dragon, Young</entry>
+		<entry>Green Dragon, Young</entry>
+		<entry>Green Hag</entry>
+		<entry>Red Dragon, Very Young</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue8</name>
+		<entry>Drider</entry>
+		<entry>Blue Dragon, Young</entry>
+		<entry>White Dragon, Juvenile</entry>
+		<entry>Ettin</entry>
+		<entry>Lamia</entry>
+		<entry>Medusa</entry>
+		<entry>Nymph</entry>
+		<entry>Shambling Mound</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue9</name>
+		<entry>Hill Giant</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Scorpionfolk</entry>
+		<entry>Red Dragon, Young</entry>
+		<entry>Treant</entry>
+		<entry>Yuan-ti Abomination</entry>
+		<entry>Aboleth</entry>
+		<entry>Black Dragon, Juvenile</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Criosphinx</entry>
+		<entry>Dragonne</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue10</name>
+		<entry>Athach</entry>
+		<entry>Green Dragon, Juvenile</entry>
+		<entry>Gray Render</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Mind Flayer (Illithid)</entry>
+		<entry>Stone Giant</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue11</name>
+		<entry>Frost Giant</entry>
+		<entry>Stone Giant Elder</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue12</name>
+		<entry>Fire Giant</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue13</name>
+		<entry>Cloud Giant</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue14</name>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue15</name>
+		<entry>Storm Giant</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue16</name>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue17</name>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue18</name>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue19</name>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue20</name>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue21</name>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue22</name>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue23</name>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue24</name>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue25</name>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue26</name>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue27</name>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue28</name>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue29</name>
+	</collection>
+	<collection>
+		<name>Half-FiendTrue30</name>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse0</name>
+		<entry>Merfolk</entry>
+		<entry>Aquatic Elf</entry>
+		<entry>Deep Dwarf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Deep Halfling</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Drow</entry>
+		<entry>Duergar</entry>
+		<entry>Forest Gnome</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Goblin</entry>
+		<entry>Human</entry>
+		<entry>Gray Elf</entry>
+		<entry>High Elf</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Orc</entry>
+		<entry>Kobold</entry>
+		<entry>Hobgoblin</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse1/10</name>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse1/8</name>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse1/6</name>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse1/4</name>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse1/3</name>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse1/2</name>
+		<entry>Locathah</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse1</name>
+		<entry>Gnoll</entry>
+		<entry>Grig</entry>
+		<entry>Grig with fiddle</entry>
+		<entry>Grimlock</entry>
+		<entry>Krenshar</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Nixie</entry>
+		<entry>Pseudodragon</entry>
+		<entry>Troglodyte</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse2</name>
+		<entry>Bugbear</entry>
+		<entry>Kuo-toa</entry>
+		<entry>Malenti</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Skum</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse3</name>
+		<entry>Blink Dog</entry>
+		<entry>Derro</entry>
+		<entry>Derro (Sane)</entry>
+		<entry>Satyr</entry>
+		<entry>Worg</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse4</name>
+		<entry>Merrow</entry>
+		<entry>Ogre</entry>
+		<entry>Pegasus</entry>
+		<entry>Pixie</entry>
+		<entry>Sea Hag</entry>
+		<entry>Unicorn</entry>
+		<entry>Yuan-ti Pureblood</entry>
+		<entry>Aranea</entry>
+		<entry>Brass Dragon, Wyrmling</entry>
+		<entry>Bronze Dragon, Wyrmling</entry>
+		<entry>Centaur</entry>
+		<entry>Copper Dragon, Wyrmling</entry>
+		<entry>Doppelganger</entry>
+		<entry>Dryad</entry>
+		<entry>Ettercap</entry>
+		<entry>Giant Eagle</entry>
+		<entry>Giant Owl</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse5</name>
+		<entry>Brass Dragon, Very Young</entry>
+		<entry>Displacer Beast</entry>
+		<entry>Gargoyle</entry>
+		<entry>Griffon</entry>
+		<entry>Harpy</entry>
+		<entry>Kapoacinth</entry>
+		<entry>Minotaur</entry>
+		<entry>Pixie with Irresistible dance</entry>
+		<entry>Satyr with pipes</entry>
+		<entry>Silver Dragon, Wyrmling</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse6</name>
+		<entry>Manticore</entry>
+		<entry>Scrag</entry>
+		<entry>Troll</entry>
+		<entry>Winter Wolf</entry>
+		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse7</name>
+		<entry>Annis</entry>
+		<entry>Bronze Dragon, Very Young</entry>
+		<entry>Copper Dragon, Very Young</entry>
+		<entry>Gold Dragon, Wyrmling</entry>
+		<entry>Green Hag</entry>
+		<entry>Silver Dragon, Very Young</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse8</name>
+		<entry>Brass Dragon, Young</entry>
+		<entry>Ettin</entry>
+		<entry>Lamia</entry>
+		<entry>Medusa</entry>
+		<entry>Nymph</entry>
+		<entry>Shambling Mound</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse9</name>
+		<entry>Gold Dragon, Very Young</entry>
+		<entry>Hill Giant</entry>
+		<entry>Lammasu</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Scorpionfolk</entry>
+		<entry>Silver Dragon, Young</entry>
+		<entry>Treant</entry>
+		<entry>Yuan-ti Abomination</entry>
+		<entry>Aboleth</entry>
+		<entry>Bronze Dragon, Young</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Copper Dragon, Young</entry>
+		<entry>Criosphinx</entry>
+		<entry>Dragonne</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse10</name>
+		<entry>Athach</entry>
+		<entry>Brass Dragon, Juvenile</entry>
+		<entry>Gray Render</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Mind Flayer (Illithid)</entry>
+		<entry>Stone Giant</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse11</name>
+		<entry>Androsphinx</entry>
+		<entry>Copper Dragon, Juvenile</entry>
+		<entry>Frost Giant</entry>
+		<entry>Gold Dragon, Young</entry>
+		<entry>Stone Giant Elder</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse12</name>
+		<entry>Fire Giant</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse13</name>
+		<entry>Cloud Giant</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse14</name>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse15</name>
+		<entry>Storm Giant</entry>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse16</name>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse17</name>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse18</name>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse19</name>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse20</name>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse21</name>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse22</name>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse23</name>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse24</name>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse25</name>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse26</name>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse27</name>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse28</name>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse29</name>
+	</collection>
+	<collection>
+		<name>Half-FiendFalse30</name>
+	</collection>
+	<collection>
+		<name>NoneTrue0</name>
+	</collection>
+	<collection>
+		<name>NoneTrue1/10</name>
+	</collection>
+	<collection>
+		<name>NoneTrue1/8</name>
+	</collection>
+	<collection>
+		<name>NoneTrue1/6</name>
+	</collection>
+	<collection>
+		<name>NoneTrue1/4</name>
+	</collection>
+	<collection>
+		<name>NoneTrue1/3</name>
+	</collection>
+	<collection>
+		<name>NoneTrue1/2</name>
+	</collection>
+	<collection>
+		<name>NoneTrue1</name>
+	</collection>
+	<collection>
+		<name>NoneTrue2</name>
+	</collection>
+	<collection>
+		<name>NoneTrue3</name>
+	</collection>
+	<collection>
+		<name>NoneTrue4</name>
+	</collection>
+	<collection>
+		<name>NoneTrue5</name>
+	</collection>
+	<collection>
+		<name>NoneTrue6</name>
+	</collection>
+	<collection>
+		<name>NoneTrue7</name>
+	</collection>
+	<collection>
+		<name>NoneTrue8</name>
+	</collection>
+	<collection>
+		<name>NoneTrue9</name>
+	</collection>
+	<collection>
+		<name>NoneTrue10</name>
+	</collection>
+	<collection>
+		<name>NoneTrue11</name>
+	</collection>
+	<collection>
+		<name>NoneTrue12</name>
+	</collection>
+	<collection>
+		<name>NoneTrue13</name>
+	</collection>
+	<collection>
+		<name>NoneTrue14</name>
+	</collection>
+	<collection>
+		<name>NoneTrue15</name>
+	</collection>
+	<collection>
+		<name>NoneTrue16</name>
+	</collection>
+	<collection>
+		<name>NoneTrue17</name>
+	</collection>
+	<collection>
+		<name>NoneTrue18</name>
+	</collection>
+	<collection>
+		<name>NoneTrue19</name>
+	</collection>
+	<collection>
+		<name>NoneTrue20</name>
+	</collection>
+	<collection>
+		<name>NoneTrue21</name>
+	</collection>
+	<collection>
+		<name>NoneTrue22</name>
+	</collection>
+	<collection>
+		<name>NoneTrue23</name>
+	</collection>
+	<collection>
+		<name>NoneTrue24</name>
+	</collection>
+	<collection>
+		<name>NoneTrue25</name>
+	</collection>
+	<collection>
+		<name>NoneTrue26</name>
+	</collection>
+	<collection>
+		<name>NoneTrue27</name>
+	</collection>
+	<collection>
+		<name>NoneTrue28</name>
+	</collection>
+	<collection>
+		<name>NoneTrue29</name>
+	</collection>
+	<collection>
+		<name>NoneTrue30</name>
+	</collection>
+	<collection>
+		<name>NoneFalse0</name>
+	</collection>
+	<collection>
+		<name>NoneFalse1/10</name>
+	</collection>
+	<collection>
+		<name>NoneFalse1/8</name>
+	</collection>
+	<collection>
+		<name>NoneFalse1/6</name>
+	</collection>
+	<collection>
+		<name>NoneFalse1/4</name>
+	</collection>
+	<collection>
+		<name>NoneFalse1/3</name>
+	</collection>
+	<collection>
+		<name>NoneFalse1/2</name>
+	</collection>
+	<collection>
+		<name>NoneFalse1</name>
+	</collection>
+	<collection>
+		<name>NoneFalse2</name>
+	</collection>
+	<collection>
+		<name>NoneFalse3</name>
+	</collection>
+	<collection>
+		<name>NoneFalse4</name>
+	</collection>
+	<collection>
+		<name>NoneFalse5</name>
+	</collection>
+	<collection>
+		<name>NoneFalse6</name>
+	</collection>
+	<collection>
+		<name>NoneFalse7</name>
+	</collection>
+	<collection>
+		<name>NoneFalse8</name>
+	</collection>
+	<collection>
+		<name>NoneFalse9</name>
+	</collection>
+	<collection>
+		<name>NoneFalse10</name>
+	</collection>
+	<collection>
+		<name>NoneFalse11</name>
+	</collection>
+	<collection>
+		<name>NoneFalse12</name>
+	</collection>
+	<collection>
+		<name>NoneFalse13</name>
+	</collection>
+	<collection>
+		<name>NoneFalse14</name>
+	</collection>
+	<collection>
+		<name>NoneFalse15</name>
+	</collection>
+	<collection>
+		<name>NoneFalse16</name>
+	</collection>
+	<collection>
+		<name>NoneFalse17</name>
+	</collection>
+	<collection>
+		<name>NoneFalse18</name>
+	</collection>
+	<collection>
+		<name>NoneFalse19</name>
+	</collection>
+	<collection>
+		<name>NoneFalse20</name>
+	</collection>
+	<collection>
+		<name>NoneFalse21</name>
+	</collection>
+	<collection>
+		<name>NoneFalse22</name>
+	</collection>
+	<collection>
+		<name>NoneFalse23</name>
+	</collection>
+	<collection>
+		<name>NoneFalse24</name>
+	</collection>
+	<collection>
+		<name>NoneFalse25</name>
+	</collection>
+	<collection>
+		<name>NoneFalse26</name>
+	</collection>
+	<collection>
+		<name>NoneFalse27</name>
+	</collection>
+	<collection>
+		<name>NoneFalse28</name>
+	</collection>
+	<collection>
+		<name>NoneFalse29</name>
+	</collection>
+	<collection>
+		<name>NoneFalse30</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True0</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True1/10</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True1/8</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True1/6</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True1/4</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True1/3</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True1/2</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True1</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True2</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True3</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True4</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True5</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True6</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True7</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True8</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True9</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True10</name>
+		<entry>Athach</entry>
+		<entry>Gray Render</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Lammasu</entry>
+		<entry>Mind Flayer (Illithid)</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Stone Giant</entry>
+		<entry>Treant</entry>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True11</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True12</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True13</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True14</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True15</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True16</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True17</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True18</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True19</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True20</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True21</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True22</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True23</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True24</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True25</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True26</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True27</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True28</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True29</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)True30</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False0</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False1/10</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False1/8</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False1/6</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False1/4</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False1/3</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False1/2</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False1</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False2</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False3</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False4</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False5</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False6</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False7</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False8</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False9</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False10</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False11</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False12</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False13</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False14</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False15</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False16</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False17</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False18</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False19</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False20</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False21</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False22</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False23</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False24</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False25</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False26</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False27</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False28</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False29</name>
+	</collection>
+	<collection>
+		<name>Half-Dragon (Black)False30</name>
 	</collection>
 </collections>
