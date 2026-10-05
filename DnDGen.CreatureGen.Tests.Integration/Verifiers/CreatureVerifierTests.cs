@@ -31,7 +31,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Verifiers
 
             creatureVerifier = GetNewInstanceOf<ICreatureVerifier>();
 
-            timeLimit = TimeSpan.FromSeconds(1);
+            timeLimit = TimeSpan.FromSeconds(0.1);
         }
 
         [TestCase(true, false, CreatureConstants.Ape, CreatureConstants.Templates.FiendishCreature)]
@@ -1270,6 +1270,62 @@ namespace DnDGen.CreatureGen.Tests.Integration.Verifiers
             var randomizer = new AbilityRandomizer(AbilityConstants.RandomizerRolls.Wild);
             var verified = creatureVerifier.VerifyCompatibility(asCharacter, null, randomizer, filters, templates);
             Assert.That(verified, Is.True);
+        }
+
+        [TestCase(true)]
+        [TestCase(false)]
+        public void CanFilterInvalidAlignment(bool asCharacter)
+        {
+            var filters = new Filters
+            {
+                Alignments =
+                [
+                    "lawfulness goodness",
+                    "wrong alignment",
+                    "Chaotic Lawful",
+                    "Good Evil"
+                ]
+            };
+            var verified = creatureVerifier.VerifyCompatibility(asCharacter, null, null, filters);
+            Assert.That(verified, Is.False);
+        }
+
+        [TestCase(true)]
+        [TestCase(false)]
+        public void CanFilterInvalidChallengeRating(bool asCharacter)
+        {
+            var crs = ChallengeRatingConstants.GetOrdered();
+            var filters = new Filters
+            {
+                ChallengeRatings =
+                [
+                    ChallengeRatingConstants.IncreaseChallengeRating(crs[0], -1),
+                    ChallengeRatingConstants.IncreaseChallengeRating(crs[^1], 1),
+                    "666",
+                    "wrong CR"
+                ]
+            };
+            var verified = creatureVerifier.VerifyCompatibility(asCharacter, null, null, filters);
+            Assert.That(verified, Is.False);
+        }
+
+        [TestCase(true)]
+        [TestCase(false)]
+        public void CanFilterInvalidType(bool asCharacter)
+        {
+            var filters = new Filters
+            {
+                Types =
+                [
+                    "Alien",
+                    "Kiwi",
+                    "'Murican",
+                    "wrong type",
+                    "wrong subtype",
+                ]
+            };
+            var verified = creatureVerifier.VerifyCompatibility(asCharacter, null, null, filters);
+            Assert.That(verified, Is.False);
         }
     }
 }

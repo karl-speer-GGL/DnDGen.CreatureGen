@@ -43,6 +43,9 @@ namespace DnDGen.CreatureGen.Tests.Unit.Creatures
         [TestCase(ChallengeRatingConstants.CR25, "25")]
         [TestCase(ChallengeRatingConstants.CR26, "26")]
         [TestCase(ChallengeRatingConstants.CR27, "27")]
+        [TestCase(ChallengeRatingConstants.CR28, "28")]
+        [TestCase(ChallengeRatingConstants.CR29, "29")]
+        [TestCase(ChallengeRatingConstants.CR30, "30")]
         public void ChallengeRatingConstant(string constant, string value)
         {
             Assert.That(constant, Is.EqualTo(value));
@@ -87,7 +90,10 @@ namespace DnDGen.CreatureGen.Tests.Unit.Creatures
             Assert.That(orderedChallengeRatings[31], Is.EqualTo(ChallengeRatingConstants.CR25));
             Assert.That(orderedChallengeRatings[32], Is.EqualTo(ChallengeRatingConstants.CR26));
             Assert.That(orderedChallengeRatings[33], Is.EqualTo(ChallengeRatingConstants.CR27));
-            Assert.That(orderedChallengeRatings, Has.Length.EqualTo(34));
+            Assert.That(orderedChallengeRatings[34], Is.EqualTo(ChallengeRatingConstants.CR28));
+            Assert.That(orderedChallengeRatings[35], Is.EqualTo(ChallengeRatingConstants.CR29));
+            Assert.That(orderedChallengeRatings[36], Is.EqualTo(ChallengeRatingConstants.CR30));
+            Assert.That(orderedChallengeRatings, Has.Length.EqualTo(37));
         }
 
         [Test]

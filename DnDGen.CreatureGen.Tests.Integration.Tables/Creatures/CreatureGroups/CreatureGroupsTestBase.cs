@@ -87,8 +87,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures.CreatureGroups
             AlignmentConstants.TrueNeutral,
         ];
 
-        protected static IEnumerable<string> ChallengeRatings => ChallengeRatingConstants.GetOrdered()
-                    .Union(Enumerable.Range(1, 40).Select(cr => cr.ToString()));
+        protected static IEnumerable<string> ChallengeRatings => ChallengeRatingConstants.GetOrdered();
 
         protected void AssertTemplateGroup(string template, IEnumerable<string> source, bool asCharacter)
         {

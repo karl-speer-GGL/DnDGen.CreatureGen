@@ -1,6 +1,5 @@
 ﻿using DnDGen.CreatureGen.Creatures;
 using DnDGen.CreatureGen.Templates;
-using DnDGen.CreatureGen.Tests.Integration.TestData;
 using NUnit.Framework;
 using System.Linq;
 
@@ -31,19 +30,6 @@ namespace DnDGen.CreatureGen.Tests.Integration.Tables.Creatures.CreatureGroups
 
             var groupName = template + bool.FalseString + cr;
             AssertDistinctCollection(groupName, [.. templateCreatures]);
-        }
-
-        [TestCaseSource(typeof(CreatureTestData), nameof(CreatureTestData.Templates))]
-        public void CreatureGroup_Template_Final3ChallengeRatingGroupsAreEmpty(string template)
-        {
-            var last3 = ChallengeRatings.Reverse().Take(3);
-            Assert.That(last3, Contains.Item(40.ToString()));
-
-            foreach (var cr in last3)
-            {
-                var groupName = template + bool.FalseString + cr;
-                AssertDistinctCollection(groupName, []);
-            }
         }
     }
 }
