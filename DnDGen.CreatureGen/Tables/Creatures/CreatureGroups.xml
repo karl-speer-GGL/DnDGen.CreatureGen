@@ -57594,6 +57594,13 @@
 		<entry>Mind Flayer (Illithid)</entry>
 		<entry>Otyugh</entry>
 		<entry>Phasm</entry>
+		<entry>Rust Monster</entry>
+		<entry>Skum</entry>
+		<entry>Spirit Naga</entry>
+		<entry>Truly Horrid Umber Hulk</entry>
+		<entry>Umber Hulk</entry>
+		<entry>Water Naga</entry>
+		<entry>Will-O'-Wisp</entry>
 	</collection>
 	<collection>
 		<name>Celestial CreatureAir</name>
@@ -57625,6 +57632,26 @@
 		<entry>Deinonychus</entry>
 		<entry>Dire Ape</entry>
 		<entry>Dire Badger</entry>
+		<entry>Dire Bat</entry>
+		<entry>Dire Bear</entry>
+		<entry>Dire Boar</entry>
+		<entry>Dire Lion</entry>
+		<entry>Dire Rat</entry>
+		<entry>Dire Shark</entry>
+		<entry>Dire Tiger</entry>
+		<entry>Dire Weasel</entry>
+		<entry>Dire Wolf</entry>
+		<entry>Dire Wolverine</entry>
+		<entry>Dog</entry>
+		<entry>Dog, Riding</entry>
+		<entry>Donkey</entry>
+		<entry>Eagle</entry>
+		<entry>Elasmosaurus</entry>
+		<entry>Elephant</entry>
+		<entry>Giant Constrictor Snake</entry>
+		<entry>Giant Crocodile</entry>
+		<entry>Giant Octopus</entry>
+		<entry>Giant Squid</entry>
 	</collection>
 	<collection>
 		<name>Celestial CreatureAquatic</name>
@@ -57648,6 +57675,17 @@
 		<entry>Nixie</entry>
 		<entry>Octopus</entry>
 		<entry>Orca Whale</entry>
+		<entry>Porpoise</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Scrag</entry>
+		<entry>Sea Hag</entry>
+		<entry>Shark, Huge</entry>
+		<entry>Shark, Large</entry>
+		<entry>Shark, Medium</entry>
+		<entry>Skum</entry>
+		<entry>Squid</entry>
+		<entry>Water Naga</entry>
 	</collection>
 	<collection>
 		<name>Celestial CreatureArchon</name>
@@ -57674,6 +57712,26 @@
 		<entry>Bison</entry>
 		<entry>Black Bear</entry>
 		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brass Dragon, Adult</entry>
+		<entry>Brass Dragon, Ancient</entry>
+		<entry>Brass Dragon, Great Wyrm</entry>
+		<entry>Brass Dragon, Juvenile</entry>
+		<entry>Brass Dragon, Mature Adult</entry>
+		<entry>Brass Dragon, Old</entry>
+		<entry>Brass Dragon, Very Old</entry>
+		<entry>Brass Dragon, Very Young</entry>
+		<entry>Brass Dragon, Wyrm</entry>
+		<entry>Brass Dragon, Wyrmling</entry>
+		<entry>Brass Dragon, Young</entry>
+		<entry>Brass Dragon, Young Adult</entry>
+		<entry>Bronze Dragon, Adult</entry>
+		<entry>Bronze Dragon, Ancient</entry>
+		<entry>Bronze Dragon, Great Wyrm</entry>
+		<entry>Bronze Dragon, Juvenile</entry>
+		<entry>Bronze Dragon, Mature Adult</entry>
+		<entry>Bronze Dragon, Old</entry>
+		<entry>Bronze Dragon, Very Old</entry>
 	</collection>
 	<collection>
 		<name>Celestial CreatureChaotic</name>
@@ -57709,6 +57767,9 @@
 		<entry>Silver Dragon, Young</entry>
 		<entry>Silver Dragon, Young Adult</entry>
 		<entry>Six-Headed Cryohydra</entry>
+		<entry>Ten-Headed Cryohydra</entry>
+		<entry>Twelve-Headed Cryohydra</entry>
+		<entry>Winter Wolf</entry>
 	</collection>
 	<collection>
 		<name>Celestial CreatureFire</name>
@@ -57732,6 +57793,19 @@
 		<entry>Gold Dragon, Ancient</entry>
 		<entry>Gold Dragon, Great Wyrm</entry>
 		<entry>Gold Dragon, Juvenile</entry>
+		<entry>Gold Dragon, Mature Adult</entry>
+		<entry>Gold Dragon, Old</entry>
+		<entry>Gold Dragon, Very Old</entry>
+		<entry>Gold Dragon, Very Young</entry>
+		<entry>Gold Dragon, Wyrm</entry>
+		<entry>Gold Dragon, Wyrmling</entry>
+		<entry>Gold Dragon, Young</entry>
+		<entry>Gold Dragon, Young Adult</entry>
+		<entry>Nine-Headed Pyrohydra</entry>
+		<entry>Seven-Headed Pyrohydra</entry>
+		<entry>Six-Headed Pyrohydra</entry>
+		<entry>Ten-Headed Pyrohydra</entry>
+		<entry>Twelve-Headed Pyrohydra</entry>
 	</collection>
 	<collection>
 		<name>Celestial CreatureEarth</name>
@@ -57792,6 +57866,26 @@
 		<entry>Bronze Dragon, Old</entry>
 		<entry>Bronze Dragon, Very Old</entry>
 		<entry>Bronze Dragon, Very Young</entry>
+		<entry>Bronze Dragon, Wyrm</entry>
+		<entry>Bronze Dragon, Wyrmling</entry>
+		<entry>Bronze Dragon, Young</entry>
+		<entry>Bronze Dragon, Young Adult</entry>
+		<entry>Copper Dragon, Adult</entry>
+		<entry>Copper Dragon, Ancient</entry>
+		<entry>Copper Dragon, Great Wyrm</entry>
+		<entry>Copper Dragon, Juvenile</entry>
+		<entry>Copper Dragon, Mature Adult</entry>
+		<entry>Copper Dragon, Old</entry>
+		<entry>Copper Dragon, Very Old</entry>
+		<entry>Copper Dragon, Very Young</entry>
+		<entry>Copper Dragon, Wyrm</entry>
+		<entry>Copper Dragon, Wyrmling</entry>
+		<entry>Copper Dragon, Young</entry>
+		<entry>Copper Dragon, Young Adult</entry>
+		<entry>Dragon Turtle</entry>
+		<entry>Gold Dragon, Adult</entry>
+		<entry>Gold Dragon, Ancient</entry>
+		<entry>Gold Dragon, Great Wyrm</entry>
 	</collection>
 	<collection>
 		<name>Celestial CreatureDwarf</name>
@@ -57846,6 +57940,26 @@
 		<entry>Bison</entry>
 		<entry>Black Bear</entry>
 		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brass Dragon, Adult</entry>
+		<entry>Brass Dragon, Ancient</entry>
+		<entry>Brass Dragon, Great Wyrm</entry>
+		<entry>Brass Dragon, Juvenile</entry>
+		<entry>Brass Dragon, Mature Adult</entry>
+		<entry>Brass Dragon, Old</entry>
+		<entry>Brass Dragon, Very Old</entry>
+		<entry>Brass Dragon, Very Young</entry>
+		<entry>Brass Dragon, Wyrm</entry>
+		<entry>Brass Dragon, Wyrmling</entry>
+		<entry>Brass Dragon, Young</entry>
+		<entry>Brass Dragon, Young Adult</entry>
+		<entry>Bronze Dragon, Adult</entry>
+		<entry>Bronze Dragon, Ancient</entry>
+		<entry>Bronze Dragon, Great Wyrm</entry>
+		<entry>Bronze Dragon, Juvenile</entry>
+		<entry>Bronze Dragon, Mature Adult</entry>
+		<entry>Bronze Dragon, Old</entry>
+		<entry>Bronze Dragon, Very Old</entry>
 	</collection>
 	<collection>
 		<name>Celestial CreatureFey</name>
@@ -57881,6 +57995,26 @@
 		<entry>Monstrous Centipede, Tiny</entry>
 		<entry>Monstrous Scorpion, Colossal</entry>
 		<entry>Monstrous Scorpion, Gargantuan</entry>
+		<entry>Monstrous Scorpion, Huge</entry>
+		<entry>Monstrous Scorpion, Large</entry>
+		<entry>Monstrous Scorpion, Medium</entry>
+		<entry>Monstrous Scorpion, Small</entry>
+		<entry>Monstrous Scorpion, Tiny</entry>
+		<entry>Monstrous Spider, Hunter, Colossal</entry>
+		<entry>Monstrous Spider, Hunter, Gargantuan</entry>
+		<entry>Monstrous Spider, Hunter, Huge</entry>
+		<entry>Monstrous Spider, Hunter, Large</entry>
+		<entry>Monstrous Spider, Hunter, Medium</entry>
+		<entry>Monstrous Spider, Hunter, Small</entry>
+		<entry>Monstrous Spider, Hunter, Tiny</entry>
+		<entry>Monstrous Spider, Web-Spinner, Colossal</entry>
+		<entry>Monstrous Spider, Web-Spinner, Gargantuan</entry>
+		<entry>Monstrous Spider, Web-Spinner, Huge</entry>
+		<entry>Monstrous Spider, Web-Spinner, Large</entry>
+		<entry>Monstrous Spider, Web-Spinner, Medium</entry>
+		<entry>Monstrous Spider, Web-Spinner, Small</entry>
+		<entry>Monstrous Spider, Web-Spinner, Tiny</entry>
+		<entry>Spider Swarm</entry>
 	</collection>
 	<collection>
 		<name>Celestial CreatureHumanoid</name>
@@ -57904,6 +58038,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Celestial CreatureReptilian</name>
@@ -57933,6 +58078,10 @@
 		<entry>Sea Hag</entry>
 		<entry>Yuan-ti Abomination</entry>
 		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Pureblood</entry>
 	</collection>
 	<collection>
 		<name>Celestial CreatureNative</name>
@@ -58019,6 +58168,26 @@
 		<entry>Cachalot Whale</entry>
 		<entry>Camel, Bactrian (Two-Humped)</entry>
 		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Cat</entry>
+		<entry>Centipede Swarm</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Cockatrice</entry>
+		<entry>Constrictor Snake</entry>
+		<entry>Criosphinx</entry>
+		<entry>Crocodile</entry>
+		<entry>Darkmantle</entry>
+		<entry>Deinonychus</entry>
+		<entry>Digester</entry>
+		<entry>Dire Ape</entry>
+		<entry>Dire Badger</entry>
+		<entry>Dire Bat</entry>
+		<entry>Dire Bear</entry>
+		<entry>Dire Boar</entry>
 	</collection>
 	<collection>
 		<name>Celestial CreatureShapechanger</name>
@@ -58057,6 +58226,14 @@
 		<entry>Mimic</entry>
 		<entry>Mind Flayer (Illithid)</entry>
 		<entry>Otyugh</entry>
+		<entry>Phasm</entry>
+		<entry>Rust Monster</entry>
+		<entry>Skum</entry>
+		<entry>Spirit Naga</entry>
+		<entry>Truly Horrid Umber Hulk</entry>
+		<entry>Umber Hulk</entry>
+		<entry>Water Naga</entry>
+		<entry>Will-O'-Wisp</entry>
 	</collection>
 	<collection>
 		<name>Fiendish CreatureAir</name>
@@ -58100,6 +58277,26 @@
 		<entry>Deinonychus</entry>
 		<entry>Dire Ape</entry>
 		<entry>Dire Badger</entry>
+		<entry>Dire Bat</entry>
+		<entry>Dire Bear</entry>
+		<entry>Dire Boar</entry>
+		<entry>Dire Lion</entry>
+		<entry>Dire Rat</entry>
+		<entry>Dire Shark</entry>
+		<entry>Dire Tiger</entry>
+		<entry>Dire Weasel</entry>
+		<entry>Dire Wolf</entry>
+		<entry>Dire Wolverine</entry>
+		<entry>Dog</entry>
+		<entry>Dog, Riding</entry>
+		<entry>Donkey</entry>
+		<entry>Eagle</entry>
+		<entry>Elasmosaurus</entry>
+		<entry>Elephant</entry>
+		<entry>Giant Constrictor Snake</entry>
+		<entry>Giant Crocodile</entry>
+		<entry>Giant Octopus</entry>
+		<entry>Giant Squid</entry>
 	</collection>
 	<collection>
 		<name>Fiendish CreatureAquatic</name>
@@ -58123,6 +58320,17 @@
 		<entry>Nixie</entry>
 		<entry>Octopus</entry>
 		<entry>Orca Whale</entry>
+		<entry>Porpoise</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Scrag</entry>
+		<entry>Sea Hag</entry>
+		<entry>Shark, Huge</entry>
+		<entry>Shark, Large</entry>
+		<entry>Shark, Medium</entry>
+		<entry>Skum</entry>
+		<entry>Squid</entry>
+		<entry>Water Naga</entry>
 	</collection>
 	<collection>
 		<name>Fiendish CreatureArchon</name>
@@ -58149,6 +58357,26 @@
 		<entry>Black Bear</entry>
 		<entry>Black Dragon, Adult</entry>
 		<entry>Black Dragon, Ancient</entry>
+		<entry>Black Dragon, Great Wyrm</entry>
+		<entry>Black Dragon, Juvenile</entry>
+		<entry>Black Dragon, Mature Adult</entry>
+		<entry>Black Dragon, Old</entry>
+		<entry>Black Dragon, Very Old</entry>
+		<entry>Black Dragon, Very Young</entry>
+		<entry>Black Dragon, Wyrm</entry>
+		<entry>Black Dragon, Wyrmling</entry>
+		<entry>Black Dragon, Young</entry>
+		<entry>Black Dragon, Young Adult</entry>
+		<entry>Black Pudding</entry>
+		<entry>Blink Dog</entry>
+		<entry>Blue Dragon, Adult</entry>
+		<entry>Blue Dragon, Ancient</entry>
+		<entry>Blue Dragon, Great Wyrm</entry>
+		<entry>Blue Dragon, Juvenile</entry>
+		<entry>Blue Dragon, Mature Adult</entry>
+		<entry>Blue Dragon, Old</entry>
+		<entry>Blue Dragon, Very Old</entry>
+		<entry>Blue Dragon, Very Young</entry>
 	</collection>
 	<collection>
 		<name>Fiendish CreatureChaotic</name>
@@ -58185,6 +58413,9 @@
 		<entry>White Dragon, Very Young</entry>
 		<entry>White Dragon, Wyrm</entry>
 		<entry>White Dragon, Wyrmling</entry>
+		<entry>White Dragon, Young</entry>
+		<entry>White Dragon, Young Adult</entry>
+		<entry>Winter Wolf</entry>
 	</collection>
 	<collection>
 		<name>Fiendish CreatureFire</name>
@@ -58208,6 +58439,7 @@
 		<entry>Seven-Headed Pyrohydra</entry>
 		<entry>Six-Headed Pyrohydra</entry>
 		<entry>Ten-Headed Pyrohydra</entry>
+		<entry>Twelve-Headed Pyrohydra</entry>
 	</collection>
 	<collection>
 		<name>Fiendish CreatureEarth</name>
@@ -58268,6 +58500,26 @@
 		<entry>Blue Dragon, Old</entry>
 		<entry>Blue Dragon, Very Old</entry>
 		<entry>Blue Dragon, Very Young</entry>
+		<entry>Blue Dragon, Wyrm</entry>
+		<entry>Blue Dragon, Wyrmling</entry>
+		<entry>Blue Dragon, Young</entry>
+		<entry>Blue Dragon, Young Adult</entry>
+		<entry>Dragon Turtle</entry>
+		<entry>Green Dragon, Adult</entry>
+		<entry>Green Dragon, Ancient</entry>
+		<entry>Green Dragon, Great Wyrm</entry>
+		<entry>Green Dragon, Juvenile</entry>
+		<entry>Green Dragon, Mature Adult</entry>
+		<entry>Green Dragon, Old</entry>
+		<entry>Green Dragon, Very Old</entry>
+		<entry>Green Dragon, Very Young</entry>
+		<entry>Green Dragon, Wyrm</entry>
+		<entry>Green Dragon, Wyrmling</entry>
+		<entry>Green Dragon, Young</entry>
+		<entry>Green Dragon, Young Adult</entry>
+		<entry>Red Dragon, Adult</entry>
+		<entry>Red Dragon, Ancient</entry>
+		<entry>Red Dragon, Great Wyrm</entry>
 	</collection>
 	<collection>
 		<name>Fiendish CreatureDwarf</name>
@@ -58322,6 +58574,26 @@
 		<entry>Black Bear</entry>
 		<entry>Black Dragon, Adult</entry>
 		<entry>Black Dragon, Ancient</entry>
+		<entry>Black Dragon, Great Wyrm</entry>
+		<entry>Black Dragon, Juvenile</entry>
+		<entry>Black Dragon, Mature Adult</entry>
+		<entry>Black Dragon, Old</entry>
+		<entry>Black Dragon, Very Old</entry>
+		<entry>Black Dragon, Very Young</entry>
+		<entry>Black Dragon, Wyrm</entry>
+		<entry>Black Dragon, Wyrmling</entry>
+		<entry>Black Dragon, Young</entry>
+		<entry>Black Dragon, Young Adult</entry>
+		<entry>Black Pudding</entry>
+		<entry>Blink Dog</entry>
+		<entry>Blue Dragon, Adult</entry>
+		<entry>Blue Dragon, Ancient</entry>
+		<entry>Blue Dragon, Great Wyrm</entry>
+		<entry>Blue Dragon, Juvenile</entry>
+		<entry>Blue Dragon, Mature Adult</entry>
+		<entry>Blue Dragon, Old</entry>
+		<entry>Blue Dragon, Very Old</entry>
+		<entry>Blue Dragon, Very Young</entry>
 	</collection>
 	<collection>
 		<name>Fiendish CreatureFey</name>
@@ -58353,6 +58625,26 @@
 		<entry>Monstrous Centipede, Tiny</entry>
 		<entry>Monstrous Scorpion, Colossal</entry>
 		<entry>Monstrous Scorpion, Gargantuan</entry>
+		<entry>Monstrous Scorpion, Huge</entry>
+		<entry>Monstrous Scorpion, Large</entry>
+		<entry>Monstrous Scorpion, Medium</entry>
+		<entry>Monstrous Scorpion, Small</entry>
+		<entry>Monstrous Scorpion, Tiny</entry>
+		<entry>Monstrous Spider, Hunter, Colossal</entry>
+		<entry>Monstrous Spider, Hunter, Gargantuan</entry>
+		<entry>Monstrous Spider, Hunter, Huge</entry>
+		<entry>Monstrous Spider, Hunter, Large</entry>
+		<entry>Monstrous Spider, Hunter, Medium</entry>
+		<entry>Monstrous Spider, Hunter, Small</entry>
+		<entry>Monstrous Spider, Hunter, Tiny</entry>
+		<entry>Monstrous Spider, Web-Spinner, Colossal</entry>
+		<entry>Monstrous Spider, Web-Spinner, Gargantuan</entry>
+		<entry>Monstrous Spider, Web-Spinner, Huge</entry>
+		<entry>Monstrous Spider, Web-Spinner, Large</entry>
+		<entry>Monstrous Spider, Web-Spinner, Medium</entry>
+		<entry>Monstrous Spider, Web-Spinner, Small</entry>
+		<entry>Monstrous Spider, Web-Spinner, Tiny</entry>
+		<entry>Spider Swarm</entry>
 	</collection>
 	<collection>
 		<name>Fiendish CreatureHumanoid</name>
@@ -58376,6 +58668,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Fiendish CreatureReptilian</name>
@@ -58405,6 +58708,10 @@
 		<entry>Sea Hag</entry>
 		<entry>Yuan-ti Abomination</entry>
 		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Pureblood</entry>
 	</collection>
 	<collection>
 		<name>Fiendish CreatureNative</name>
@@ -58496,6 +58803,26 @@
 		<entry>Camel, Bactrian (Two-Humped)</entry>
 		<entry>Camel, Dromedary (One-Humped)</entry>
 		<entry>Cat</entry>
+		<entry>Centipede Swarm</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Cockatrice</entry>
+		<entry>Constrictor Snake</entry>
+		<entry>Criosphinx</entry>
+		<entry>Crocodile</entry>
+		<entry>Darkmantle</entry>
+		<entry>Deinonychus</entry>
+		<entry>Digester</entry>
+		<entry>Dire Ape</entry>
+		<entry>Dire Badger</entry>
+		<entry>Dire Bat</entry>
+		<entry>Dire Bear</entry>
+		<entry>Dire Boar</entry>
+		<entry>Dire Lion</entry>
 	</collection>
 	<collection>
 		<name>Fiendish CreatureShapechanger</name>
@@ -58535,6 +58862,13 @@
 		<entry>Mind Flayer (Illithid)</entry>
 		<entry>Otyugh</entry>
 		<entry>Phasm</entry>
+		<entry>Rust Monster</entry>
+		<entry>Skum</entry>
+		<entry>Spirit Naga</entry>
+		<entry>Truly Horrid Umber Hulk</entry>
+		<entry>Umber Hulk</entry>
+		<entry>Water Naga</entry>
+		<entry>Will-O'-Wisp</entry>
 	</collection>
 	<collection>
 		<name>Half-CelestialAir</name>
@@ -58574,6 +58908,26 @@
 		<entry>Deinonychus</entry>
 		<entry>Dire Ape</entry>
 		<entry>Dire Badger</entry>
+		<entry>Dire Bat</entry>
+		<entry>Dire Bear</entry>
+		<entry>Dire Boar</entry>
+		<entry>Dire Lion</entry>
+		<entry>Dire Rat</entry>
+		<entry>Dire Shark</entry>
+		<entry>Dire Tiger</entry>
+		<entry>Dire Weasel</entry>
+		<entry>Dire Wolf</entry>
+		<entry>Dire Wolverine</entry>
+		<entry>Dog</entry>
+		<entry>Dog, Riding</entry>
+		<entry>Donkey</entry>
+		<entry>Eagle</entry>
+		<entry>Elasmosaurus</entry>
+		<entry>Elephant</entry>
+		<entry>Giant Constrictor Snake</entry>
+		<entry>Giant Crocodile</entry>
+		<entry>Giant Octopus</entry>
+		<entry>Giant Squid</entry>
 	</collection>
 	<collection>
 		<name>Half-CelestialAquatic</name>
@@ -58597,6 +58951,17 @@
 		<entry>Nixie</entry>
 		<entry>Octopus</entry>
 		<entry>Orca Whale</entry>
+		<entry>Porpoise</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Scrag</entry>
+		<entry>Sea Hag</entry>
+		<entry>Shark, Huge</entry>
+		<entry>Shark, Large</entry>
+		<entry>Shark, Medium</entry>
+		<entry>Skum</entry>
+		<entry>Squid</entry>
+		<entry>Water Naga</entry>
 	</collection>
 	<collection>
 		<name>Half-CelestialArchon</name>
@@ -58623,6 +58988,26 @@
 		<entry>Basilisk</entry>
 		<entry>Bat</entry>
 		<entry>Bat Swarm</entry>
+		<entry>Behir</entry>
+		<entry>Beholder</entry>
+		<entry>Belker</entry>
+		<entry>Bison</entry>
+		<entry>Black Bear</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brass Dragon, Adult</entry>
+		<entry>Brass Dragon, Ancient</entry>
+		<entry>Brass Dragon, Great Wyrm</entry>
+		<entry>Brass Dragon, Juvenile</entry>
+		<entry>Brass Dragon, Mature Adult</entry>
+		<entry>Brass Dragon, Old</entry>
+		<entry>Brass Dragon, Very Old</entry>
+		<entry>Brass Dragon, Very Young</entry>
+		<entry>Brass Dragon, Wyrm</entry>
+		<entry>Brass Dragon, Wyrmling</entry>
+		<entry>Brass Dragon, Young</entry>
+		<entry>Brass Dragon, Young Adult</entry>
+		<entry>Bronze Dragon, Adult</entry>
 	</collection>
 	<collection>
 		<name>Half-CelestialChaotic</name>
@@ -58658,6 +59043,9 @@
 		<entry>Silver Dragon, Young</entry>
 		<entry>Silver Dragon, Young Adult</entry>
 		<entry>Six-Headed Cryohydra</entry>
+		<entry>Ten-Headed Cryohydra</entry>
+		<entry>Twelve-Headed Cryohydra</entry>
+		<entry>Winter Wolf</entry>
 	</collection>
 	<collection>
 		<name>Half-CelestialFire</name>
@@ -58681,6 +59069,26 @@
 		<entry>Fire Elemental, Large</entry>
 		<entry>Fire Elemental, Medium</entry>
 		<entry>Fire Elemental, Small</entry>
+		<entry>Fire Giant</entry>
+		<entry>Five-Headed Pyrohydra</entry>
+		<entry>Gold Dragon, Adult</entry>
+		<entry>Gold Dragon, Ancient</entry>
+		<entry>Gold Dragon, Great Wyrm</entry>
+		<entry>Gold Dragon, Juvenile</entry>
+		<entry>Gold Dragon, Mature Adult</entry>
+		<entry>Gold Dragon, Old</entry>
+		<entry>Gold Dragon, Very Old</entry>
+		<entry>Gold Dragon, Very Young</entry>
+		<entry>Gold Dragon, Wyrm</entry>
+		<entry>Gold Dragon, Wyrmling</entry>
+		<entry>Gold Dragon, Young</entry>
+		<entry>Gold Dragon, Young Adult</entry>
+		<entry>Magmin</entry>
+		<entry>Nine-Headed Pyrohydra</entry>
+		<entry>Seven-Headed Pyrohydra</entry>
+		<entry>Six-Headed Pyrohydra</entry>
+		<entry>Ten-Headed Pyrohydra</entry>
+		<entry>Thoqqua</entry>
 	</collection>
 	<collection>
 		<name>Half-CelestialEarth</name>
@@ -58704,6 +59112,9 @@
 		<entry>Earth Elemental, Small</entry>
 		<entry>Gargoyle</entry>
 		<entry>Kapoacinth</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Thoqqua</entry>
 	</collection>
 	<collection>
 		<name>Half-CelestialWater</name>
@@ -58751,6 +59162,26 @@
 		<entry>Bronze Dragon, Old</entry>
 		<entry>Bronze Dragon, Very Old</entry>
 		<entry>Bronze Dragon, Very Young</entry>
+		<entry>Bronze Dragon, Wyrm</entry>
+		<entry>Bronze Dragon, Wyrmling</entry>
+		<entry>Bronze Dragon, Young</entry>
+		<entry>Bronze Dragon, Young Adult</entry>
+		<entry>Copper Dragon, Adult</entry>
+		<entry>Copper Dragon, Ancient</entry>
+		<entry>Copper Dragon, Great Wyrm</entry>
+		<entry>Copper Dragon, Juvenile</entry>
+		<entry>Copper Dragon, Mature Adult</entry>
+		<entry>Copper Dragon, Old</entry>
+		<entry>Copper Dragon, Very Old</entry>
+		<entry>Copper Dragon, Very Young</entry>
+		<entry>Copper Dragon, Wyrm</entry>
+		<entry>Copper Dragon, Wyrmling</entry>
+		<entry>Copper Dragon, Young</entry>
+		<entry>Copper Dragon, Young Adult</entry>
+		<entry>Dragon Turtle</entry>
+		<entry>Gold Dragon, Adult</entry>
+		<entry>Gold Dragon, Ancient</entry>
+		<entry>Gold Dragon, Great Wyrm</entry>
 	</collection>
 	<collection>
 		<name>Half-CelestialDwarf</name>
@@ -58781,6 +59212,14 @@
 		<entry>Fire Elemental, Medium</entry>
 		<entry>Fire Elemental, Small</entry>
 		<entry>Invisible Stalker</entry>
+		<entry>Magmin</entry>
+		<entry>Thoqqua</entry>
+		<entry>Water Elemental, Elder</entry>
+		<entry>Water Elemental, Greater</entry>
+		<entry>Water Elemental, Huge</entry>
+		<entry>Water Elemental, Large</entry>
+		<entry>Water Elemental, Medium</entry>
+		<entry>Water Elemental, Small</entry>
 	</collection>
 	<collection>
 		<name>Half-CelestialElf</name>
@@ -58825,6 +59264,17 @@
 		<entry>Fire Elemental, Large</entry>
 		<entry>Fire Elemental, Medium</entry>
 		<entry>Fire Elemental, Small</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Invisible Stalker</entry>
+		<entry>Magmin</entry>
+		<entry>Thoqqua</entry>
+		<entry>Water Elemental, Elder</entry>
+		<entry>Water Elemental, Greater</entry>
+		<entry>Water Elemental, Huge</entry>
+		<entry>Water Elemental, Large</entry>
+		<entry>Water Elemental, Medium</entry>
+		<entry>Water Elemental, Small</entry>
 	</collection>
 	<collection>
 		<name>Half-CelestialFey</name>
@@ -58863,6 +59313,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Half-CelestialReptilian</name>
@@ -58892,6 +59353,10 @@
 		<entry>Sea Hag</entry>
 		<entry>Yuan-ti Abomination</entry>
 		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Pureblood</entry>
 	</collection>
 	<collection>
 		<name>Half-CelestialNative</name>
@@ -58915,6 +59380,26 @@
 		<entry>Basilisk</entry>
 		<entry>Bat</entry>
 		<entry>Bat Swarm</entry>
+		<entry>Behir</entry>
+		<entry>Beholder</entry>
+		<entry>Belker</entry>
+		<entry>Bison</entry>
+		<entry>Black Bear</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brass Dragon, Adult</entry>
+		<entry>Brass Dragon, Ancient</entry>
+		<entry>Brass Dragon, Great Wyrm</entry>
+		<entry>Brass Dragon, Juvenile</entry>
+		<entry>Brass Dragon, Mature Adult</entry>
+		<entry>Brass Dragon, Old</entry>
+		<entry>Brass Dragon, Very Old</entry>
+		<entry>Brass Dragon, Very Young</entry>
+		<entry>Brass Dragon, Wyrm</entry>
+		<entry>Brass Dragon, Wyrmling</entry>
+		<entry>Brass Dragon, Young</entry>
+		<entry>Brass Dragon, Young Adult</entry>
+		<entry>Bronze Dragon, Adult</entry>
 	</collection>
 	<collection>
 		<name>Half-CelestialOoze</name>
@@ -58941,6 +59426,26 @@
 		<entry>Basilisk</entry>
 		<entry>Bat</entry>
 		<entry>Bat Swarm</entry>
+		<entry>Behir</entry>
+		<entry>Beholder</entry>
+		<entry>Belker</entry>
+		<entry>Bison</entry>
+		<entry>Black Bear</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brass Dragon, Adult</entry>
+		<entry>Brass Dragon, Ancient</entry>
+		<entry>Brass Dragon, Great Wyrm</entry>
+		<entry>Brass Dragon, Juvenile</entry>
+		<entry>Brass Dragon, Mature Adult</entry>
+		<entry>Brass Dragon, Old</entry>
+		<entry>Brass Dragon, Very Old</entry>
+		<entry>Brass Dragon, Very Young</entry>
+		<entry>Brass Dragon, Wyrm</entry>
+		<entry>Brass Dragon, Wyrmling</entry>
+		<entry>Brass Dragon, Young</entry>
+		<entry>Brass Dragon, Young Adult</entry>
+		<entry>Bronze Dragon, Adult</entry>
 	</collection>
 	<collection>
 		<name>Half-CelestialGiant</name>
@@ -59015,6 +59520,26 @@
 		<entry>Displacer Beast Pack Lord</entry>
 		<entry>Dragonne</entry>
 		<entry>Eight-Headed Cryohydra</entry>
+		<entry>Eight-Headed Hydra</entry>
+		<entry>Eight-Headed Pyrohydra</entry>
+		<entry>Eleven-Headed Cryohydra</entry>
+		<entry>Eleven-Headed Hydra</entry>
+		<entry>Eleven-Headed Pyrohydra</entry>
+		<entry>Ethereal Marauder</entry>
+		<entry>Five-Headed Cryohydra</entry>
+		<entry>Five-Headed Hydra</entry>
+		<entry>Five-Headed Pyrohydra</entry>
+		<entry>Frost Worm</entry>
+		<entry>Giant Eagle</entry>
+		<entry>Giant Owl</entry>
+		<entry>Girallon</entry>
+		<entry>Gorgon</entry>
+		<entry>Gray Render</entry>
+		<entry>Greater Basilisk</entry>
+		<entry>Griffon</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Hippogriff</entry>
+		<entry>Kraken</entry>
 	</collection>
 	<collection>
 		<name>Half-CelestialShapechanger</name>
@@ -59050,6 +59575,14 @@
 		<entry>Mimic</entry>
 		<entry>Mind Flayer (Illithid)</entry>
 		<entry>Otyugh</entry>
+		<entry>Phasm</entry>
+		<entry>Rust Monster</entry>
+		<entry>Skum</entry>
+		<entry>Spirit Naga</entry>
+		<entry>Truly Horrid Umber Hulk</entry>
+		<entry>Umber Hulk</entry>
+		<entry>Water Naga</entry>
+		<entry>Will-O'-Wisp</entry>
 	</collection>
 	<collection>
 		<name>Half-FiendAir</name>
@@ -59073,6 +59606,8 @@
 		<entry>Green Dragon, Wyrmling</entry>
 		<entry>Green Dragon, Young</entry>
 		<entry>Green Dragon, Young Adult</entry>
+		<entry>Invisible Stalker</entry>
+		<entry>Will-O'-Wisp</entry>
 	</collection>
 	<collection>
 		<name>Half-FiendAngel</name>
@@ -59099,6 +59634,26 @@
 		<entry>Deinonychus</entry>
 		<entry>Dire Ape</entry>
 		<entry>Dire Badger</entry>
+		<entry>Dire Bat</entry>
+		<entry>Dire Bear</entry>
+		<entry>Dire Boar</entry>
+		<entry>Dire Lion</entry>
+		<entry>Dire Rat</entry>
+		<entry>Dire Shark</entry>
+		<entry>Dire Tiger</entry>
+		<entry>Dire Weasel</entry>
+		<entry>Dire Wolf</entry>
+		<entry>Dire Wolverine</entry>
+		<entry>Dog</entry>
+		<entry>Dog, Riding</entry>
+		<entry>Donkey</entry>
+		<entry>Eagle</entry>
+		<entry>Elasmosaurus</entry>
+		<entry>Elephant</entry>
+		<entry>Giant Constrictor Snake</entry>
+		<entry>Giant Crocodile</entry>
+		<entry>Giant Octopus</entry>
+		<entry>Giant Squid</entry>
 	</collection>
 	<collection>
 		<name>Half-FiendAquatic</name>
@@ -59122,6 +59677,17 @@
 		<entry>Nixie</entry>
 		<entry>Octopus</entry>
 		<entry>Orca Whale</entry>
+		<entry>Porpoise</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Scrag</entry>
+		<entry>Sea Hag</entry>
+		<entry>Shark, Huge</entry>
+		<entry>Shark, Large</entry>
+		<entry>Shark, Medium</entry>
+		<entry>Skum</entry>
+		<entry>Squid</entry>
+		<entry>Water Naga</entry>
 	</collection>
 	<collection>
 		<name>Half-FiendArchon</name>
@@ -59148,6 +59714,26 @@
 		<entry>Bat</entry>
 		<entry>Bat Swarm</entry>
 		<entry>Behir</entry>
+		<entry>Beholder</entry>
+		<entry>Belker</entry>
+		<entry>Bison</entry>
+		<entry>Black Bear</entry>
+		<entry>Black Dragon, Adult</entry>
+		<entry>Black Dragon, Ancient</entry>
+		<entry>Black Dragon, Great Wyrm</entry>
+		<entry>Black Dragon, Juvenile</entry>
+		<entry>Black Dragon, Mature Adult</entry>
+		<entry>Black Dragon, Old</entry>
+		<entry>Black Dragon, Very Old</entry>
+		<entry>Black Dragon, Very Young</entry>
+		<entry>Black Dragon, Wyrm</entry>
+		<entry>Black Dragon, Wyrmling</entry>
+		<entry>Black Dragon, Young</entry>
+		<entry>Black Dragon, Young Adult</entry>
+		<entry>Blink Dog</entry>
+		<entry>Blue Dragon, Adult</entry>
+		<entry>Blue Dragon, Ancient</entry>
+		<entry>Blue Dragon, Great Wyrm</entry>
 	</collection>
 	<collection>
 		<name>Half-FiendChaotic</name>
@@ -59184,6 +59770,9 @@
 		<entry>White Dragon, Very Young</entry>
 		<entry>White Dragon, Wyrm</entry>
 		<entry>White Dragon, Wyrmling</entry>
+		<entry>White Dragon, Young</entry>
+		<entry>White Dragon, Young Adult</entry>
+		<entry>Winter Wolf</entry>
 	</collection>
 	<collection>
 		<name>Half-FiendFire</name>
@@ -59207,6 +59796,15 @@
 		<entry>Red Dragon, Old</entry>
 		<entry>Red Dragon, Very Old</entry>
 		<entry>Red Dragon, Very Young</entry>
+		<entry>Red Dragon, Wyrm</entry>
+		<entry>Red Dragon, Wyrmling</entry>
+		<entry>Red Dragon, Young</entry>
+		<entry>Red Dragon, Young Adult</entry>
+		<entry>Seven-Headed Pyrohydra</entry>
+		<entry>Six-Headed Pyrohydra</entry>
+		<entry>Ten-Headed Pyrohydra</entry>
+		<entry>Thoqqua</entry>
+		<entry>Twelve-Headed Pyrohydra</entry>
 	</collection>
 	<collection>
 		<name>Half-FiendEarth</name>
@@ -59230,6 +59828,9 @@
 		<entry>Earth Elemental, Small</entry>
 		<entry>Gargoyle</entry>
 		<entry>Kapoacinth</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Thoqqua</entry>
 	</collection>
 	<collection>
 		<name>Half-FiendWater</name>
@@ -59277,6 +59878,26 @@
 		<entry>Blue Dragon, Old</entry>
 		<entry>Blue Dragon, Very Old</entry>
 		<entry>Blue Dragon, Very Young</entry>
+		<entry>Blue Dragon, Wyrm</entry>
+		<entry>Blue Dragon, Wyrmling</entry>
+		<entry>Blue Dragon, Young</entry>
+		<entry>Blue Dragon, Young Adult</entry>
+		<entry>Dragon Turtle</entry>
+		<entry>Green Dragon, Adult</entry>
+		<entry>Green Dragon, Ancient</entry>
+		<entry>Green Dragon, Great Wyrm</entry>
+		<entry>Green Dragon, Juvenile</entry>
+		<entry>Green Dragon, Mature Adult</entry>
+		<entry>Green Dragon, Old</entry>
+		<entry>Green Dragon, Very Old</entry>
+		<entry>Green Dragon, Very Young</entry>
+		<entry>Green Dragon, Wyrm</entry>
+		<entry>Green Dragon, Wyrmling</entry>
+		<entry>Green Dragon, Young</entry>
+		<entry>Green Dragon, Young Adult</entry>
+		<entry>Red Dragon, Adult</entry>
+		<entry>Red Dragon, Ancient</entry>
+		<entry>Red Dragon, Great Wyrm</entry>
 	</collection>
 	<collection>
 		<name>Half-FiendDwarf</name>
@@ -59307,6 +59928,14 @@
 		<entry>Fire Elemental, Medium</entry>
 		<entry>Fire Elemental, Small</entry>
 		<entry>Invisible Stalker</entry>
+		<entry>Magmin</entry>
+		<entry>Thoqqua</entry>
+		<entry>Water Elemental, Elder</entry>
+		<entry>Water Elemental, Greater</entry>
+		<entry>Water Elemental, Huge</entry>
+		<entry>Water Elemental, Large</entry>
+		<entry>Water Elemental, Medium</entry>
+		<entry>Water Elemental, Small</entry>
 	</collection>
 	<collection>
 		<name>Half-FiendElf</name>
@@ -59351,6 +59980,18 @@
 		<entry>Fire Elemental, Large</entry>
 		<entry>Fire Elemental, Medium</entry>
 		<entry>Fire Elemental, Small</entry>
+		<entry>Githyanki</entry>
+		<entry>Githzerai</entry>
+		<entry>Hellwasp Swarm</entry>
+		<entry>Invisible Stalker</entry>
+		<entry>Magmin</entry>
+		<entry>Thoqqua</entry>
+		<entry>Water Elemental, Elder</entry>
+		<entry>Water Elemental, Greater</entry>
+		<entry>Water Elemental, Huge</entry>
+		<entry>Water Elemental, Large</entry>
+		<entry>Water Elemental, Medium</entry>
+		<entry>Water Elemental, Small</entry>
 	</collection>
 	<collection>
 		<name>Half-FiendFey</name>
@@ -59385,6 +60026,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Half-FiendReptilian</name>
@@ -59414,6 +60066,10 @@
 		<entry>Sea Hag</entry>
 		<entry>Yuan-ti Abomination</entry>
 		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Pureblood</entry>
 	</collection>
 	<collection>
 		<name>Half-FiendNative</name>
@@ -59437,6 +60093,26 @@
 		<entry>Bat</entry>
 		<entry>Bat Swarm</entry>
 		<entry>Behir</entry>
+		<entry>Beholder</entry>
+		<entry>Belker</entry>
+		<entry>Bison</entry>
+		<entry>Black Bear</entry>
+		<entry>Black Dragon, Adult</entry>
+		<entry>Black Dragon, Ancient</entry>
+		<entry>Black Dragon, Great Wyrm</entry>
+		<entry>Black Dragon, Juvenile</entry>
+		<entry>Black Dragon, Mature Adult</entry>
+		<entry>Black Dragon, Old</entry>
+		<entry>Black Dragon, Very Old</entry>
+		<entry>Black Dragon, Very Young</entry>
+		<entry>Black Dragon, Wyrm</entry>
+		<entry>Black Dragon, Wyrmling</entry>
+		<entry>Black Dragon, Young</entry>
+		<entry>Black Dragon, Young Adult</entry>
+		<entry>Blink Dog</entry>
+		<entry>Blue Dragon, Adult</entry>
+		<entry>Blue Dragon, Ancient</entry>
+		<entry>Blue Dragon, Great Wyrm</entry>
 	</collection>
 	<collection>
 		<name>Half-FiendOoze</name>
@@ -59463,6 +60139,26 @@
 		<entry>Bat</entry>
 		<entry>Bat Swarm</entry>
 		<entry>Behir</entry>
+		<entry>Beholder</entry>
+		<entry>Belker</entry>
+		<entry>Bison</entry>
+		<entry>Black Bear</entry>
+		<entry>Black Dragon, Adult</entry>
+		<entry>Black Dragon, Ancient</entry>
+		<entry>Black Dragon, Great Wyrm</entry>
+		<entry>Black Dragon, Juvenile</entry>
+		<entry>Black Dragon, Mature Adult</entry>
+		<entry>Black Dragon, Old</entry>
+		<entry>Black Dragon, Very Old</entry>
+		<entry>Black Dragon, Very Young</entry>
+		<entry>Black Dragon, Wyrm</entry>
+		<entry>Black Dragon, Wyrmling</entry>
+		<entry>Black Dragon, Young</entry>
+		<entry>Black Dragon, Young Adult</entry>
+		<entry>Blink Dog</entry>
+		<entry>Blue Dragon, Adult</entry>
+		<entry>Blue Dragon, Ancient</entry>
+		<entry>Blue Dragon, Great Wyrm</entry>
 	</collection>
 	<collection>
 		<name>Half-FiendGiant</name>
@@ -59537,6 +60233,26 @@
 		<entry>Dragonne</entry>
 		<entry>Eight-Headed Cryohydra</entry>
 		<entry>Eight-Headed Hydra</entry>
+		<entry>Eight-Headed Pyrohydra</entry>
+		<entry>Eleven-Headed Cryohydra</entry>
+		<entry>Eleven-Headed Hydra</entry>
+		<entry>Eleven-Headed Pyrohydra</entry>
+		<entry>Ethereal Marauder</entry>
+		<entry>Five-Headed Cryohydra</entry>
+		<entry>Five-Headed Hydra</entry>
+		<entry>Five-Headed Pyrohydra</entry>
+		<entry>Frost Worm</entry>
+		<entry>Giant Eagle</entry>
+		<entry>Giant Owl</entry>
+		<entry>Girallon</entry>
+		<entry>Gorgon</entry>
+		<entry>Gray Render</entry>
+		<entry>Greater Basilisk</entry>
+		<entry>Griffon</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Hellwasp Swarm</entry>
+		<entry>Hieracosphinx</entry>
+		<entry>Hippogriff</entry>
 	</collection>
 	<collection>
 		<name>Half-FiendShapechanger</name>
@@ -59573,6 +60289,14 @@
 		<entry>Mimic</entry>
 		<entry>Mind Flayer (Illithid)</entry>
 		<entry>Otyugh</entry>
+		<entry>Phasm</entry>
+		<entry>Rust Monster</entry>
+		<entry>Skum</entry>
+		<entry>Spirit Naga</entry>
+		<entry>Truly Horrid Umber Hulk</entry>
+		<entry>Umber Hulk</entry>
+		<entry>Water Naga</entry>
+		<entry>Will-O'-Wisp</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Black)Air</name>
@@ -59604,6 +60328,26 @@
 		<entry>Deinonychus</entry>
 		<entry>Dire Ape</entry>
 		<entry>Dire Badger</entry>
+		<entry>Dire Bat</entry>
+		<entry>Dire Bear</entry>
+		<entry>Dire Boar</entry>
+		<entry>Dire Lion</entry>
+		<entry>Dire Rat</entry>
+		<entry>Dire Shark</entry>
+		<entry>Dire Tiger</entry>
+		<entry>Dire Weasel</entry>
+		<entry>Dire Wolf</entry>
+		<entry>Dire Wolverine</entry>
+		<entry>Dog</entry>
+		<entry>Dog, Riding</entry>
+		<entry>Donkey</entry>
+		<entry>Eagle</entry>
+		<entry>Elasmosaurus</entry>
+		<entry>Elephant</entry>
+		<entry>Giant Constrictor Snake</entry>
+		<entry>Giant Crocodile</entry>
+		<entry>Giant Octopus</entry>
+		<entry>Giant Squid</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Black)Aquatic</name>
@@ -59627,6 +60371,16 @@
 		<entry>Octopus</entry>
 		<entry>Orca Whale</entry>
 		<entry>Porpoise</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Scrag</entry>
+		<entry>Sea Hag</entry>
+		<entry>Shark, Huge</entry>
+		<entry>Shark, Large</entry>
+		<entry>Shark, Medium</entry>
+		<entry>Skum</entry>
+		<entry>Squid</entry>
+		<entry>Water Naga</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Black)Archon</name>
@@ -59653,6 +60407,26 @@
 		<entry>Bison</entry>
 		<entry>Black Bear</entry>
 		<entry>Black Pudding</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brown Bear</entry>
+		<entry>Bugbear</entry>
+		<entry>Bulette</entry>
+		<entry>Cachalot Whale</entry>
+		<entry>Camel, Bactrian (Two-Humped)</entry>
+		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Carrion Crawler</entry>
+		<entry>Cat</entry>
+		<entry>Centaur</entry>
+		<entry>Centipede Swarm</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Black)Chaotic</name>
@@ -59728,6 +60502,26 @@
 		<entry>Bison</entry>
 		<entry>Black Bear</entry>
 		<entry>Black Pudding</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brown Bear</entry>
+		<entry>Bugbear</entry>
+		<entry>Bulette</entry>
+		<entry>Cachalot Whale</entry>
+		<entry>Camel, Bactrian (Two-Humped)</entry>
+		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Carrion Crawler</entry>
+		<entry>Cat</entry>
+		<entry>Centaur</entry>
+		<entry>Centipede Swarm</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Black)Dwarf</name>
@@ -59801,6 +60595,26 @@
 		<entry>Monstrous Centipede, Tiny</entry>
 		<entry>Monstrous Scorpion, Colossal</entry>
 		<entry>Monstrous Scorpion, Gargantuan</entry>
+		<entry>Monstrous Scorpion, Huge</entry>
+		<entry>Monstrous Scorpion, Large</entry>
+		<entry>Monstrous Scorpion, Medium</entry>
+		<entry>Monstrous Scorpion, Small</entry>
+		<entry>Monstrous Scorpion, Tiny</entry>
+		<entry>Monstrous Spider, Hunter, Colossal</entry>
+		<entry>Monstrous Spider, Hunter, Gargantuan</entry>
+		<entry>Monstrous Spider, Hunter, Huge</entry>
+		<entry>Monstrous Spider, Hunter, Large</entry>
+		<entry>Monstrous Spider, Hunter, Medium</entry>
+		<entry>Monstrous Spider, Hunter, Small</entry>
+		<entry>Monstrous Spider, Hunter, Tiny</entry>
+		<entry>Monstrous Spider, Web-Spinner, Colossal</entry>
+		<entry>Monstrous Spider, Web-Spinner, Gargantuan</entry>
+		<entry>Monstrous Spider, Web-Spinner, Huge</entry>
+		<entry>Monstrous Spider, Web-Spinner, Large</entry>
+		<entry>Monstrous Spider, Web-Spinner, Medium</entry>
+		<entry>Monstrous Spider, Web-Spinner, Small</entry>
+		<entry>Monstrous Spider, Web-Spinner, Tiny</entry>
+		<entry>Spider Swarm</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Black)Humanoid</name>
@@ -59824,6 +60638,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Black)Reptilian</name>
@@ -59853,6 +60678,10 @@
 		<entry>Sea Hag</entry>
 		<entry>Yuan-ti Abomination</entry>
 		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Pureblood</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Black)Native</name>
@@ -59944,6 +60773,26 @@
 		<entry>Displacer Beast Pack Lord</entry>
 		<entry>Dragonne</entry>
 		<entry>Eight-Headed Cryohydra</entry>
+		<entry>Eight-Headed Hydra</entry>
+		<entry>Eight-Headed Pyrohydra</entry>
+		<entry>Eleven-Headed Cryohydra</entry>
+		<entry>Eleven-Headed Hydra</entry>
+		<entry>Eleven-Headed Pyrohydra</entry>
+		<entry>Ethereal Marauder</entry>
+		<entry>Five-Headed Cryohydra</entry>
+		<entry>Five-Headed Hydra</entry>
+		<entry>Five-Headed Pyrohydra</entry>
+		<entry>Frost Worm</entry>
+		<entry>Giant Eagle</entry>
+		<entry>Giant Owl</entry>
+		<entry>Girallon</entry>
+		<entry>Gorgon</entry>
+		<entry>Gray Render</entry>
+		<entry>Greater Basilisk</entry>
+		<entry>Griffon</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Hellwasp Swarm</entry>
+		<entry>Hieracosphinx</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Black)Shapechanger</name>
@@ -59983,6 +60832,14 @@
 		<entry>Mimic</entry>
 		<entry>Mind Flayer (Illithid)</entry>
 		<entry>Otyugh</entry>
+		<entry>Phasm</entry>
+		<entry>Rust Monster</entry>
+		<entry>Skum</entry>
+		<entry>Spirit Naga</entry>
+		<entry>Truly Horrid Umber Hulk</entry>
+		<entry>Umber Hulk</entry>
+		<entry>Water Naga</entry>
+		<entry>Will-O'-Wisp</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Blue)Air</name>
@@ -60014,6 +60871,26 @@
 		<entry>Deinonychus</entry>
 		<entry>Dire Ape</entry>
 		<entry>Dire Badger</entry>
+		<entry>Dire Bat</entry>
+		<entry>Dire Bear</entry>
+		<entry>Dire Boar</entry>
+		<entry>Dire Lion</entry>
+		<entry>Dire Rat</entry>
+		<entry>Dire Shark</entry>
+		<entry>Dire Tiger</entry>
+		<entry>Dire Weasel</entry>
+		<entry>Dire Wolf</entry>
+		<entry>Dire Wolverine</entry>
+		<entry>Dog</entry>
+		<entry>Dog, Riding</entry>
+		<entry>Donkey</entry>
+		<entry>Eagle</entry>
+		<entry>Elasmosaurus</entry>
+		<entry>Elephant</entry>
+		<entry>Giant Constrictor Snake</entry>
+		<entry>Giant Crocodile</entry>
+		<entry>Giant Octopus</entry>
+		<entry>Giant Squid</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Blue)Aquatic</name>
@@ -60037,6 +60914,16 @@
 		<entry>Octopus</entry>
 		<entry>Orca Whale</entry>
 		<entry>Porpoise</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Scrag</entry>
+		<entry>Sea Hag</entry>
+		<entry>Shark, Huge</entry>
+		<entry>Shark, Large</entry>
+		<entry>Shark, Medium</entry>
+		<entry>Skum</entry>
+		<entry>Squid</entry>
+		<entry>Water Naga</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Blue)Archon</name>
@@ -60063,6 +60950,26 @@
 		<entry>Bison</entry>
 		<entry>Black Bear</entry>
 		<entry>Black Pudding</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brown Bear</entry>
+		<entry>Bugbear</entry>
+		<entry>Bulette</entry>
+		<entry>Cachalot Whale</entry>
+		<entry>Camel, Bactrian (Two-Humped)</entry>
+		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Carrion Crawler</entry>
+		<entry>Cat</entry>
+		<entry>Centaur</entry>
+		<entry>Centipede Swarm</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Blue)Chaotic</name>
@@ -60138,6 +61045,26 @@
 		<entry>Bison</entry>
 		<entry>Black Bear</entry>
 		<entry>Black Pudding</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brown Bear</entry>
+		<entry>Bugbear</entry>
+		<entry>Bulette</entry>
+		<entry>Cachalot Whale</entry>
+		<entry>Camel, Bactrian (Two-Humped)</entry>
+		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Carrion Crawler</entry>
+		<entry>Cat</entry>
+		<entry>Centaur</entry>
+		<entry>Centipede Swarm</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Blue)Dwarf</name>
@@ -60211,6 +61138,26 @@
 		<entry>Monstrous Centipede, Tiny</entry>
 		<entry>Monstrous Scorpion, Colossal</entry>
 		<entry>Monstrous Scorpion, Gargantuan</entry>
+		<entry>Monstrous Scorpion, Huge</entry>
+		<entry>Monstrous Scorpion, Large</entry>
+		<entry>Monstrous Scorpion, Medium</entry>
+		<entry>Monstrous Scorpion, Small</entry>
+		<entry>Monstrous Scorpion, Tiny</entry>
+		<entry>Monstrous Spider, Hunter, Colossal</entry>
+		<entry>Monstrous Spider, Hunter, Gargantuan</entry>
+		<entry>Monstrous Spider, Hunter, Huge</entry>
+		<entry>Monstrous Spider, Hunter, Large</entry>
+		<entry>Monstrous Spider, Hunter, Medium</entry>
+		<entry>Monstrous Spider, Hunter, Small</entry>
+		<entry>Monstrous Spider, Hunter, Tiny</entry>
+		<entry>Monstrous Spider, Web-Spinner, Colossal</entry>
+		<entry>Monstrous Spider, Web-Spinner, Gargantuan</entry>
+		<entry>Monstrous Spider, Web-Spinner, Huge</entry>
+		<entry>Monstrous Spider, Web-Spinner, Large</entry>
+		<entry>Monstrous Spider, Web-Spinner, Medium</entry>
+		<entry>Monstrous Spider, Web-Spinner, Small</entry>
+		<entry>Monstrous Spider, Web-Spinner, Tiny</entry>
+		<entry>Spider Swarm</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Blue)Humanoid</name>
@@ -60234,6 +61181,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Blue)Reptilian</name>
@@ -60263,6 +61221,10 @@
 		<entry>Sea Hag</entry>
 		<entry>Yuan-ti Abomination</entry>
 		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Pureblood</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Blue)Native</name>
@@ -60354,6 +61316,26 @@
 		<entry>Displacer Beast Pack Lord</entry>
 		<entry>Dragonne</entry>
 		<entry>Eight-Headed Cryohydra</entry>
+		<entry>Eight-Headed Hydra</entry>
+		<entry>Eight-Headed Pyrohydra</entry>
+		<entry>Eleven-Headed Cryohydra</entry>
+		<entry>Eleven-Headed Hydra</entry>
+		<entry>Eleven-Headed Pyrohydra</entry>
+		<entry>Ethereal Marauder</entry>
+		<entry>Five-Headed Cryohydra</entry>
+		<entry>Five-Headed Hydra</entry>
+		<entry>Five-Headed Pyrohydra</entry>
+		<entry>Frost Worm</entry>
+		<entry>Giant Eagle</entry>
+		<entry>Giant Owl</entry>
+		<entry>Girallon</entry>
+		<entry>Gorgon</entry>
+		<entry>Gray Render</entry>
+		<entry>Greater Basilisk</entry>
+		<entry>Griffon</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Hellwasp Swarm</entry>
+		<entry>Hieracosphinx</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Blue)Shapechanger</name>
@@ -60393,6 +61375,14 @@
 		<entry>Mimic</entry>
 		<entry>Mind Flayer (Illithid)</entry>
 		<entry>Otyugh</entry>
+		<entry>Phasm</entry>
+		<entry>Rust Monster</entry>
+		<entry>Skum</entry>
+		<entry>Spirit Naga</entry>
+		<entry>Truly Horrid Umber Hulk</entry>
+		<entry>Umber Hulk</entry>
+		<entry>Water Naga</entry>
+		<entry>Will-O'-Wisp</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Brass)Air</name>
@@ -60424,6 +61414,26 @@
 		<entry>Deinonychus</entry>
 		<entry>Dire Ape</entry>
 		<entry>Dire Badger</entry>
+		<entry>Dire Bat</entry>
+		<entry>Dire Bear</entry>
+		<entry>Dire Boar</entry>
+		<entry>Dire Lion</entry>
+		<entry>Dire Rat</entry>
+		<entry>Dire Shark</entry>
+		<entry>Dire Tiger</entry>
+		<entry>Dire Weasel</entry>
+		<entry>Dire Wolf</entry>
+		<entry>Dire Wolverine</entry>
+		<entry>Dog</entry>
+		<entry>Dog, Riding</entry>
+		<entry>Donkey</entry>
+		<entry>Eagle</entry>
+		<entry>Elasmosaurus</entry>
+		<entry>Elephant</entry>
+		<entry>Giant Constrictor Snake</entry>
+		<entry>Giant Crocodile</entry>
+		<entry>Giant Octopus</entry>
+		<entry>Giant Squid</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Brass)Aquatic</name>
@@ -60447,6 +61457,16 @@
 		<entry>Octopus</entry>
 		<entry>Orca Whale</entry>
 		<entry>Porpoise</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Scrag</entry>
+		<entry>Sea Hag</entry>
+		<entry>Shark, Huge</entry>
+		<entry>Shark, Large</entry>
+		<entry>Shark, Medium</entry>
+		<entry>Skum</entry>
+		<entry>Squid</entry>
+		<entry>Water Naga</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Brass)Archon</name>
@@ -60473,6 +61493,26 @@
 		<entry>Bison</entry>
 		<entry>Black Bear</entry>
 		<entry>Black Pudding</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brown Bear</entry>
+		<entry>Bugbear</entry>
+		<entry>Bulette</entry>
+		<entry>Cachalot Whale</entry>
+		<entry>Camel, Bactrian (Two-Humped)</entry>
+		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Carrion Crawler</entry>
+		<entry>Cat</entry>
+		<entry>Centaur</entry>
+		<entry>Centipede Swarm</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Brass)Chaotic</name>
@@ -60548,6 +61588,26 @@
 		<entry>Bison</entry>
 		<entry>Black Bear</entry>
 		<entry>Black Pudding</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brown Bear</entry>
+		<entry>Bugbear</entry>
+		<entry>Bulette</entry>
+		<entry>Cachalot Whale</entry>
+		<entry>Camel, Bactrian (Two-Humped)</entry>
+		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Carrion Crawler</entry>
+		<entry>Cat</entry>
+		<entry>Centaur</entry>
+		<entry>Centipede Swarm</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Brass)Dwarf</name>
@@ -60621,6 +61681,26 @@
 		<entry>Monstrous Centipede, Tiny</entry>
 		<entry>Monstrous Scorpion, Colossal</entry>
 		<entry>Monstrous Scorpion, Gargantuan</entry>
+		<entry>Monstrous Scorpion, Huge</entry>
+		<entry>Monstrous Scorpion, Large</entry>
+		<entry>Monstrous Scorpion, Medium</entry>
+		<entry>Monstrous Scorpion, Small</entry>
+		<entry>Monstrous Scorpion, Tiny</entry>
+		<entry>Monstrous Spider, Hunter, Colossal</entry>
+		<entry>Monstrous Spider, Hunter, Gargantuan</entry>
+		<entry>Monstrous Spider, Hunter, Huge</entry>
+		<entry>Monstrous Spider, Hunter, Large</entry>
+		<entry>Monstrous Spider, Hunter, Medium</entry>
+		<entry>Monstrous Spider, Hunter, Small</entry>
+		<entry>Monstrous Spider, Hunter, Tiny</entry>
+		<entry>Monstrous Spider, Web-Spinner, Colossal</entry>
+		<entry>Monstrous Spider, Web-Spinner, Gargantuan</entry>
+		<entry>Monstrous Spider, Web-Spinner, Huge</entry>
+		<entry>Monstrous Spider, Web-Spinner, Large</entry>
+		<entry>Monstrous Spider, Web-Spinner, Medium</entry>
+		<entry>Monstrous Spider, Web-Spinner, Small</entry>
+		<entry>Monstrous Spider, Web-Spinner, Tiny</entry>
+		<entry>Spider Swarm</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Brass)Humanoid</name>
@@ -60644,6 +61724,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Brass)Reptilian</name>
@@ -60673,6 +61764,10 @@
 		<entry>Sea Hag</entry>
 		<entry>Yuan-ti Abomination</entry>
 		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Pureblood</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Brass)Native</name>
@@ -60764,6 +61859,26 @@
 		<entry>Displacer Beast Pack Lord</entry>
 		<entry>Dragonne</entry>
 		<entry>Eight-Headed Cryohydra</entry>
+		<entry>Eight-Headed Hydra</entry>
+		<entry>Eight-Headed Pyrohydra</entry>
+		<entry>Eleven-Headed Cryohydra</entry>
+		<entry>Eleven-Headed Hydra</entry>
+		<entry>Eleven-Headed Pyrohydra</entry>
+		<entry>Ethereal Marauder</entry>
+		<entry>Five-Headed Cryohydra</entry>
+		<entry>Five-Headed Hydra</entry>
+		<entry>Five-Headed Pyrohydra</entry>
+		<entry>Frost Worm</entry>
+		<entry>Giant Eagle</entry>
+		<entry>Giant Owl</entry>
+		<entry>Girallon</entry>
+		<entry>Gorgon</entry>
+		<entry>Gray Render</entry>
+		<entry>Greater Basilisk</entry>
+		<entry>Griffon</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Hellwasp Swarm</entry>
+		<entry>Hieracosphinx</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Brass)Shapechanger</name>
@@ -60803,6 +61918,14 @@
 		<entry>Mimic</entry>
 		<entry>Mind Flayer (Illithid)</entry>
 		<entry>Otyugh</entry>
+		<entry>Phasm</entry>
+		<entry>Rust Monster</entry>
+		<entry>Skum</entry>
+		<entry>Spirit Naga</entry>
+		<entry>Truly Horrid Umber Hulk</entry>
+		<entry>Umber Hulk</entry>
+		<entry>Water Naga</entry>
+		<entry>Will-O'-Wisp</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Bronze)Air</name>
@@ -60834,6 +61957,26 @@
 		<entry>Deinonychus</entry>
 		<entry>Dire Ape</entry>
 		<entry>Dire Badger</entry>
+		<entry>Dire Bat</entry>
+		<entry>Dire Bear</entry>
+		<entry>Dire Boar</entry>
+		<entry>Dire Lion</entry>
+		<entry>Dire Rat</entry>
+		<entry>Dire Shark</entry>
+		<entry>Dire Tiger</entry>
+		<entry>Dire Weasel</entry>
+		<entry>Dire Wolf</entry>
+		<entry>Dire Wolverine</entry>
+		<entry>Dog</entry>
+		<entry>Dog, Riding</entry>
+		<entry>Donkey</entry>
+		<entry>Eagle</entry>
+		<entry>Elasmosaurus</entry>
+		<entry>Elephant</entry>
+		<entry>Giant Constrictor Snake</entry>
+		<entry>Giant Crocodile</entry>
+		<entry>Giant Octopus</entry>
+		<entry>Giant Squid</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Bronze)Aquatic</name>
@@ -60857,6 +62000,16 @@
 		<entry>Octopus</entry>
 		<entry>Orca Whale</entry>
 		<entry>Porpoise</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Scrag</entry>
+		<entry>Sea Hag</entry>
+		<entry>Shark, Huge</entry>
+		<entry>Shark, Large</entry>
+		<entry>Shark, Medium</entry>
+		<entry>Skum</entry>
+		<entry>Squid</entry>
+		<entry>Water Naga</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Bronze)Archon</name>
@@ -60883,6 +62036,26 @@
 		<entry>Bison</entry>
 		<entry>Black Bear</entry>
 		<entry>Black Pudding</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brown Bear</entry>
+		<entry>Bugbear</entry>
+		<entry>Bulette</entry>
+		<entry>Cachalot Whale</entry>
+		<entry>Camel, Bactrian (Two-Humped)</entry>
+		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Carrion Crawler</entry>
+		<entry>Cat</entry>
+		<entry>Centaur</entry>
+		<entry>Centipede Swarm</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Bronze)Chaotic</name>
@@ -60958,6 +62131,26 @@
 		<entry>Bison</entry>
 		<entry>Black Bear</entry>
 		<entry>Black Pudding</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brown Bear</entry>
+		<entry>Bugbear</entry>
+		<entry>Bulette</entry>
+		<entry>Cachalot Whale</entry>
+		<entry>Camel, Bactrian (Two-Humped)</entry>
+		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Carrion Crawler</entry>
+		<entry>Cat</entry>
+		<entry>Centaur</entry>
+		<entry>Centipede Swarm</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Bronze)Dwarf</name>
@@ -61031,6 +62224,26 @@
 		<entry>Monstrous Centipede, Tiny</entry>
 		<entry>Monstrous Scorpion, Colossal</entry>
 		<entry>Monstrous Scorpion, Gargantuan</entry>
+		<entry>Monstrous Scorpion, Huge</entry>
+		<entry>Monstrous Scorpion, Large</entry>
+		<entry>Monstrous Scorpion, Medium</entry>
+		<entry>Monstrous Scorpion, Small</entry>
+		<entry>Monstrous Scorpion, Tiny</entry>
+		<entry>Monstrous Spider, Hunter, Colossal</entry>
+		<entry>Monstrous Spider, Hunter, Gargantuan</entry>
+		<entry>Monstrous Spider, Hunter, Huge</entry>
+		<entry>Monstrous Spider, Hunter, Large</entry>
+		<entry>Monstrous Spider, Hunter, Medium</entry>
+		<entry>Monstrous Spider, Hunter, Small</entry>
+		<entry>Monstrous Spider, Hunter, Tiny</entry>
+		<entry>Monstrous Spider, Web-Spinner, Colossal</entry>
+		<entry>Monstrous Spider, Web-Spinner, Gargantuan</entry>
+		<entry>Monstrous Spider, Web-Spinner, Huge</entry>
+		<entry>Monstrous Spider, Web-Spinner, Large</entry>
+		<entry>Monstrous Spider, Web-Spinner, Medium</entry>
+		<entry>Monstrous Spider, Web-Spinner, Small</entry>
+		<entry>Monstrous Spider, Web-Spinner, Tiny</entry>
+		<entry>Spider Swarm</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Bronze)Humanoid</name>
@@ -61054,6 +62267,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Bronze)Reptilian</name>
@@ -61083,6 +62307,10 @@
 		<entry>Sea Hag</entry>
 		<entry>Yuan-ti Abomination</entry>
 		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Pureblood</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Bronze)Native</name>
@@ -61174,6 +62402,26 @@
 		<entry>Displacer Beast Pack Lord</entry>
 		<entry>Dragonne</entry>
 		<entry>Eight-Headed Cryohydra</entry>
+		<entry>Eight-Headed Hydra</entry>
+		<entry>Eight-Headed Pyrohydra</entry>
+		<entry>Eleven-Headed Cryohydra</entry>
+		<entry>Eleven-Headed Hydra</entry>
+		<entry>Eleven-Headed Pyrohydra</entry>
+		<entry>Ethereal Marauder</entry>
+		<entry>Five-Headed Cryohydra</entry>
+		<entry>Five-Headed Hydra</entry>
+		<entry>Five-Headed Pyrohydra</entry>
+		<entry>Frost Worm</entry>
+		<entry>Giant Eagle</entry>
+		<entry>Giant Owl</entry>
+		<entry>Girallon</entry>
+		<entry>Gorgon</entry>
+		<entry>Gray Render</entry>
+		<entry>Greater Basilisk</entry>
+		<entry>Griffon</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Hellwasp Swarm</entry>
+		<entry>Hieracosphinx</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Bronze)Shapechanger</name>
@@ -61213,6 +62461,14 @@
 		<entry>Mimic</entry>
 		<entry>Mind Flayer (Illithid)</entry>
 		<entry>Otyugh</entry>
+		<entry>Phasm</entry>
+		<entry>Rust Monster</entry>
+		<entry>Skum</entry>
+		<entry>Spirit Naga</entry>
+		<entry>Truly Horrid Umber Hulk</entry>
+		<entry>Umber Hulk</entry>
+		<entry>Water Naga</entry>
+		<entry>Will-O'-Wisp</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Copper)Air</name>
@@ -61244,6 +62500,26 @@
 		<entry>Deinonychus</entry>
 		<entry>Dire Ape</entry>
 		<entry>Dire Badger</entry>
+		<entry>Dire Bat</entry>
+		<entry>Dire Bear</entry>
+		<entry>Dire Boar</entry>
+		<entry>Dire Lion</entry>
+		<entry>Dire Rat</entry>
+		<entry>Dire Shark</entry>
+		<entry>Dire Tiger</entry>
+		<entry>Dire Weasel</entry>
+		<entry>Dire Wolf</entry>
+		<entry>Dire Wolverine</entry>
+		<entry>Dog</entry>
+		<entry>Dog, Riding</entry>
+		<entry>Donkey</entry>
+		<entry>Eagle</entry>
+		<entry>Elasmosaurus</entry>
+		<entry>Elephant</entry>
+		<entry>Giant Constrictor Snake</entry>
+		<entry>Giant Crocodile</entry>
+		<entry>Giant Octopus</entry>
+		<entry>Giant Squid</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Copper)Aquatic</name>
@@ -61267,6 +62543,16 @@
 		<entry>Octopus</entry>
 		<entry>Orca Whale</entry>
 		<entry>Porpoise</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Scrag</entry>
+		<entry>Sea Hag</entry>
+		<entry>Shark, Huge</entry>
+		<entry>Shark, Large</entry>
+		<entry>Shark, Medium</entry>
+		<entry>Skum</entry>
+		<entry>Squid</entry>
+		<entry>Water Naga</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Copper)Archon</name>
@@ -61293,6 +62579,26 @@
 		<entry>Bison</entry>
 		<entry>Black Bear</entry>
 		<entry>Black Pudding</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brown Bear</entry>
+		<entry>Bugbear</entry>
+		<entry>Bulette</entry>
+		<entry>Cachalot Whale</entry>
+		<entry>Camel, Bactrian (Two-Humped)</entry>
+		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Carrion Crawler</entry>
+		<entry>Cat</entry>
+		<entry>Centaur</entry>
+		<entry>Centipede Swarm</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Copper)Chaotic</name>
@@ -61368,6 +62674,26 @@
 		<entry>Bison</entry>
 		<entry>Black Bear</entry>
 		<entry>Black Pudding</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brown Bear</entry>
+		<entry>Bugbear</entry>
+		<entry>Bulette</entry>
+		<entry>Cachalot Whale</entry>
+		<entry>Camel, Bactrian (Two-Humped)</entry>
+		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Carrion Crawler</entry>
+		<entry>Cat</entry>
+		<entry>Centaur</entry>
+		<entry>Centipede Swarm</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Copper)Dwarf</name>
@@ -61441,6 +62767,26 @@
 		<entry>Monstrous Centipede, Tiny</entry>
 		<entry>Monstrous Scorpion, Colossal</entry>
 		<entry>Monstrous Scorpion, Gargantuan</entry>
+		<entry>Monstrous Scorpion, Huge</entry>
+		<entry>Monstrous Scorpion, Large</entry>
+		<entry>Monstrous Scorpion, Medium</entry>
+		<entry>Monstrous Scorpion, Small</entry>
+		<entry>Monstrous Scorpion, Tiny</entry>
+		<entry>Monstrous Spider, Hunter, Colossal</entry>
+		<entry>Monstrous Spider, Hunter, Gargantuan</entry>
+		<entry>Monstrous Spider, Hunter, Huge</entry>
+		<entry>Monstrous Spider, Hunter, Large</entry>
+		<entry>Monstrous Spider, Hunter, Medium</entry>
+		<entry>Monstrous Spider, Hunter, Small</entry>
+		<entry>Monstrous Spider, Hunter, Tiny</entry>
+		<entry>Monstrous Spider, Web-Spinner, Colossal</entry>
+		<entry>Monstrous Spider, Web-Spinner, Gargantuan</entry>
+		<entry>Monstrous Spider, Web-Spinner, Huge</entry>
+		<entry>Monstrous Spider, Web-Spinner, Large</entry>
+		<entry>Monstrous Spider, Web-Spinner, Medium</entry>
+		<entry>Monstrous Spider, Web-Spinner, Small</entry>
+		<entry>Monstrous Spider, Web-Spinner, Tiny</entry>
+		<entry>Spider Swarm</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Copper)Humanoid</name>
@@ -61464,6 +62810,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Copper)Reptilian</name>
@@ -61493,6 +62850,10 @@
 		<entry>Sea Hag</entry>
 		<entry>Yuan-ti Abomination</entry>
 		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Pureblood</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Copper)Native</name>
@@ -61584,6 +62945,26 @@
 		<entry>Displacer Beast Pack Lord</entry>
 		<entry>Dragonne</entry>
 		<entry>Eight-Headed Cryohydra</entry>
+		<entry>Eight-Headed Hydra</entry>
+		<entry>Eight-Headed Pyrohydra</entry>
+		<entry>Eleven-Headed Cryohydra</entry>
+		<entry>Eleven-Headed Hydra</entry>
+		<entry>Eleven-Headed Pyrohydra</entry>
+		<entry>Ethereal Marauder</entry>
+		<entry>Five-Headed Cryohydra</entry>
+		<entry>Five-Headed Hydra</entry>
+		<entry>Five-Headed Pyrohydra</entry>
+		<entry>Frost Worm</entry>
+		<entry>Giant Eagle</entry>
+		<entry>Giant Owl</entry>
+		<entry>Girallon</entry>
+		<entry>Gorgon</entry>
+		<entry>Gray Render</entry>
+		<entry>Greater Basilisk</entry>
+		<entry>Griffon</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Hellwasp Swarm</entry>
+		<entry>Hieracosphinx</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Copper)Shapechanger</name>
@@ -61623,6 +63004,14 @@
 		<entry>Mimic</entry>
 		<entry>Mind Flayer (Illithid)</entry>
 		<entry>Otyugh</entry>
+		<entry>Phasm</entry>
+		<entry>Rust Monster</entry>
+		<entry>Skum</entry>
+		<entry>Spirit Naga</entry>
+		<entry>Truly Horrid Umber Hulk</entry>
+		<entry>Umber Hulk</entry>
+		<entry>Water Naga</entry>
+		<entry>Will-O'-Wisp</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Gold)Air</name>
@@ -61654,6 +63043,26 @@
 		<entry>Deinonychus</entry>
 		<entry>Dire Ape</entry>
 		<entry>Dire Badger</entry>
+		<entry>Dire Bat</entry>
+		<entry>Dire Bear</entry>
+		<entry>Dire Boar</entry>
+		<entry>Dire Lion</entry>
+		<entry>Dire Rat</entry>
+		<entry>Dire Shark</entry>
+		<entry>Dire Tiger</entry>
+		<entry>Dire Weasel</entry>
+		<entry>Dire Wolf</entry>
+		<entry>Dire Wolverine</entry>
+		<entry>Dog</entry>
+		<entry>Dog, Riding</entry>
+		<entry>Donkey</entry>
+		<entry>Eagle</entry>
+		<entry>Elasmosaurus</entry>
+		<entry>Elephant</entry>
+		<entry>Giant Constrictor Snake</entry>
+		<entry>Giant Crocodile</entry>
+		<entry>Giant Octopus</entry>
+		<entry>Giant Squid</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Gold)Aquatic</name>
@@ -61677,6 +63086,16 @@
 		<entry>Octopus</entry>
 		<entry>Orca Whale</entry>
 		<entry>Porpoise</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Scrag</entry>
+		<entry>Sea Hag</entry>
+		<entry>Shark, Huge</entry>
+		<entry>Shark, Large</entry>
+		<entry>Shark, Medium</entry>
+		<entry>Skum</entry>
+		<entry>Squid</entry>
+		<entry>Water Naga</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Gold)Archon</name>
@@ -61703,6 +63122,26 @@
 		<entry>Bison</entry>
 		<entry>Black Bear</entry>
 		<entry>Black Pudding</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brown Bear</entry>
+		<entry>Bugbear</entry>
+		<entry>Bulette</entry>
+		<entry>Cachalot Whale</entry>
+		<entry>Camel, Bactrian (Two-Humped)</entry>
+		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Carrion Crawler</entry>
+		<entry>Cat</entry>
+		<entry>Centaur</entry>
+		<entry>Centipede Swarm</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Gold)Chaotic</name>
@@ -61778,6 +63217,26 @@
 		<entry>Bison</entry>
 		<entry>Black Bear</entry>
 		<entry>Black Pudding</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brown Bear</entry>
+		<entry>Bugbear</entry>
+		<entry>Bulette</entry>
+		<entry>Cachalot Whale</entry>
+		<entry>Camel, Bactrian (Two-Humped)</entry>
+		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Carrion Crawler</entry>
+		<entry>Cat</entry>
+		<entry>Centaur</entry>
+		<entry>Centipede Swarm</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Gold)Dwarf</name>
@@ -61851,6 +63310,26 @@
 		<entry>Monstrous Centipede, Tiny</entry>
 		<entry>Monstrous Scorpion, Colossal</entry>
 		<entry>Monstrous Scorpion, Gargantuan</entry>
+		<entry>Monstrous Scorpion, Huge</entry>
+		<entry>Monstrous Scorpion, Large</entry>
+		<entry>Monstrous Scorpion, Medium</entry>
+		<entry>Monstrous Scorpion, Small</entry>
+		<entry>Monstrous Scorpion, Tiny</entry>
+		<entry>Monstrous Spider, Hunter, Colossal</entry>
+		<entry>Monstrous Spider, Hunter, Gargantuan</entry>
+		<entry>Monstrous Spider, Hunter, Huge</entry>
+		<entry>Monstrous Spider, Hunter, Large</entry>
+		<entry>Monstrous Spider, Hunter, Medium</entry>
+		<entry>Monstrous Spider, Hunter, Small</entry>
+		<entry>Monstrous Spider, Hunter, Tiny</entry>
+		<entry>Monstrous Spider, Web-Spinner, Colossal</entry>
+		<entry>Monstrous Spider, Web-Spinner, Gargantuan</entry>
+		<entry>Monstrous Spider, Web-Spinner, Huge</entry>
+		<entry>Monstrous Spider, Web-Spinner, Large</entry>
+		<entry>Monstrous Spider, Web-Spinner, Medium</entry>
+		<entry>Monstrous Spider, Web-Spinner, Small</entry>
+		<entry>Monstrous Spider, Web-Spinner, Tiny</entry>
+		<entry>Spider Swarm</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Gold)Humanoid</name>
@@ -61874,6 +63353,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Gold)Reptilian</name>
@@ -61903,6 +63393,10 @@
 		<entry>Sea Hag</entry>
 		<entry>Yuan-ti Abomination</entry>
 		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Pureblood</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Gold)Native</name>
@@ -61994,6 +63488,26 @@
 		<entry>Displacer Beast Pack Lord</entry>
 		<entry>Dragonne</entry>
 		<entry>Eight-Headed Cryohydra</entry>
+		<entry>Eight-Headed Hydra</entry>
+		<entry>Eight-Headed Pyrohydra</entry>
+		<entry>Eleven-Headed Cryohydra</entry>
+		<entry>Eleven-Headed Hydra</entry>
+		<entry>Eleven-Headed Pyrohydra</entry>
+		<entry>Ethereal Marauder</entry>
+		<entry>Five-Headed Cryohydra</entry>
+		<entry>Five-Headed Hydra</entry>
+		<entry>Five-Headed Pyrohydra</entry>
+		<entry>Frost Worm</entry>
+		<entry>Giant Eagle</entry>
+		<entry>Giant Owl</entry>
+		<entry>Girallon</entry>
+		<entry>Gorgon</entry>
+		<entry>Gray Render</entry>
+		<entry>Greater Basilisk</entry>
+		<entry>Griffon</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Hellwasp Swarm</entry>
+		<entry>Hieracosphinx</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Gold)Shapechanger</name>
@@ -62033,6 +63547,14 @@
 		<entry>Mimic</entry>
 		<entry>Mind Flayer (Illithid)</entry>
 		<entry>Otyugh</entry>
+		<entry>Phasm</entry>
+		<entry>Rust Monster</entry>
+		<entry>Skum</entry>
+		<entry>Spirit Naga</entry>
+		<entry>Truly Horrid Umber Hulk</entry>
+		<entry>Umber Hulk</entry>
+		<entry>Water Naga</entry>
+		<entry>Will-O'-Wisp</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Green)Air</name>
@@ -62064,6 +63586,26 @@
 		<entry>Deinonychus</entry>
 		<entry>Dire Ape</entry>
 		<entry>Dire Badger</entry>
+		<entry>Dire Bat</entry>
+		<entry>Dire Bear</entry>
+		<entry>Dire Boar</entry>
+		<entry>Dire Lion</entry>
+		<entry>Dire Rat</entry>
+		<entry>Dire Shark</entry>
+		<entry>Dire Tiger</entry>
+		<entry>Dire Weasel</entry>
+		<entry>Dire Wolf</entry>
+		<entry>Dire Wolverine</entry>
+		<entry>Dog</entry>
+		<entry>Dog, Riding</entry>
+		<entry>Donkey</entry>
+		<entry>Eagle</entry>
+		<entry>Elasmosaurus</entry>
+		<entry>Elephant</entry>
+		<entry>Giant Constrictor Snake</entry>
+		<entry>Giant Crocodile</entry>
+		<entry>Giant Octopus</entry>
+		<entry>Giant Squid</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Green)Aquatic</name>
@@ -62087,6 +63629,16 @@
 		<entry>Octopus</entry>
 		<entry>Orca Whale</entry>
 		<entry>Porpoise</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Scrag</entry>
+		<entry>Sea Hag</entry>
+		<entry>Shark, Huge</entry>
+		<entry>Shark, Large</entry>
+		<entry>Shark, Medium</entry>
+		<entry>Skum</entry>
+		<entry>Squid</entry>
+		<entry>Water Naga</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Green)Archon</name>
@@ -62113,6 +63665,26 @@
 		<entry>Bison</entry>
 		<entry>Black Bear</entry>
 		<entry>Black Pudding</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brown Bear</entry>
+		<entry>Bugbear</entry>
+		<entry>Bulette</entry>
+		<entry>Cachalot Whale</entry>
+		<entry>Camel, Bactrian (Two-Humped)</entry>
+		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Carrion Crawler</entry>
+		<entry>Cat</entry>
+		<entry>Centaur</entry>
+		<entry>Centipede Swarm</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Green)Chaotic</name>
@@ -62188,6 +63760,26 @@
 		<entry>Bison</entry>
 		<entry>Black Bear</entry>
 		<entry>Black Pudding</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brown Bear</entry>
+		<entry>Bugbear</entry>
+		<entry>Bulette</entry>
+		<entry>Cachalot Whale</entry>
+		<entry>Camel, Bactrian (Two-Humped)</entry>
+		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Carrion Crawler</entry>
+		<entry>Cat</entry>
+		<entry>Centaur</entry>
+		<entry>Centipede Swarm</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Green)Dwarf</name>
@@ -62261,6 +63853,26 @@
 		<entry>Monstrous Centipede, Tiny</entry>
 		<entry>Monstrous Scorpion, Colossal</entry>
 		<entry>Monstrous Scorpion, Gargantuan</entry>
+		<entry>Monstrous Scorpion, Huge</entry>
+		<entry>Monstrous Scorpion, Large</entry>
+		<entry>Monstrous Scorpion, Medium</entry>
+		<entry>Monstrous Scorpion, Small</entry>
+		<entry>Monstrous Scorpion, Tiny</entry>
+		<entry>Monstrous Spider, Hunter, Colossal</entry>
+		<entry>Monstrous Spider, Hunter, Gargantuan</entry>
+		<entry>Monstrous Spider, Hunter, Huge</entry>
+		<entry>Monstrous Spider, Hunter, Large</entry>
+		<entry>Monstrous Spider, Hunter, Medium</entry>
+		<entry>Monstrous Spider, Hunter, Small</entry>
+		<entry>Monstrous Spider, Hunter, Tiny</entry>
+		<entry>Monstrous Spider, Web-Spinner, Colossal</entry>
+		<entry>Monstrous Spider, Web-Spinner, Gargantuan</entry>
+		<entry>Monstrous Spider, Web-Spinner, Huge</entry>
+		<entry>Monstrous Spider, Web-Spinner, Large</entry>
+		<entry>Monstrous Spider, Web-Spinner, Medium</entry>
+		<entry>Monstrous Spider, Web-Spinner, Small</entry>
+		<entry>Monstrous Spider, Web-Spinner, Tiny</entry>
+		<entry>Spider Swarm</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Green)Humanoid</name>
@@ -62284,6 +63896,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Green)Reptilian</name>
@@ -62313,6 +63936,10 @@
 		<entry>Sea Hag</entry>
 		<entry>Yuan-ti Abomination</entry>
 		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Pureblood</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Green)Native</name>
@@ -62404,6 +64031,26 @@
 		<entry>Displacer Beast Pack Lord</entry>
 		<entry>Dragonne</entry>
 		<entry>Eight-Headed Cryohydra</entry>
+		<entry>Eight-Headed Hydra</entry>
+		<entry>Eight-Headed Pyrohydra</entry>
+		<entry>Eleven-Headed Cryohydra</entry>
+		<entry>Eleven-Headed Hydra</entry>
+		<entry>Eleven-Headed Pyrohydra</entry>
+		<entry>Ethereal Marauder</entry>
+		<entry>Five-Headed Cryohydra</entry>
+		<entry>Five-Headed Hydra</entry>
+		<entry>Five-Headed Pyrohydra</entry>
+		<entry>Frost Worm</entry>
+		<entry>Giant Eagle</entry>
+		<entry>Giant Owl</entry>
+		<entry>Girallon</entry>
+		<entry>Gorgon</entry>
+		<entry>Gray Render</entry>
+		<entry>Greater Basilisk</entry>
+		<entry>Griffon</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Hellwasp Swarm</entry>
+		<entry>Hieracosphinx</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Green)Shapechanger</name>
@@ -62443,6 +64090,14 @@
 		<entry>Mimic</entry>
 		<entry>Mind Flayer (Illithid)</entry>
 		<entry>Otyugh</entry>
+		<entry>Phasm</entry>
+		<entry>Rust Monster</entry>
+		<entry>Skum</entry>
+		<entry>Spirit Naga</entry>
+		<entry>Truly Horrid Umber Hulk</entry>
+		<entry>Umber Hulk</entry>
+		<entry>Water Naga</entry>
+		<entry>Will-O'-Wisp</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Red)Air</name>
@@ -62474,6 +64129,26 @@
 		<entry>Deinonychus</entry>
 		<entry>Dire Ape</entry>
 		<entry>Dire Badger</entry>
+		<entry>Dire Bat</entry>
+		<entry>Dire Bear</entry>
+		<entry>Dire Boar</entry>
+		<entry>Dire Lion</entry>
+		<entry>Dire Rat</entry>
+		<entry>Dire Shark</entry>
+		<entry>Dire Tiger</entry>
+		<entry>Dire Weasel</entry>
+		<entry>Dire Wolf</entry>
+		<entry>Dire Wolverine</entry>
+		<entry>Dog</entry>
+		<entry>Dog, Riding</entry>
+		<entry>Donkey</entry>
+		<entry>Eagle</entry>
+		<entry>Elasmosaurus</entry>
+		<entry>Elephant</entry>
+		<entry>Giant Constrictor Snake</entry>
+		<entry>Giant Crocodile</entry>
+		<entry>Giant Octopus</entry>
+		<entry>Giant Squid</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Red)Aquatic</name>
@@ -62497,6 +64172,16 @@
 		<entry>Octopus</entry>
 		<entry>Orca Whale</entry>
 		<entry>Porpoise</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Scrag</entry>
+		<entry>Sea Hag</entry>
+		<entry>Shark, Huge</entry>
+		<entry>Shark, Large</entry>
+		<entry>Shark, Medium</entry>
+		<entry>Skum</entry>
+		<entry>Squid</entry>
+		<entry>Water Naga</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Red)Archon</name>
@@ -62523,6 +64208,26 @@
 		<entry>Bison</entry>
 		<entry>Black Bear</entry>
 		<entry>Black Pudding</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brown Bear</entry>
+		<entry>Bugbear</entry>
+		<entry>Bulette</entry>
+		<entry>Cachalot Whale</entry>
+		<entry>Camel, Bactrian (Two-Humped)</entry>
+		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Carrion Crawler</entry>
+		<entry>Cat</entry>
+		<entry>Centaur</entry>
+		<entry>Centipede Swarm</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Red)Chaotic</name>
@@ -62598,6 +64303,26 @@
 		<entry>Bison</entry>
 		<entry>Black Bear</entry>
 		<entry>Black Pudding</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brown Bear</entry>
+		<entry>Bugbear</entry>
+		<entry>Bulette</entry>
+		<entry>Cachalot Whale</entry>
+		<entry>Camel, Bactrian (Two-Humped)</entry>
+		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Carrion Crawler</entry>
+		<entry>Cat</entry>
+		<entry>Centaur</entry>
+		<entry>Centipede Swarm</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Red)Dwarf</name>
@@ -62671,6 +64396,26 @@
 		<entry>Monstrous Centipede, Tiny</entry>
 		<entry>Monstrous Scorpion, Colossal</entry>
 		<entry>Monstrous Scorpion, Gargantuan</entry>
+		<entry>Monstrous Scorpion, Huge</entry>
+		<entry>Monstrous Scorpion, Large</entry>
+		<entry>Monstrous Scorpion, Medium</entry>
+		<entry>Monstrous Scorpion, Small</entry>
+		<entry>Monstrous Scorpion, Tiny</entry>
+		<entry>Monstrous Spider, Hunter, Colossal</entry>
+		<entry>Monstrous Spider, Hunter, Gargantuan</entry>
+		<entry>Monstrous Spider, Hunter, Huge</entry>
+		<entry>Monstrous Spider, Hunter, Large</entry>
+		<entry>Monstrous Spider, Hunter, Medium</entry>
+		<entry>Monstrous Spider, Hunter, Small</entry>
+		<entry>Monstrous Spider, Hunter, Tiny</entry>
+		<entry>Monstrous Spider, Web-Spinner, Colossal</entry>
+		<entry>Monstrous Spider, Web-Spinner, Gargantuan</entry>
+		<entry>Monstrous Spider, Web-Spinner, Huge</entry>
+		<entry>Monstrous Spider, Web-Spinner, Large</entry>
+		<entry>Monstrous Spider, Web-Spinner, Medium</entry>
+		<entry>Monstrous Spider, Web-Spinner, Small</entry>
+		<entry>Monstrous Spider, Web-Spinner, Tiny</entry>
+		<entry>Spider Swarm</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Red)Humanoid</name>
@@ -62694,6 +64439,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Red)Reptilian</name>
@@ -62723,6 +64479,10 @@
 		<entry>Sea Hag</entry>
 		<entry>Yuan-ti Abomination</entry>
 		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Pureblood</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Red)Native</name>
@@ -62814,6 +64574,26 @@
 		<entry>Displacer Beast Pack Lord</entry>
 		<entry>Dragonne</entry>
 		<entry>Eight-Headed Cryohydra</entry>
+		<entry>Eight-Headed Hydra</entry>
+		<entry>Eight-Headed Pyrohydra</entry>
+		<entry>Eleven-Headed Cryohydra</entry>
+		<entry>Eleven-Headed Hydra</entry>
+		<entry>Eleven-Headed Pyrohydra</entry>
+		<entry>Ethereal Marauder</entry>
+		<entry>Five-Headed Cryohydra</entry>
+		<entry>Five-Headed Hydra</entry>
+		<entry>Five-Headed Pyrohydra</entry>
+		<entry>Frost Worm</entry>
+		<entry>Giant Eagle</entry>
+		<entry>Giant Owl</entry>
+		<entry>Girallon</entry>
+		<entry>Gorgon</entry>
+		<entry>Gray Render</entry>
+		<entry>Greater Basilisk</entry>
+		<entry>Griffon</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Hellwasp Swarm</entry>
+		<entry>Hieracosphinx</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Red)Shapechanger</name>
@@ -62853,6 +64633,14 @@
 		<entry>Mimic</entry>
 		<entry>Mind Flayer (Illithid)</entry>
 		<entry>Otyugh</entry>
+		<entry>Phasm</entry>
+		<entry>Rust Monster</entry>
+		<entry>Skum</entry>
+		<entry>Spirit Naga</entry>
+		<entry>Truly Horrid Umber Hulk</entry>
+		<entry>Umber Hulk</entry>
+		<entry>Water Naga</entry>
+		<entry>Will-O'-Wisp</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Silver)Air</name>
@@ -62884,6 +64672,26 @@
 		<entry>Deinonychus</entry>
 		<entry>Dire Ape</entry>
 		<entry>Dire Badger</entry>
+		<entry>Dire Bat</entry>
+		<entry>Dire Bear</entry>
+		<entry>Dire Boar</entry>
+		<entry>Dire Lion</entry>
+		<entry>Dire Rat</entry>
+		<entry>Dire Shark</entry>
+		<entry>Dire Tiger</entry>
+		<entry>Dire Weasel</entry>
+		<entry>Dire Wolf</entry>
+		<entry>Dire Wolverine</entry>
+		<entry>Dog</entry>
+		<entry>Dog, Riding</entry>
+		<entry>Donkey</entry>
+		<entry>Eagle</entry>
+		<entry>Elasmosaurus</entry>
+		<entry>Elephant</entry>
+		<entry>Giant Constrictor Snake</entry>
+		<entry>Giant Crocodile</entry>
+		<entry>Giant Octopus</entry>
+		<entry>Giant Squid</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Silver)Aquatic</name>
@@ -62907,6 +64715,16 @@
 		<entry>Octopus</entry>
 		<entry>Orca Whale</entry>
 		<entry>Porpoise</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Scrag</entry>
+		<entry>Sea Hag</entry>
+		<entry>Shark, Huge</entry>
+		<entry>Shark, Large</entry>
+		<entry>Shark, Medium</entry>
+		<entry>Skum</entry>
+		<entry>Squid</entry>
+		<entry>Water Naga</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Silver)Archon</name>
@@ -62933,6 +64751,26 @@
 		<entry>Bison</entry>
 		<entry>Black Bear</entry>
 		<entry>Black Pudding</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brown Bear</entry>
+		<entry>Bugbear</entry>
+		<entry>Bulette</entry>
+		<entry>Cachalot Whale</entry>
+		<entry>Camel, Bactrian (Two-Humped)</entry>
+		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Carrion Crawler</entry>
+		<entry>Cat</entry>
+		<entry>Centaur</entry>
+		<entry>Centipede Swarm</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Silver)Chaotic</name>
@@ -63008,6 +64846,26 @@
 		<entry>Bison</entry>
 		<entry>Black Bear</entry>
 		<entry>Black Pudding</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brown Bear</entry>
+		<entry>Bugbear</entry>
+		<entry>Bulette</entry>
+		<entry>Cachalot Whale</entry>
+		<entry>Camel, Bactrian (Two-Humped)</entry>
+		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Carrion Crawler</entry>
+		<entry>Cat</entry>
+		<entry>Centaur</entry>
+		<entry>Centipede Swarm</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Silver)Dwarf</name>
@@ -63081,6 +64939,26 @@
 		<entry>Monstrous Centipede, Tiny</entry>
 		<entry>Monstrous Scorpion, Colossal</entry>
 		<entry>Monstrous Scorpion, Gargantuan</entry>
+		<entry>Monstrous Scorpion, Huge</entry>
+		<entry>Monstrous Scorpion, Large</entry>
+		<entry>Monstrous Scorpion, Medium</entry>
+		<entry>Monstrous Scorpion, Small</entry>
+		<entry>Monstrous Scorpion, Tiny</entry>
+		<entry>Monstrous Spider, Hunter, Colossal</entry>
+		<entry>Monstrous Spider, Hunter, Gargantuan</entry>
+		<entry>Monstrous Spider, Hunter, Huge</entry>
+		<entry>Monstrous Spider, Hunter, Large</entry>
+		<entry>Monstrous Spider, Hunter, Medium</entry>
+		<entry>Monstrous Spider, Hunter, Small</entry>
+		<entry>Monstrous Spider, Hunter, Tiny</entry>
+		<entry>Monstrous Spider, Web-Spinner, Colossal</entry>
+		<entry>Monstrous Spider, Web-Spinner, Gargantuan</entry>
+		<entry>Monstrous Spider, Web-Spinner, Huge</entry>
+		<entry>Monstrous Spider, Web-Spinner, Large</entry>
+		<entry>Monstrous Spider, Web-Spinner, Medium</entry>
+		<entry>Monstrous Spider, Web-Spinner, Small</entry>
+		<entry>Monstrous Spider, Web-Spinner, Tiny</entry>
+		<entry>Spider Swarm</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Silver)Humanoid</name>
@@ -63104,6 +64982,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Silver)Reptilian</name>
@@ -63133,6 +65022,10 @@
 		<entry>Sea Hag</entry>
 		<entry>Yuan-ti Abomination</entry>
 		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Pureblood</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Silver)Native</name>
@@ -63224,6 +65117,26 @@
 		<entry>Displacer Beast Pack Lord</entry>
 		<entry>Dragonne</entry>
 		<entry>Eight-Headed Cryohydra</entry>
+		<entry>Eight-Headed Hydra</entry>
+		<entry>Eight-Headed Pyrohydra</entry>
+		<entry>Eleven-Headed Cryohydra</entry>
+		<entry>Eleven-Headed Hydra</entry>
+		<entry>Eleven-Headed Pyrohydra</entry>
+		<entry>Ethereal Marauder</entry>
+		<entry>Five-Headed Cryohydra</entry>
+		<entry>Five-Headed Hydra</entry>
+		<entry>Five-Headed Pyrohydra</entry>
+		<entry>Frost Worm</entry>
+		<entry>Giant Eagle</entry>
+		<entry>Giant Owl</entry>
+		<entry>Girallon</entry>
+		<entry>Gorgon</entry>
+		<entry>Gray Render</entry>
+		<entry>Greater Basilisk</entry>
+		<entry>Griffon</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Hellwasp Swarm</entry>
+		<entry>Hieracosphinx</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (Silver)Shapechanger</name>
@@ -63263,6 +65176,14 @@
 		<entry>Mimic</entry>
 		<entry>Mind Flayer (Illithid)</entry>
 		<entry>Otyugh</entry>
+		<entry>Phasm</entry>
+		<entry>Rust Monster</entry>
+		<entry>Skum</entry>
+		<entry>Spirit Naga</entry>
+		<entry>Truly Horrid Umber Hulk</entry>
+		<entry>Umber Hulk</entry>
+		<entry>Water Naga</entry>
+		<entry>Will-O'-Wisp</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (White)Air</name>
@@ -63294,6 +65215,26 @@
 		<entry>Deinonychus</entry>
 		<entry>Dire Ape</entry>
 		<entry>Dire Badger</entry>
+		<entry>Dire Bat</entry>
+		<entry>Dire Bear</entry>
+		<entry>Dire Boar</entry>
+		<entry>Dire Lion</entry>
+		<entry>Dire Rat</entry>
+		<entry>Dire Shark</entry>
+		<entry>Dire Tiger</entry>
+		<entry>Dire Weasel</entry>
+		<entry>Dire Wolf</entry>
+		<entry>Dire Wolverine</entry>
+		<entry>Dog</entry>
+		<entry>Dog, Riding</entry>
+		<entry>Donkey</entry>
+		<entry>Eagle</entry>
+		<entry>Elasmosaurus</entry>
+		<entry>Elephant</entry>
+		<entry>Giant Constrictor Snake</entry>
+		<entry>Giant Crocodile</entry>
+		<entry>Giant Octopus</entry>
+		<entry>Giant Squid</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (White)Aquatic</name>
@@ -63317,6 +65258,16 @@
 		<entry>Octopus</entry>
 		<entry>Orca Whale</entry>
 		<entry>Porpoise</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Scrag</entry>
+		<entry>Sea Hag</entry>
+		<entry>Shark, Huge</entry>
+		<entry>Shark, Large</entry>
+		<entry>Shark, Medium</entry>
+		<entry>Skum</entry>
+		<entry>Squid</entry>
+		<entry>Water Naga</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (White)Archon</name>
@@ -63343,6 +65294,26 @@
 		<entry>Bison</entry>
 		<entry>Black Bear</entry>
 		<entry>Black Pudding</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brown Bear</entry>
+		<entry>Bugbear</entry>
+		<entry>Bulette</entry>
+		<entry>Cachalot Whale</entry>
+		<entry>Camel, Bactrian (Two-Humped)</entry>
+		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Carrion Crawler</entry>
+		<entry>Cat</entry>
+		<entry>Centaur</entry>
+		<entry>Centipede Swarm</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (White)Chaotic</name>
@@ -63418,6 +65389,26 @@
 		<entry>Bison</entry>
 		<entry>Black Bear</entry>
 		<entry>Black Pudding</entry>
+		<entry>Blink Dog</entry>
+		<entry>Boar</entry>
+		<entry>Brown Bear</entry>
+		<entry>Bugbear</entry>
+		<entry>Bulette</entry>
+		<entry>Cachalot Whale</entry>
+		<entry>Camel, Bactrian (Two-Humped)</entry>
+		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Carrion Crawler</entry>
+		<entry>Cat</entry>
+		<entry>Centaur</entry>
+		<entry>Centipede Swarm</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
+		<entry>Choker</entry>
+		<entry>Chuul</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (White)Dwarf</name>
@@ -63491,6 +65482,26 @@
 		<entry>Monstrous Centipede, Tiny</entry>
 		<entry>Monstrous Scorpion, Colossal</entry>
 		<entry>Monstrous Scorpion, Gargantuan</entry>
+		<entry>Monstrous Scorpion, Huge</entry>
+		<entry>Monstrous Scorpion, Large</entry>
+		<entry>Monstrous Scorpion, Medium</entry>
+		<entry>Monstrous Scorpion, Small</entry>
+		<entry>Monstrous Scorpion, Tiny</entry>
+		<entry>Monstrous Spider, Hunter, Colossal</entry>
+		<entry>Monstrous Spider, Hunter, Gargantuan</entry>
+		<entry>Monstrous Spider, Hunter, Huge</entry>
+		<entry>Monstrous Spider, Hunter, Large</entry>
+		<entry>Monstrous Spider, Hunter, Medium</entry>
+		<entry>Monstrous Spider, Hunter, Small</entry>
+		<entry>Monstrous Spider, Hunter, Tiny</entry>
+		<entry>Monstrous Spider, Web-Spinner, Colossal</entry>
+		<entry>Monstrous Spider, Web-Spinner, Gargantuan</entry>
+		<entry>Monstrous Spider, Web-Spinner, Huge</entry>
+		<entry>Monstrous Spider, Web-Spinner, Large</entry>
+		<entry>Monstrous Spider, Web-Spinner, Medium</entry>
+		<entry>Monstrous Spider, Web-Spinner, Small</entry>
+		<entry>Monstrous Spider, Web-Spinner, Tiny</entry>
+		<entry>Spider Swarm</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (White)Humanoid</name>
@@ -63514,6 +65525,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (White)Reptilian</name>
@@ -63543,6 +65565,10 @@
 		<entry>Sea Hag</entry>
 		<entry>Yuan-ti Abomination</entry>
 		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Pureblood</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (White)Native</name>
@@ -63634,6 +65660,26 @@
 		<entry>Displacer Beast Pack Lord</entry>
 		<entry>Dragonne</entry>
 		<entry>Eight-Headed Cryohydra</entry>
+		<entry>Eight-Headed Hydra</entry>
+		<entry>Eight-Headed Pyrohydra</entry>
+		<entry>Eleven-Headed Cryohydra</entry>
+		<entry>Eleven-Headed Hydra</entry>
+		<entry>Eleven-Headed Pyrohydra</entry>
+		<entry>Ethereal Marauder</entry>
+		<entry>Five-Headed Cryohydra</entry>
+		<entry>Five-Headed Hydra</entry>
+		<entry>Five-Headed Pyrohydra</entry>
+		<entry>Frost Worm</entry>
+		<entry>Giant Eagle</entry>
+		<entry>Giant Owl</entry>
+		<entry>Girallon</entry>
+		<entry>Gorgon</entry>
+		<entry>Gray Render</entry>
+		<entry>Greater Basilisk</entry>
+		<entry>Griffon</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Hellwasp Swarm</entry>
+		<entry>Hieracosphinx</entry>
 	</collection>
 	<collection>
 		<name>Half-Dragon (White)Shapechanger</name>
@@ -63694,6 +65740,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>LichChaotic</name>
@@ -63789,6 +65846,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>LichReptilian</name>
@@ -63858,6 +65926,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>LichIncorporeal</name>
@@ -63912,6 +65991,12 @@
 		<entry>Sahuagin</entry>
 		<entry>Sahuagin Mutant</entry>
 		<entry>Scrag</entry>
+		<entry>Sea Hag</entry>
+		<entry>Shark, Huge</entry>
+		<entry>Shark, Large</entry>
+		<entry>Shark, Medium</entry>
+		<entry>Skum</entry>
+		<entry>Water Naga</entry>
 	</collection>
 	<collection>
 		<name>SkeletonArchon</name>
@@ -63953,6 +66038,7 @@
 		<entry>White Dragon, Wyrmling</entry>
 		<entry>White Dragon, Young</entry>
 		<entry>White Dragon, Young Adult</entry>
+		<entry>Winter Wolf</entry>
 	</collection>
 	<collection>
 		<name>SkeletonFire</name>
@@ -63976,6 +66062,11 @@
 		<entry>Red Dragon, Very Young</entry>
 		<entry>Red Dragon, Wyrmling</entry>
 		<entry>Red Dragon, Young</entry>
+		<entry>Red Dragon, Young Adult</entry>
+		<entry>Seven-Headed Pyrohydra</entry>
+		<entry>Six-Headed Pyrohydra</entry>
+		<entry>Ten-Headed Pyrohydra</entry>
+		<entry>Twelve-Headed Pyrohydra</entry>
 	</collection>
 	<collection>
 		<name>SkeletonEarth</name>
@@ -64100,6 +66191,26 @@
 		<entry>Black Bear</entry>
 		<entry>Black Dragon, Adult</entry>
 		<entry>Black Dragon, Juvenile</entry>
+		<entry>Black Dragon, Very Young</entry>
+		<entry>Black Dragon, Wyrmling</entry>
+		<entry>Black Dragon, Young</entry>
+		<entry>Black Dragon, Young Adult</entry>
+		<entry>Blink Dog</entry>
+		<entry>Blue Dragon, Juvenile</entry>
+		<entry>Blue Dragon, Very Young</entry>
+		<entry>Blue Dragon, Wyrmling</entry>
+		<entry>Blue Dragon, Young</entry>
+		<entry>Blue Dragon, Young Adult</entry>
+		<entry>Boar</entry>
+		<entry>Brass Dragon, Adult</entry>
+		<entry>Brass Dragon, Juvenile</entry>
+		<entry>Brass Dragon, Very Young</entry>
+		<entry>Brass Dragon, Wyrmling</entry>
+		<entry>Brass Dragon, Young</entry>
+		<entry>Brass Dragon, Young Adult</entry>
+		<entry>Bronze Dragon, Juvenile</entry>
+		<entry>Bronze Dragon, Very Young</entry>
+		<entry>Bronze Dragon, Wyrmling</entry>
 	</collection>
 	<collection>
 		<name>SkeletonIncorporeal</name>
@@ -64164,6 +66275,26 @@
 		<entry>Gray Elf</entry>
 		<entry>Green Hag</entry>
 		<entry>Grimlock</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Harpy</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Kapoacinth</entry>
+		<entry>Kobold</entry>
+		<entry>Kuo-toa</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Malenti</entry>
+		<entry>Medusa</entry>
+		<entry>Merfolk</entry>
+		<entry>Minotaur</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
 	</collection>
 	<collection>
 		<name>VampireChaotic</name>
@@ -64261,6 +66392,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>VampireReptilian</name>
@@ -64290,6 +66432,10 @@
 		<entry>Sea Hag</entry>
 		<entry>Yuan-ti Abomination</entry>
 		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Pureblood</entry>
 	</collection>
 	<collection>
 		<name>VampireNative</name>
@@ -64350,6 +66496,26 @@
 		<entry>Gray Elf</entry>
 		<entry>Green Hag</entry>
 		<entry>Grimlock</entry>
+		<entry>Half-Elf</entry>
+		<entry>Half-Orc</entry>
+		<entry>Harpy</entry>
+		<entry>High Elf</entry>
+		<entry>Hill Dwarf</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Kapoacinth</entry>
+		<entry>Kobold</entry>
+		<entry>Kuo-toa</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Malenti</entry>
+		<entry>Medusa</entry>
+		<entry>Merfolk</entry>
+		<entry>Minotaur</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
 	</collection>
 	<collection>
 		<name>VampireIncorporeal</name>
@@ -64400,6 +66566,7 @@
 		<entry>Shark, Large</entry>
 		<entry>Shark, Medium</entry>
 		<entry>Skum</entry>
+		<entry>Water Naga</entry>
 	</collection>
 	<collection>
 		<name>ZombieArchon</name>
@@ -64557,6 +66724,26 @@
 		<entry>Blink Dog</entry>
 		<entry>Blue Dragon, Very Young</entry>
 		<entry>Blue Dragon, Wyrmling</entry>
+		<entry>Boar</entry>
+		<entry>Brass Dragon, Very Young</entry>
+		<entry>Brass Dragon, Wyrmling</entry>
+		<entry>Brass Dragon, Young</entry>
+		<entry>Bronze Dragon, Very Young</entry>
+		<entry>Bronze Dragon, Wyrmling</entry>
+		<entry>Brown Bear</entry>
+		<entry>Bugbear</entry>
+		<entry>Bulette</entry>
+		<entry>Camel, Bactrian (Two-Humped)</entry>
+		<entry>Camel, Dromedary (One-Humped)</entry>
+		<entry>Carrion Crawler</entry>
+		<entry>Cat</entry>
+		<entry>Centaur</entry>
+		<entry>Cheetah</entry>
+		<entry>Chimera (Black Dragon head)</entry>
+		<entry>Chimera (Blue Dragon head)</entry>
+		<entry>Chimera (Green Dragon head)</entry>
+		<entry>Chimera (Red Dragon head)</entry>
+		<entry>Chimera (White Dragon head)</entry>
 	</collection>
 	<collection>
 		<name>ZombieIncorporeal</name>
@@ -64696,6 +66883,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Black Bear (Werebear, Afflicted)Reptilian</name>
@@ -64785,6 +66983,26 @@
 		<entry>High Elf</entry>
 		<entry>Hill Dwarf</entry>
 		<entry>Hill Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Kobold</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Black Bear (Werebear, Afflicted)Swarm</name>
@@ -64913,6 +67131,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Black Bear (Werebear, Natural)Reptilian</name>
@@ -65002,6 +67231,26 @@
 		<entry>High Elf</entry>
 		<entry>Hill Dwarf</entry>
 		<entry>Hill Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Kobold</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Black Bear (Werebear, Natural)Swarm</name>
@@ -65128,6 +67377,9 @@
 		<entry>Merfolk</entry>
 		<entry>Mountain Dwarf</entry>
 		<entry>Orc</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Brown Bear (Werebear, Afflicted)Reptilian</name>
@@ -65214,6 +67466,22 @@
 		<entry>Hill Giant</entry>
 		<entry>Hobgoblin</entry>
 		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Storm Giant</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Brown Bear (Werebear, Afflicted)Swarm</name>
@@ -65340,6 +67608,9 @@
 		<entry>Merfolk</entry>
 		<entry>Mountain Dwarf</entry>
 		<entry>Orc</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Brown Bear (Werebear, Natural)Reptilian</name>
@@ -65426,6 +67697,22 @@
 		<entry>Hill Giant</entry>
 		<entry>Hobgoblin</entry>
 		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Storm Giant</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Brown Bear (Werebear, Natural)Swarm</name>
@@ -65552,6 +67839,9 @@
 		<entry>Merfolk</entry>
 		<entry>Mountain Dwarf</entry>
 		<entry>Orc</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Polar Bear (Werebear, Afflicted)Reptilian</name>
@@ -65638,6 +67928,22 @@
 		<entry>Hill Giant</entry>
 		<entry>Hobgoblin</entry>
 		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Storm Giant</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Polar Bear (Werebear, Afflicted)Swarm</name>
@@ -65764,6 +68070,9 @@
 		<entry>Merfolk</entry>
 		<entry>Mountain Dwarf</entry>
 		<entry>Orc</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Polar Bear (Werebear, Natural)Reptilian</name>
@@ -65850,6 +68159,22 @@
 		<entry>Hill Giant</entry>
 		<entry>Hobgoblin</entry>
 		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Storm Giant</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Polar Bear (Werebear, Natural)Swarm</name>
@@ -65976,6 +68301,9 @@
 		<entry>Merfolk</entry>
 		<entry>Mountain Dwarf</entry>
 		<entry>Orc</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Bear (Dire Werebear, Afflicted)Reptilian</name>
@@ -66062,6 +68390,22 @@
 		<entry>Hill Giant</entry>
 		<entry>Hobgoblin</entry>
 		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Storm Giant</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Bear (Dire Werebear, Afflicted)Swarm</name>
@@ -66188,6 +68532,9 @@
 		<entry>Merfolk</entry>
 		<entry>Mountain Dwarf</entry>
 		<entry>Orc</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Bear (Dire Werebear, Natural)Reptilian</name>
@@ -66274,6 +68621,22 @@
 		<entry>Hill Giant</entry>
 		<entry>Hobgoblin</entry>
 		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Storm Giant</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Bear (Dire Werebear, Natural)Swarm</name>
@@ -66402,6 +68765,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Boar (Wereboar, Afflicted)Reptilian</name>
@@ -66491,6 +68865,26 @@
 		<entry>High Elf</entry>
 		<entry>Hill Dwarf</entry>
 		<entry>Hill Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Kobold</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Boar (Wereboar, Afflicted)Swarm</name>
@@ -66619,6 +69013,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Boar (Wereboar, Natural)Reptilian</name>
@@ -66708,6 +69113,26 @@
 		<entry>High Elf</entry>
 		<entry>Hill Dwarf</entry>
 		<entry>Hill Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Kobold</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Boar (Wereboar, Natural)Swarm</name>
@@ -66834,6 +69259,9 @@
 		<entry>Merfolk</entry>
 		<entry>Mountain Dwarf</entry>
 		<entry>Orc</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Boar (Dire Wereboar, Afflicted)Reptilian</name>
@@ -66920,6 +69348,22 @@
 		<entry>Hill Giant</entry>
 		<entry>Hobgoblin</entry>
 		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Storm Giant</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Boar (Dire Wereboar, Afflicted)Swarm</name>
@@ -67046,6 +69490,9 @@
 		<entry>Merfolk</entry>
 		<entry>Mountain Dwarf</entry>
 		<entry>Orc</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Boar (Dire Wereboar, Natural)Reptilian</name>
@@ -67132,6 +69579,22 @@
 		<entry>Hill Giant</entry>
 		<entry>Hobgoblin</entry>
 		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Storm Giant</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Boar (Dire Wereboar, Natural)Swarm</name>
@@ -67554,6 +70017,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Rat (Wererat, Afflicted)Reptilian</name>
@@ -67632,6 +70106,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Rat (Wererat, Afflicted)Swarm</name>
@@ -67754,6 +70239,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Rat (Wererat, Natural)Reptilian</name>
@@ -67832,6 +70328,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Rat (Wererat, Natural)Swarm</name>
@@ -67958,6 +70465,9 @@
 		<entry>Merfolk</entry>
 		<entry>Mountain Dwarf</entry>
 		<entry>Orc</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Tiger (Weretiger, Afflicted)Reptilian</name>
@@ -68044,6 +70554,22 @@
 		<entry>Hill Giant</entry>
 		<entry>Hobgoblin</entry>
 		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Storm Giant</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Tiger (Weretiger, Afflicted)Swarm</name>
@@ -68170,6 +70696,9 @@
 		<entry>Merfolk</entry>
 		<entry>Mountain Dwarf</entry>
 		<entry>Orc</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Tiger (Weretiger, Natural)Reptilian</name>
@@ -68256,6 +70785,22 @@
 		<entry>Hill Giant</entry>
 		<entry>Hobgoblin</entry>
 		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Storm Giant</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Tiger (Weretiger, Natural)Swarm</name>
@@ -68382,6 +70927,9 @@
 		<entry>Merfolk</entry>
 		<entry>Mountain Dwarf</entry>
 		<entry>Orc</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Tiger (Dire Weretiger, Afflicted)Reptilian</name>
@@ -68468,6 +71016,22 @@
 		<entry>Hill Giant</entry>
 		<entry>Hobgoblin</entry>
 		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Storm Giant</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Tiger (Dire Weretiger, Afflicted)Swarm</name>
@@ -68594,6 +71158,9 @@
 		<entry>Merfolk</entry>
 		<entry>Mountain Dwarf</entry>
 		<entry>Orc</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Tiger (Dire Weretiger, Natural)Reptilian</name>
@@ -68680,6 +71247,22 @@
 		<entry>Hill Giant</entry>
 		<entry>Hobgoblin</entry>
 		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Storm Giant</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Tiger (Dire Weretiger, Natural)Swarm</name>
@@ -68808,6 +71391,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Afflicted)Reptilian</name>
@@ -68897,6 +71491,26 @@
 		<entry>High Elf</entry>
 		<entry>Hill Dwarf</entry>
 		<entry>Hill Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Kobold</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Afflicted)Swarm</name>
@@ -69025,6 +71639,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Natural)Reptilian</name>
@@ -69114,6 +71739,26 @@
 		<entry>High Elf</entry>
 		<entry>Hill Dwarf</entry>
 		<entry>Hill Giant</entry>
+		<entry>Hobgoblin</entry>
+		<entry>Human</entry>
+		<entry>Kobold</entry>
+		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Wolf (Werewolf, Natural)Swarm</name>
@@ -69240,6 +71885,9 @@
 		<entry>Merfolk</entry>
 		<entry>Mountain Dwarf</entry>
 		<entry>Orc</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Wolf (Dire Werewolf, Afflicted)Reptilian</name>
@@ -69326,6 +71974,22 @@
 		<entry>Hill Giant</entry>
 		<entry>Hobgoblin</entry>
 		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Storm Giant</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Wolf (Dire Werewolf, Afflicted)Swarm</name>
@@ -69452,6 +72116,9 @@
 		<entry>Merfolk</entry>
 		<entry>Mountain Dwarf</entry>
 		<entry>Orc</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Wolf (Dire Werewolf, Natural)Reptilian</name>
@@ -69538,6 +72205,22 @@
 		<entry>Hill Giant</entry>
 		<entry>Hobgoblin</entry>
 		<entry>Human</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Merrow</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Ogre</entry>
+		<entry>Ogre Mage</entry>
+		<entry>Orc</entry>
+		<entry>Scrag</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Storm Giant</entry>
+		<entry>Troglodyte</entry>
+		<entry>Troll</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>Lycanthrope, Dire Wolf (Dire Werewolf, Natural)Swarm</name>
@@ -69564,6 +72247,14 @@
 		<entry>Mimic</entry>
 		<entry>Mind Flayer (Illithid)</entry>
 		<entry>Otyugh</entry>
+		<entry>Phasm</entry>
+		<entry>Rust Monster</entry>
+		<entry>Skum</entry>
+		<entry>Spirit Naga</entry>
+		<entry>Truly Horrid Umber Hulk</entry>
+		<entry>Umber Hulk</entry>
+		<entry>Water Naga</entry>
+		<entry>Will-O'-Wisp</entry>
 	</collection>
 	<collection>
 		<name>NoneAir</name>
@@ -69587,6 +72278,16 @@
 		<entry>Green Dragon, Mature Adult</entry>
 		<entry>Green Dragon, Old</entry>
 		<entry>Green Dragon, Very Old</entry>
+		<entry>Green Dragon, Very Young</entry>
+		<entry>Green Dragon, Wyrm</entry>
+		<entry>Green Dragon, Wyrmling</entry>
+		<entry>Green Dragon, Young</entry>
+		<entry>Green Dragon, Young Adult</entry>
+		<entry>Ice Mephit</entry>
+		<entry>Invisible Stalker</entry>
+		<entry>Juvenile Arrowhawk</entry>
+		<entry>Noble Djinni</entry>
+		<entry>Will-O'-Wisp</entry>
 	</collection>
 	<collection>
 		<name>NoneAngel</name>
@@ -69616,6 +72317,26 @@
 		<entry>Deinonychus</entry>
 		<entry>Dire Ape</entry>
 		<entry>Dire Badger</entry>
+		<entry>Dire Bat</entry>
+		<entry>Dire Bear</entry>
+		<entry>Dire Boar</entry>
+		<entry>Dire Lion</entry>
+		<entry>Dire Rat</entry>
+		<entry>Dire Shark</entry>
+		<entry>Dire Tiger</entry>
+		<entry>Dire Weasel</entry>
+		<entry>Dire Wolf</entry>
+		<entry>Dire Wolverine</entry>
+		<entry>Dog</entry>
+		<entry>Dog, Riding</entry>
+		<entry>Donkey</entry>
+		<entry>Eagle</entry>
+		<entry>Elasmosaurus</entry>
+		<entry>Elephant</entry>
+		<entry>Giant Constrictor Snake</entry>
+		<entry>Giant Crocodile</entry>
+		<entry>Giant Octopus</entry>
+		<entry>Giant Squid</entry>
 	</collection>
 	<collection>
 		<name>NoneAquatic</name>
@@ -69639,6 +72360,18 @@
 		<entry>Merrow</entry>
 		<entry>Nixie</entry>
 		<entry>Octopus</entry>
+		<entry>Orca Whale</entry>
+		<entry>Porpoise</entry>
+		<entry>Sahuagin</entry>
+		<entry>Sahuagin Mutant</entry>
+		<entry>Scrag</entry>
+		<entry>Sea Hag</entry>
+		<entry>Shark, Huge</entry>
+		<entry>Shark, Large</entry>
+		<entry>Shark, Medium</entry>
+		<entry>Skum</entry>
+		<entry>Squid</entry>
+		<entry>Water Naga</entry>
 	</collection>
 	<collection>
 		<name>NoneArchon</name>
@@ -69671,6 +72404,8 @@
 		<entry>Quasit</entry>
 		<entry>Red Slaad</entry>
 		<entry>Succubus</entry>
+		<entry>Titan</entry>
+		<entry>Vrock</entry>
 	</collection>
 	<collection>
 		<name>NoneLawful</name>
@@ -69694,6 +72429,13 @@
 		<entry>Ice Devil (Gelugon)</entry>
 		<entry>Imp</entry>
 		<entry>Kolyarut</entry>
+		<entry>Lantern Archon</entry>
+		<entry>Lemure</entry>
+		<entry>Marut</entry>
+		<entry>Nessian Warhound</entry>
+		<entry>Pit Fiend</entry>
+		<entry>Trumpet Archon</entry>
+		<entry>Zelekhut</entry>
 	</collection>
 	<collection>
 		<name>NoneGood</name>
@@ -69731,6 +72473,20 @@
 		<entry>Horned Devil (Cornugon)</entry>
 		<entry>Howler</entry>
 		<entry>Ice Devil (Gelugon)</entry>
+		<entry>Imp</entry>
+		<entry>Lemure</entry>
+		<entry>Marilith</entry>
+		<entry>Nalfeshnee</entry>
+		<entry>Nessian Warhound</entry>
+		<entry>Night Hag</entry>
+		<entry>Nightmare</entry>
+		<entry>Nightmare, Cauchemar</entry>
+		<entry>Pit Fiend</entry>
+		<entry>Quasit</entry>
+		<entry>Succubus</entry>
+		<entry>Vargouille</entry>
+		<entry>Vrock</entry>
+		<entry>Yeth Hound</entry>
 	</collection>
 	<collection>
 		<name>NoneCold</name>
@@ -69754,6 +72510,22 @@
 		<entry>Silver Dragon, Wyrmling</entry>
 		<entry>Silver Dragon, Young</entry>
 		<entry>Silver Dragon, Young Adult</entry>
+		<entry>Six-Headed Cryohydra</entry>
+		<entry>Ten-Headed Cryohydra</entry>
+		<entry>Twelve-Headed Cryohydra</entry>
+		<entry>White Dragon, Adult</entry>
+		<entry>White Dragon, Ancient</entry>
+		<entry>White Dragon, Great Wyrm</entry>
+		<entry>White Dragon, Juvenile</entry>
+		<entry>White Dragon, Mature Adult</entry>
+		<entry>White Dragon, Old</entry>
+		<entry>White Dragon, Very Old</entry>
+		<entry>White Dragon, Very Young</entry>
+		<entry>White Dragon, Wyrm</entry>
+		<entry>White Dragon, Wyrmling</entry>
+		<entry>White Dragon, Young</entry>
+		<entry>White Dragon, Young Adult</entry>
+		<entry>Winter Wolf</entry>
 	</collection>
 	<collection>
 		<name>NoneFire</name>
@@ -69777,6 +72549,26 @@
 		<entry>Fire Elemental, Elder</entry>
 		<entry>Fire Elemental, Greater</entry>
 		<entry>Fire Elemental, Huge</entry>
+		<entry>Fire Elemental, Large</entry>
+		<entry>Fire Elemental, Medium</entry>
+		<entry>Fire Elemental, Small</entry>
+		<entry>Fire Giant</entry>
+		<entry>Fire Mephit</entry>
+		<entry>Five-Headed Pyrohydra</entry>
+		<entry>Flamebrother Salamander</entry>
+		<entry>Gold Dragon, Adult</entry>
+		<entry>Gold Dragon, Ancient</entry>
+		<entry>Gold Dragon, Great Wyrm</entry>
+		<entry>Gold Dragon, Juvenile</entry>
+		<entry>Gold Dragon, Mature Adult</entry>
+		<entry>Gold Dragon, Old</entry>
+		<entry>Gold Dragon, Very Old</entry>
+		<entry>Gold Dragon, Very Young</entry>
+		<entry>Gold Dragon, Wyrm</entry>
+		<entry>Gold Dragon, Wyrmling</entry>
+		<entry>Gold Dragon, Young</entry>
+		<entry>Gold Dragon, Young Adult</entry>
+		<entry>Hell Hound</entry>
 	</collection>
 	<collection>
 		<name>NoneEarth</name>
@@ -69800,6 +72592,26 @@
 		<entry>Copper Dragon, Mature Adult</entry>
 		<entry>Copper Dragon, Old</entry>
 		<entry>Copper Dragon, Very Old</entry>
+		<entry>Copper Dragon, Very Young</entry>
+		<entry>Copper Dragon, Wyrm</entry>
+		<entry>Copper Dragon, Wyrmling</entry>
+		<entry>Copper Dragon, Young</entry>
+		<entry>Copper Dragon, Young Adult</entry>
+		<entry>Earth Elemental, Elder</entry>
+		<entry>Earth Elemental, Greater</entry>
+		<entry>Earth Elemental, Huge</entry>
+		<entry>Earth Elemental, Large</entry>
+		<entry>Earth Elemental, Medium</entry>
+		<entry>Earth Elemental, Small</entry>
+		<entry>Earth Mephit</entry>
+		<entry>Elder Xorn</entry>
+		<entry>Gargoyle</entry>
+		<entry>Kapoacinth</entry>
+		<entry>Minor Xorn</entry>
+		<entry>Salt Mephit</entry>
+		<entry>Stone Giant</entry>
+		<entry>Stone Giant Elder</entry>
+		<entry>Thoqqua</entry>
 	</collection>
 	<collection>
 		<name>NoneWater</name>
@@ -69823,6 +72635,22 @@
 		<entry>Bronze Dragon, Mature Adult</entry>
 		<entry>Bronze Dragon, Old</entry>
 		<entry>Bronze Dragon, Very Old</entry>
+		<entry>Bronze Dragon, Very Young</entry>
+		<entry>Bronze Dragon, Wyrm</entry>
+		<entry>Bronze Dragon, Wyrmling</entry>
+		<entry>Bronze Dragon, Young</entry>
+		<entry>Bronze Dragon, Young Adult</entry>
+		<entry>Elder Tojanida</entry>
+		<entry>Juvenile Tojanida</entry>
+		<entry>Ooze Mephit</entry>
+		<entry>Triton</entry>
+		<entry>Water Elemental, Elder</entry>
+		<entry>Water Elemental, Greater</entry>
+		<entry>Water Elemental, Huge</entry>
+		<entry>Water Elemental, Large</entry>
+		<entry>Water Elemental, Medium</entry>
+		<entry>Water Elemental, Small</entry>
+		<entry>Water Mephit</entry>
 	</collection>
 	<collection>
 		<name>NoneConstruct</name>
@@ -69846,6 +72674,26 @@
 		<entry>Animated Object, Gargantuan (Sheetlike)</entry>
 		<entry>Animated Object, Gargantuan (Two Legs)</entry>
 		<entry>Animated Object, Gargantuan (Two Legs, Wooden)</entry>
+		<entry>Animated Object, Gargantuan (Wheels, Wooden)</entry>
+		<entry>Animated Object, Gargantuan (Wooden)</entry>
+		<entry>Animated Object, Huge</entry>
+		<entry>Animated Object, Huge (Flexible)</entry>
+		<entry>Animated Object, Huge (More Than Two Legs, Long)</entry>
+		<entry>Animated Object, Huge (More Than Two Legs, Long, Wooden)</entry>
+		<entry>Animated Object, Huge (More Than Two Legs, Tall)</entry>
+		<entry>Animated Object, Huge (More Than Two Legs, Tall, Wooden)</entry>
+		<entry>Animated Object, Huge (Sheetlike)</entry>
+		<entry>Animated Object, Huge (Two Legs)</entry>
+		<entry>Animated Object, Huge (Two Legs, Wooden)</entry>
+		<entry>Animated Object, Huge (Wheels, Wooden)</entry>
+		<entry>Animated Object, Huge (Wooden)</entry>
+		<entry>Animated Object, Large</entry>
+		<entry>Animated Object, Large (Flexible)</entry>
+		<entry>Animated Object, Large (More Than Two Legs, Long)</entry>
+		<entry>Animated Object, Large (More Than Two Legs, Long, Wooden)</entry>
+		<entry>Animated Object, Large (More Than Two Legs, Tall)</entry>
+		<entry>Animated Object, Large (More Than Two Legs, Tall, Wooden)</entry>
+		<entry>Animated Object, Large (Sheetlike)</entry>
 	</collection>
 	<collection>
 		<name>NoneDragon</name>
@@ -69869,6 +72717,26 @@
 		<entry>Blue Dragon, Old</entry>
 		<entry>Blue Dragon, Very Old</entry>
 		<entry>Blue Dragon, Very Young</entry>
+		<entry>Blue Dragon, Wyrm</entry>
+		<entry>Blue Dragon, Wyrmling</entry>
+		<entry>Blue Dragon, Young</entry>
+		<entry>Blue Dragon, Young Adult</entry>
+		<entry>Brass Dragon, Adult</entry>
+		<entry>Brass Dragon, Ancient</entry>
+		<entry>Brass Dragon, Great Wyrm</entry>
+		<entry>Brass Dragon, Juvenile</entry>
+		<entry>Brass Dragon, Mature Adult</entry>
+		<entry>Brass Dragon, Old</entry>
+		<entry>Brass Dragon, Very Old</entry>
+		<entry>Brass Dragon, Very Young</entry>
+		<entry>Brass Dragon, Wyrm</entry>
+		<entry>Brass Dragon, Wyrmling</entry>
+		<entry>Brass Dragon, Young</entry>
+		<entry>Brass Dragon, Young Adult</entry>
+		<entry>Bronze Dragon, Adult</entry>
+		<entry>Bronze Dragon, Ancient</entry>
+		<entry>Bronze Dragon, Great Wyrm</entry>
+		<entry>Bronze Dragon, Juvenile</entry>
 	</collection>
 	<collection>
 		<name>NoneDwarf</name>
@@ -69899,6 +72767,14 @@
 		<entry>Fire Elemental, Medium</entry>
 		<entry>Fire Elemental, Small</entry>
 		<entry>Invisible Stalker</entry>
+		<entry>Magmin</entry>
+		<entry>Thoqqua</entry>
+		<entry>Water Elemental, Elder</entry>
+		<entry>Water Elemental, Greater</entry>
+		<entry>Water Elemental, Huge</entry>
+		<entry>Water Elemental, Large</entry>
+		<entry>Water Elemental, Medium</entry>
+		<entry>Water Elemental, Small</entry>
 	</collection>
 	<collection>
 		<name>NoneElf</name>
@@ -69943,6 +72819,26 @@
 		<entry>Babau</entry>
 		<entry>Balor</entry>
 		<entry>Barbed Devil (Hamatula)</entry>
+		<entry>Barghest</entry>
+		<entry>Bearded Devil (Barbazu)</entry>
+		<entry>Bebilith</entry>
+		<entry>Belker</entry>
+		<entry>Blue Slaad</entry>
+		<entry>Bodak</entry>
+		<entry>Bone Devil (Osyluth)</entry>
+		<entry>Bralani</entry>
+		<entry>Chain Devil (Kyton)</entry>
+		<entry>Chaos Beast</entry>
+		<entry>Death Slaad</entry>
+		<entry>Devourer</entry>
+		<entry>Djinni</entry>
+		<entry>Dretch</entry>
+		<entry>Dust Mephit</entry>
+		<entry>Earth Elemental, Elder</entry>
+		<entry>Earth Elemental, Greater</entry>
+		<entry>Earth Elemental, Huge</entry>
+		<entry>Earth Elemental, Large</entry>
+		<entry>Earth Elemental, Medium</entry>
 	</collection>
 	<collection>
 		<name>NoneFey</name>
@@ -69978,6 +72874,26 @@
 		<entry>Monstrous Centipede, Tiny</entry>
 		<entry>Monstrous Scorpion, Colossal</entry>
 		<entry>Monstrous Scorpion, Gargantuan</entry>
+		<entry>Monstrous Scorpion, Huge</entry>
+		<entry>Monstrous Scorpion, Large</entry>
+		<entry>Monstrous Scorpion, Medium</entry>
+		<entry>Monstrous Scorpion, Small</entry>
+		<entry>Monstrous Scorpion, Tiny</entry>
+		<entry>Monstrous Spider, Hunter, Colossal</entry>
+		<entry>Monstrous Spider, Hunter, Gargantuan</entry>
+		<entry>Monstrous Spider, Hunter, Huge</entry>
+		<entry>Monstrous Spider, Hunter, Large</entry>
+		<entry>Monstrous Spider, Hunter, Medium</entry>
+		<entry>Monstrous Spider, Hunter, Small</entry>
+		<entry>Monstrous Spider, Hunter, Tiny</entry>
+		<entry>Monstrous Spider, Web-Spinner, Colossal</entry>
+		<entry>Monstrous Spider, Web-Spinner, Gargantuan</entry>
+		<entry>Monstrous Spider, Web-Spinner, Huge</entry>
+		<entry>Monstrous Spider, Web-Spinner, Large</entry>
+		<entry>Monstrous Spider, Web-Spinner, Medium</entry>
+		<entry>Monstrous Spider, Web-Spinner, Small</entry>
+		<entry>Monstrous Spider, Web-Spinner, Tiny</entry>
+		<entry>Spider Swarm</entry>
 	</collection>
 	<collection>
 		<name>NoneHumanoid</name>
@@ -70001,6 +72917,17 @@
 		<entry>Human</entry>
 		<entry>Kobold</entry>
 		<entry>Lightfoot Halfling</entry>
+		<entry>Lizardfolk</entry>
+		<entry>Locathah</entry>
+		<entry>Merfolk</entry>
+		<entry>Mountain Dwarf</entry>
+		<entry>Orc</entry>
+		<entry>Rock Gnome</entry>
+		<entry>Svirfneblin</entry>
+		<entry>Tallfellow Halfling</entry>
+		<entry>Troglodyte</entry>
+		<entry>Wild Elf</entry>
+		<entry>Wood Elf</entry>
 	</collection>
 	<collection>
 		<name>NoneReptilian</name>
@@ -70030,6 +72957,10 @@
 		<entry>Sea Hag</entry>
 		<entry>Yuan-ti Abomination</entry>
 		<entry>Yuan-ti Halfblood (Human Head, Arms are Snakes)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail and Human Legs)</entry>
+		<entry>Yuan-ti Halfblood (Snake Head, Snake Tail instead of Human Legs)</entry>
+		<entry>Yuan-ti Pureblood</entry>
 	</collection>
 	<collection>
 		<name>NoneNative</name>
@@ -70070,6 +73001,26 @@
 		<entry>Bebilith</entry>
 		<entry>Blue Slaad</entry>
 		<entry>Bone Devil (Osyluth)</entry>
+		<entry>Bralani</entry>
+		<entry>Chain Devil (Kyton)</entry>
+		<entry>Chaos Beast</entry>
+		<entry>Couatl</entry>
+		<entry>Death Slaad</entry>
+		<entry>Djinni</entry>
+		<entry>Dretch</entry>
+		<entry>Dust Mephit</entry>
+		<entry>Earth Mephit</entry>
+		<entry>Efreeti</entry>
+		<entry>Elder Arrowhawk</entry>
+		<entry>Elder Tojanida</entry>
+		<entry>Elder Xorn</entry>
+		<entry>Erinyes</entry>
+		<entry>Fire Mephit</entry>
+		<entry>Flamebrother Salamander</entry>
+		<entry>Formian Myrmarch</entry>
+		<entry>Formian Queen</entry>
+		<entry>Formian Taskmaster</entry>
+		<entry>Formian Warrior</entry>
 	</collection>
 	<collection>
 		<name>NoneGiant</name>
@@ -70171,6 +73122,26 @@
 		<entry>Displacer Beast Pack Lord</entry>
 		<entry>Dragonne</entry>
 		<entry>Eight-Headed Cryohydra</entry>
+		<entry>Eight-Headed Hydra</entry>
+		<entry>Eight-Headed Pyrohydra</entry>
+		<entry>Eleven-Headed Cryohydra</entry>
+		<entry>Eleven-Headed Hydra</entry>
+		<entry>Eleven-Headed Pyrohydra</entry>
+		<entry>Ethereal Marauder</entry>
+		<entry>Five-Headed Cryohydra</entry>
+		<entry>Five-Headed Hydra</entry>
+		<entry>Five-Headed Pyrohydra</entry>
+		<entry>Frost Worm</entry>
+		<entry>Giant Eagle</entry>
+		<entry>Giant Owl</entry>
+		<entry>Girallon</entry>
+		<entry>Gorgon</entry>
+		<entry>Gray Render</entry>
+		<entry>Greater Basilisk</entry>
+		<entry>Griffon</entry>
+		<entry>Gynosphinx</entry>
+		<entry>Hellwasp Swarm</entry>
+		<entry>Hieracosphinx</entry>
 	</collection>
 	<collection>
 		<name>NoneShapechanger</name>
