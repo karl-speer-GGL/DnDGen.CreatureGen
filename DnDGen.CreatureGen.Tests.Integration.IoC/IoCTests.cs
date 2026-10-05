@@ -6,6 +6,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.IoC
     public abstract class IoCTests : IntegrationTests
     {
         protected void AssertNotSingleton<T>()
+            where T : class
         {
             var first = GetNewInstanceOf<T>();
             var second = GetNewInstanceOf<T>();
@@ -13,6 +14,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.IoC
         }
 
         protected void AssertSingleton<T>()
+            where T : class
         {
             var first = GetNewInstanceOf<T>();
             var second = GetNewInstanceOf<T>();
@@ -20,6 +22,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.IoC
         }
 
         protected void AssertNotSingleton<T>(string name)
+            where T : class
         {
             var first = GetNewInstanceOf<T>(name);
             var second = GetNewInstanceOf<T>(name);
