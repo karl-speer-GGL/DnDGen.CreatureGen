@@ -4,8 +4,10 @@ using DnDGen.CreatureGen.Attacks;
 using DnDGen.CreatureGen.Creatures;
 using DnDGen.CreatureGen.Defenses;
 using DnDGen.CreatureGen.Feats;
+using DnDGen.CreatureGen.Generators.Creatures;
 using DnDGen.CreatureGen.Magics;
 using DnDGen.CreatureGen.Skills;
+using DnDGen.CreatureGen.Verifiers;
 using DnDGen.TreasureGen.Items;
 using NUnit.Framework;
 using System;
@@ -14,7 +16,7 @@ using System.Linq;
 
 namespace DnDGen.CreatureGen.Tests.Integration
 {
-    public class CreatureAsserter(/*ICreatureVerifier creatureVerifier*/)
+    public class CreatureAsserter(ICreatureVerifier creatureVerifier)
     {
         private readonly IEnumerable<string> skillsWithFoci =
             [
@@ -45,22 +47,22 @@ namespace DnDGen.CreatureGen.Tests.Integration
         {
             message ??= creature.Summary;
 
-            //var filters = new Filters
-            //{
-            //    Types = [.. creature.Type.AllTypes],
-            //    Alignments = [creature.Alignment.Full],
-            //    ChallengeRatings = [creature.ChallengeRating],
-            //};
+            var filters = new Filters
+            {
+                Types = [.. creature.Type.AllTypes],
+                Alignments = [creature.Alignment.Full],
+                ChallengeRatings = [creature.ChallengeRating],
+            };
 
-            //if (asCharacter)
-            //    filters.ChallengeRatings.Add(ChallengeRatingConstants.CR0);
+            if (asCharacter)
+                filters.ChallengeRatings.Add(ChallengeRatingConstants.CR0);
 
-            ////INFO: Advancement can alter CR and retroactively make it seem "incompatible"
-            //if (creature.IsAdvanced)
-            //    filters.ChallengeRatings = [];
+            //INFO: Advancement can alter CR and retroactively make it seem "incompatible"
+            if (creature.IsAdvanced)
+                filters.ChallengeRatings = [];
 
-            //var isValid = creatureVerifier.VerifyCompatibility(asCharacter, creature.Name, null, filters, [.. creature.Templates]);
-            //Assert.That(isValid, Is.True, $"Summary: {creature.Summary}; Creature Properties: {filters.GetDescription()}");
+            var isValid = creatureVerifier.VerifyCompatibility(asCharacter, creature.Name, null, filters, [.. creature.Templates]);
+            Assert.That(isValid, Is.True, $"Summary: {creature.Summary}; Creature Properties: {filters.GetDescription()}");
 
             AssertSummary(creature, message);
             AssertDemographics(creature, message);

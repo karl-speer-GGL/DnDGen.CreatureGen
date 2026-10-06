@@ -178,6 +178,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Stress.Creatures
             string type = null;
             string cr = null;
             string alignment = null;
+            var filters = new Filters();
 
             if (setTemplate)
             {
@@ -204,6 +205,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Stress.Creatures
                     [template]));
 
                 type = collectionSelector.SelectRandomFrom(validTypes);
+                filters.Types.Add(type);
             }
 
             if (setCr)
@@ -218,6 +220,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Stress.Creatures
                         [template]));
 
                 cr = collectionSelector.SelectRandomFrom(validChallengeRatings);
+                filters.ChallengeRatings.Add(cr);
             }
 
             if (setAlignment)
@@ -243,9 +246,10 @@ namespace DnDGen.CreatureGen.Tests.Integration.Stress.Creatures
                         [template]));
 
                 alignment = collectionSelector.SelectRandomFrom(validAlignments);
+                filters.Alignments.Add(alignment);
             }
 
-            return (template, new Filters { Types = [type], ChallengeRatings = [cr], Alignments = [alignment] });
+            return (template, filters);
         }
 
         private Creature GenerateAndAssertRandomCreature(
