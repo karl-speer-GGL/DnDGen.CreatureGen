@@ -25,14 +25,20 @@ namespace DnDGen.CreatureGen.Verifiers
             AbilityRandomizer abilityRandomizer = null,
             Filters filters = null)
         {
+            if (templates.Length >= 2)
+            {
+                var prototypes = prototypeFactory.Build(sourceCreatures, asCharacter, abilityRandomizer);
+                return GetChainedTemplates(prototypes, templates, filters);
+            }
+
             var firstTemplate = templates.FirstOrDefault();
             var compatibleCreatures = GetCompatibleCreaturesForTemplate(sourceCreatures, firstTemplate, asCharacter, abilityRandomizer, filters);
-            var prototypes = prototypeFactory.Build(compatibleCreatures, asCharacter, abilityRandomizer);
+            var compatiblePrototypes = prototypeFactory.Build(compatibleCreatures, asCharacter, abilityRandomizer);
 
-            if (templates.Length == 0)
-                return prototypes;
+            if (templates.Length == 1)
+                return GetCompatiblePrototypes(compatiblePrototypes, templates[0], filters);
 
-            return GetChainedTemplates(prototypes, templates, filters);
+            return compatiblePrototypes;
         }
 
         public IEnumerable<string> GetCompatibleCreaturesForTemplate(
@@ -83,6 +89,9 @@ namespace DnDGen.CreatureGen.Verifiers
 
             foreach (var groupName in groupNames.Where(g => !string.IsNullOrEmpty(g)))
             {
+                if (!collectionSelector.IsCollection(Config.Name, TableNameConstants.Collection.CreatureGroups, prefix + groupName))
+                    continue;
+
                 var creatures = collectionSelector.SelectFrom(Config.Name, TableNameConstants.Collection.CreatureGroups, prefix + groupName);
                 group = group.Union(creatures);
             }

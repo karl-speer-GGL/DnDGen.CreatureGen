@@ -2,6 +2,7 @@
 using DnDGen.CreatureGen.Creatures;
 using DnDGen.CreatureGen.Generators.Creatures;
 using NUnit.Framework;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
@@ -137,7 +138,12 @@ namespace DnDGen.CreatureGen.Tests.Integration.TestData
                 foreach (var pf in ProblematicFilters)
                 {
                     var testCase = new TestCaseData(pf.AsCharacter, pf.Templates, pf.Filters);
-                    testCase.SetArgDisplayNames([pf.AsCharacter.ToString(), string.Join(",", pf.Templates), pf.Filters.GetDescription()]);
+                    var asCharacterArgName = pf.AsCharacter.ToString();
+                    var templatesArgName = $"[{string.Join(",", pf.Templates)}]";
+                    var filtersArgName = pf.Filters?.GetDescription() ?? string.Empty;
+                    filtersArgName = filtersArgName.Replace(Environment.NewLine, ";");
+
+                    testCase.SetArgDisplayNames([asCharacterArgName, templatesArgName, filtersArgName]);
 
                     yield return testCase;
                 }

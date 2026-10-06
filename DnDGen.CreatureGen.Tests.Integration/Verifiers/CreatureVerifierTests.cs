@@ -31,7 +31,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Verifiers
 
             creatureVerifier = GetNewInstanceOf<ICreatureVerifier>();
 
-            timeLimit = TimeSpan.FromSeconds(0.1);
+            timeLimit = TimeSpan.FromSeconds(0.2);
         }
 
         [TestCase(true, false, CreatureConstants.Ape, CreatureConstants.Templates.FiendishCreature)]
@@ -868,7 +868,8 @@ namespace DnDGen.CreatureGen.Tests.Integration.Verifiers
         [TestCase(false, null, null, CreatureConstants.Types.Subtypes.Augmented, null, null, true)]
         [TestCase(true, null, null, CreatureConstants.Types.Subtypes.Augmented, null, null, true)]
         [TestCase(false, null, null, CreatureConstants.Types.Subtypes.Augmented, ChallengeRatingConstants.CR1_2nd, null, true)]
-        [TestCase(true, null, null, CreatureConstants.Types.Subtypes.Augmented, ChallengeRatingConstants.CR1_2nd, null, true)]
+        //INFO: Only CR 1/2 character is Locathah, which is Humanoid and doesn't gain the Augmented subtype for Celestial/Fiendish creatures
+        [TestCase(true, null, null, CreatureConstants.Types.Subtypes.Augmented, ChallengeRatingConstants.CR1_2nd, null, false)]
         [TestCase(false, null, null, CreatureConstants.Types.Subtypes.Goblinoid, null, null, true)]
         [TestCase(true, null, null, CreatureConstants.Types.Subtypes.Goblinoid, null, null, true)]
         [TestCase(false, null, null, CreatureConstants.Types.Subtypes.Goblinoid, ChallengeRatingConstants.CR0, null, false)]

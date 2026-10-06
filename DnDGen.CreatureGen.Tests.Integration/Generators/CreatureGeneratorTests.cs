@@ -5,9 +5,9 @@ using DnDGen.CreatureGen.Generators.Abilities;
 using DnDGen.CreatureGen.Generators.Creatures;
 using DnDGen.CreatureGen.Skills;
 using DnDGen.CreatureGen.Tests.Integration.TestData;
+using DnDGen.CreatureGen.Verifiers;
 using DnDGen.CreatureGen.Verifiers.Exceptions;
 using DnDGen.TreasureGen.Items;
-using Newtonsoft.Json;
 using NUnit.Framework;
 using NUnit.Framework.Internal;
 using System;
@@ -23,12 +23,14 @@ namespace DnDGen.CreatureGen.Tests.Integration.Generators
         private ICreatureGenerator creatureGenerator;
         private Stopwatch stopwatch;
         private AbilityRandomizerFactory abilityRandomizerFactory;
+        private ICreatureVerifier creatureVerifier;
 
         [SetUp]
         public void Setup()
         {
             creatureAsserter = GetNewInstanceOf<CreatureAsserter>();
             creatureGenerator = GetNewInstanceOf<ICreatureGenerator>();
+            creatureVerifier = GetNewInstanceOf<ICreatureVerifier>();
             stopwatch = new Stopwatch();
             abilityRandomizerFactory = GetNewInstanceOf<AbilityRandomizerFactory>();
         }
@@ -842,7 +844,7 @@ namespace DnDGen.CreatureGen.Tests.Integration.Generators
             params string[] templates)
         {
             stopwatch.Restart();
-            var creature = creatureGenerator.GenerateRandom(asCharacter, randomizer, filters);
+            var creature = creatureGenerator.GenerateRandom(asCharacter, randomizer, filters, templates);
             stopwatch.Stop();
 
             var failure = new InvalidCreatureException(null, asCharacter, creature.Summary, filters, randomizer, templates);
@@ -850,10 +852,11 @@ namespace DnDGen.CreatureGen.Tests.Integration.Generators
             var timeLimit = CreatureAsserter.GetGenerationTimeLimitInSeconds(creature);
             Assert.That(stopwatch.Elapsed.TotalSeconds, Is.LessThan(timeLimit), failure.Message);
 
-            Assert.That(creature.Templates, Is.EqualTo(templates), failure.Message);
+            if (templates.Length > 0)
+                Assert.That(creature.Templates, Is.EqualTo(templates), failure.Message);
 
             //INFO: While we support multiple filters (acting as an OR), our current test cases only use 1 filter each.
-            //if we ever add multiple filter values as abilityRandomizerFactory test case, these assertions should fail and should be updated to handle the or correctly
+            //if we ever add multiple filter values as abilityRandomizerFactory test case, these assertions should fail and should be updated to handle the OR correctly
             if (filters?.Types?.Count > 0)
                 CreatureAsserter.AssertCreatureIsType(creature, filters.Types.Single(), failure.Message);
 
@@ -896,20 +899,61 @@ namespace DnDGen.CreatureGen.Tests.Integration.Generators
             Assert.That(creature.HitPoints.HitDiceQuantity, Is.EqualTo(hitDiceQuantity), creature.Summary);
         }
 
-        [Test]
-        public void DEBUG_Generate_GenerateBetaCreature()
+        [TestCaseSource(typeof(CreatureTestData), nameof(CreatureTestData.Templates))]
+        public void BUG_Generate_TemplateOnlyAddsAugmentedIfCreatureTypeChanged(string template)
         {
-            var creature = creatureGenerator.Generate(false, CreatureConstants.Lizardfolk);
-            Assert.That(creature, Is.Not.Null);
-        }
+            var creatureNames = new[] { CreatureConstants.Human, CreatureConstants.Halfling_Lightfoot, CreatureConstants.Dog_Riding };
 
-        [TestCaseSource(typeof(CreatureTestData), nameof(CreatureTestData.Creatures))]
-        public void BUG_Generate_CanDeserializeCreature(string creatureName)
-        {
-            var creature = creatureGenerator.Generate(false, creatureName);
-            var serialized = JsonConvert.SerializeObject(creature);
-            var deserialized = JsonConvert.DeserializeObject<Creature>(serialized);
-            Assert.That(deserialized.Summary, Is.EqualTo(creature.Summary));
+            foreach (var asCharacter in new[] { true, false })
+            {
+                foreach (var creatureName in creatureNames)
+                {
+                    var valid = creatureVerifier.VerifyCompatibility(asCharacter, creatureName);
+                    valid &= creatureVerifier.VerifyCompatibility(asCharacter, creatureName, null, null, template);
+                    if (!valid)
+                        continue;
+
+                    var creature = creatureGenerator.Generate(asCharacter, creatureName);
+                    var templatedCreature = creatureGenerator.Generate(asCharacter, creatureName, null, template);
+
+                    if (asCharacter)
+                    {
+                        creatureAsserter.AssertCreatureAsCharacter(creature);
+                        creatureAsserter.AssertCreatureAsCharacter(templatedCreature);
+                    }
+                    else
+                    {
+                        creatureAsserter.AssertCreature(creature);
+                        creatureAsserter.AssertCreature(templatedCreature);
+                    }
+                    Assert.That(creature.Templates, Is.Empty);
+
+                    if (template == CreatureConstants.Templates.None)
+                    {
+                        Assert.That(templatedCreature.Templates, Is.Empty);
+                    }
+                    else
+                    {
+                        Assert.That(templatedCreature.Templates, Is.EqualTo([template]));
+                    }
+
+                    if (template == CreatureConstants.Templates.Skeleton || template == CreatureConstants.Templates.Zombie)
+                    {
+                        Assert.That(templatedCreature.Type.Name, Is.EqualTo(CreatureConstants.Types.Undead), templatedCreature.Summary);
+                        Assert.That(templatedCreature.Type.SubTypes, Does.Not.Contain(creature.Type.Name), templatedCreature.Summary);
+                        Assert.That(templatedCreature.Type.SubTypes, Does.Not.Contain(CreatureConstants.Types.Subtypes.Augmented), templatedCreature.Summary);
+                    }
+                    else if (creature.Type.Name != templatedCreature.Type.Name)
+                    {
+                        Assert.That(templatedCreature.Type.SubTypes, Is.SupersetOf([creature.Type.Name, CreatureConstants.Types.Subtypes.Augmented]), templatedCreature.Summary);
+                    }
+                    else
+                    {
+                        Assert.That(templatedCreature.Type.SubTypes, Does.Not.Contain(creature.Type.Name), templatedCreature.Summary);
+                        Assert.That(templatedCreature.Type.SubTypes, Does.Not.Contain(CreatureConstants.Types.Subtypes.Augmented), templatedCreature.Summary);
+                    }
+                }
+            }
         }
     }
 }

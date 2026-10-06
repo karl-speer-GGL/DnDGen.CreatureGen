@@ -1309,6 +1309,9 @@ namespace DnDGen.CreatureGen.Tests.Unit.Verifiers
         private void SetUpCreatureGroup(string groupName, IEnumerable<string> group)
         {
             mockCollectionSelector
+                .Setup(s => s.IsCollection(Config.Name, TableNameConstants.Collection.CreatureGroups, groupName))
+                .Returns(true);
+            mockCollectionSelector
                 .Setup(s => s.SelectFrom(Config.Name, TableNameConstants.Collection.CreatureGroups, groupName))
                 .Returns(group);
         }
@@ -2079,9 +2082,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Verifiers
 
             mockDice.Setup(d => d.Roll(AbilityConstants.RandomizerRolls.Default).AsPotentialMaximum<int>(true)).Returns(11);
 
-            SetUpCreatureGroup("my template" + asCharacter, [creature, "template creature", "my other creature", "character", "another creature"]);
-            SetUpCreatureGroup("my ability-5", ["low-ability creature", "character", "my other creature", "high-ability creature", creature]);
-
             var mockApplicator1 = SetupStepInApplicatorChain("my template", null, (p, _) => !p.Name.Contains("some creature"));
             var mockApplicator2 = SetupStepInApplicatorChain("my other template", null, (p, _) => !p.Name.Contains("a different creature"));
 
@@ -2101,9 +2101,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Verifiers
                 .Returns((IEnumerable<string> cc, bool _, AbilityRandomizer _) => BuildPrototypes(cc));
 
             mockDice.Setup(d => d.Roll(abilityRandomizer.Roll).AsPotentialMaximum<int>(true)).Returns(9);
-
-            SetUpCreatureGroup("my template" + asCharacter, [creature, "template creature", "my other creature", "character", "another creature"]);
-            SetUpCreatureGroup("my ability-5", ["low-ability creature", "character", "my other creature", "high-ability creature", creature]);
 
             var mockApplicator1 = SetupStepInApplicatorChain("my template", null, (p, _) => !p.Name.Contains("some creature"));
             var mockApplicator2 = SetupStepInApplicatorChain("my other template", null, (p, _) => !p.Name.Contains("a different creature"));
@@ -2131,12 +2128,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Verifiers
 
             mockDice.Setup(d => d.Roll(AbilityConstants.RandomizerRolls.Default).AsPotentialMaximum<int>(true)).Returns(11);
 
-            SetUpCreatureGroup("my template" + asCharacter, [creature, "template creature", "my other creature", "character", "another creature"]);
-            SetUpCreatureGroup("my ability-5", ["low-ability creature", "character", "my other creature", "high-ability creature", creature]);
-            SetUpCreatureGroup("my template" + "my alignment", ["character", "alignment creature", creature, "another creature"]);
-            SetUpCreatureGroup("my template" + asCharacter + "my challenge rating", ["my other creature", "character", "CR creature", creature]);
-            SetUpCreatureGroup("my template" + "my type", ["my other creature", "type creature", "character", creature, "another creature"]);
-
             var mockApplicator1 = SetupStepInApplicatorChain("my template", null, (p, _) => !p.Name.Contains("some creature"));
             var mockApplicator2 = SetupStepInApplicatorChain("my other template", filters, (p, _) => !p.Name.Contains("a different creature"));
 
@@ -2163,12 +2154,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Verifiers
 
             mockDice.Setup(d => d.Roll(abilityRandomizer.Roll).AsPotentialMaximum<int>(true)).Returns(9);
 
-            SetUpCreatureGroup("my template" + asCharacter, [creature, "template creature", "my other creature", "character", "another creature"]);
-            SetUpCreatureGroup("my ability-5", ["low-ability creature", "character", "my other creature", "high-ability creature", creature]);
-            SetUpCreatureGroup("my template" + "my alignment", ["character", "alignment creature", creature, "another creature"]);
-            SetUpCreatureGroup("my template" + asCharacter + "my challenge rating", ["my other creature", "character", "CR creature", creature]);
-            SetUpCreatureGroup("my template" + "my type", ["my other creature", "type creature", "character", creature, "another creature"]);
-
             var mockApplicator1 = SetupStepInApplicatorChain("my template", null, (p, _) => !p.Name.Contains("some creature"));
             var mockApplicator2 = SetupStepInApplicatorChain("my other template", filters, (p, _) => !p.Name.Contains("a different creature"));
 
@@ -2188,9 +2173,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Verifiers
                 .Returns((IEnumerable<string> cc, bool _, AbilityRandomizer _) => BuildPrototypes(cc));
 
             mockDice.Setup(d => d.Roll(AbilityConstants.RandomizerRolls.Default).AsPotentialMaximum<int>(true)).Returns(11);
-
-            SetUpCreatureGroup("t1" + asCharacter, [creature, "template creature", "my other creature", "character", "another creature"]);
-            SetUpCreatureGroup("my ability-5", ["low-ability creature", "character", "my other creature", "high-ability creature", creature]);
 
             var mockApplicator1 = SetupStepInApplicatorChain("t1", null, (p, _) => !p.Name.Contains("wrong creature"));
             var mockApplicator2 = SetupStepInApplicatorChain("t2", null, (p, _) => !p.Name.Contains("some creature"));
@@ -2212,9 +2194,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Verifiers
                 .Returns((IEnumerable<string> cc, bool _, AbilityRandomizer _) => BuildPrototypes(cc));
 
             mockDice.Setup(d => d.Roll(abilityRandomizer.Roll).AsPotentialMaximum<int>(true)).Returns(9);
-
-            SetUpCreatureGroup("t1" + asCharacter, [creature, "template creature", "my other creature", "character", "another creature"]);
-            SetUpCreatureGroup("my ability-5", ["low-ability creature", "character", "my other creature", "high-ability creature", creature]);
 
             var mockApplicator1 = SetupStepInApplicatorChain("t1", null, (p, _) => !p.Name.Contains("wrong creature"));
             var mockApplicator2 = SetupStepInApplicatorChain("t2", null, (p, _) => !p.Name.Contains("some creature"));
@@ -2243,12 +2222,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Verifiers
 
             mockDice.Setup(d => d.Roll(AbilityConstants.RandomizerRolls.Default).AsPotentialMaximum<int>(true)).Returns(11);
 
-            SetUpCreatureGroup("t1" + asCharacter, [creature, "template creature", "my other creature", "character", "another creature"]);
-            SetUpCreatureGroup("my ability-5", ["low-ability creature", "character", "my other creature", "high-ability creature", creature]);
-            SetUpCreatureGroup("t1" + "my alignment", ["character", "alignment creature", creature, "another creature"]);
-            SetUpCreatureGroup("t1" + asCharacter + "my challenge rating", ["my other creature", "character", "CR creature", creature]);
-            SetUpCreatureGroup("t1" + "my type", ["my other creature", "type creature", "character", creature, "another creature"]);
-
             var mockApplicator1 = SetupStepInApplicatorChain("t1", null, (p, _) => !p.Name.Contains("wrong creature"));
             var mockApplicator2 = SetupStepInApplicatorChain("t2", null, (p, _) => !p.Name.Contains("some creature"));
             var mockApplicator3 = SetupStepInApplicatorChain("t3", filters, (p, _) => !p.Name.Contains("a different creature"));
@@ -2275,12 +2248,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Verifiers
                 .Returns((IEnumerable<string> cc, bool _, AbilityRandomizer _) => BuildPrototypes(cc));
 
             mockDice.Setup(d => d.Roll(abilityRandomizer.Roll).AsPotentialMaximum<int>(true)).Returns(9);
-
-            SetUpCreatureGroup("t1" + asCharacter, [creature, "template creature", "my other creature", "character", "another creature"]);
-            SetUpCreatureGroup("my ability-5", ["low-ability creature", "character", "my other creature", "high-ability creature", creature]);
-            SetUpCreatureGroup("t1" + "my alignment", ["character", "alignment creature", creature, "another creature"]);
-            SetUpCreatureGroup("t1" + asCharacter + "my challenge rating", ["my other creature", "character", "CR creature", creature]);
-            SetUpCreatureGroup("t1" + "my type", ["my other creature", "type creature", "character", creature, "another creature"]);
 
             var mockApplicator1 = SetupStepInApplicatorChain("t1", null, (p, _) => !p.Name.Contains("wrong creature"));
             var mockApplicator2 = SetupStepInApplicatorChain("t2", null, (p, _) => !p.Name.Contains("some creature"));

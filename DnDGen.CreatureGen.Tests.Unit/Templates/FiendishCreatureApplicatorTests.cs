@@ -107,7 +107,7 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
             var (Compatible, Reason) = filters.AreCompatible(
                 [AlignmentConstants.LawfulEvil],
                 [ChallengeRatingConstants.CR1],
-                [CreatureConstants.Types.Humanoid, "subtype 1", "subtype 2", CreatureConstants.Types.Subtypes.Extraplanar, CreatureConstants.Types.Subtypes.Augmented]);
+                [CreatureConstants.Types.Humanoid, "subtype 1", "subtype 2", CreatureConstants.Types.Subtypes.Extraplanar]);
 
             var expected = new InvalidCreatureException(Reason, asCharacter, baseCreature.Name, filters, null, CreatureConstants.Templates.FiendishCreature);
             var func = () => applicator.ApplyTo(baseCreature, asCharacter, filters);
@@ -205,20 +205,12 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
             Assert.That(creature.Type.Name, Is.EqualTo(adjusted));
             if (original == adjusted)
             {
-                Assert.That(creature.Type.SubTypes.Count(), Is.EqualTo(4));
-                Assert.That(creature.Type.SubTypes, Contains.Item("subtype 1")
-                    .And.Contains("subtype 2")
-                    .And.Contains(CreatureConstants.Types.Subtypes.Extraplanar)
-                    .And.Contains(CreatureConstants.Types.Subtypes.Augmented));
+                Assert.That(creature.Type.SubTypes, Is.EquivalentTo(["subtype 1", "subtype 2", CreatureConstants.Types.Subtypes.Extraplanar]));
             }
             else
             {
-                Assert.That(creature.Type.SubTypes.Count(), Is.EqualTo(5));
-                Assert.That(creature.Type.SubTypes, Contains.Item("subtype 1")
-                    .And.Contains("subtype 2")
-                    .And.Contains(original)
-                    .And.Contains(CreatureConstants.Types.Subtypes.Extraplanar)
-                    .And.Contains(CreatureConstants.Types.Subtypes.Augmented));
+                Assert.That(creature.Type.SubTypes, Is.EquivalentTo(["subtype 1", "subtype 2", CreatureConstants.Types.Subtypes.Extraplanar,
+                    original, CreatureConstants.Types.Subtypes.Augmented]));
             }
         }
 
@@ -349,7 +341,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                         && ct.SubTypes.IsEquivalentTo(originalSubtypes.Union(new[]
                         {
                             CreatureConstants.Types.Subtypes.Extraplanar,
-                            CreatureConstants.Types.Subtypes.Augmented,
                         }))),
                     baseCreature.HitPoints,
                     baseCreature.Abilities,
@@ -404,7 +395,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                         && ct.SubTypes.IsEquivalentTo(originalSubtypes.Union(new[]
                         {
                             CreatureConstants.Types.Subtypes.Extraplanar,
-                            CreatureConstants.Types.Subtypes.Augmented,
                         }))),
                     baseCreature.HitPoints,
                     baseCreature.Abilities,
@@ -461,7 +451,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                         && ct.SubTypes.IsEquivalentTo(originalSubtypes.Union(new[]
                         {
                             CreatureConstants.Types.Subtypes.Extraplanar,
-                            CreatureConstants.Types.Subtypes.Augmented,
                         }))),
                     baseCreature.HitPoints,
                     baseCreature.Abilities,
@@ -518,7 +507,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                         && ct.SubTypes.IsEquivalentTo(originalSubtypes.Union(new[]
                         {
                             CreatureConstants.Types.Subtypes.Extraplanar,
-                            CreatureConstants.Types.Subtypes.Augmented,
                         }))),
                     baseCreature.HitPoints,
                     baseCreature.Abilities,
@@ -575,7 +563,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                         && ct.SubTypes.IsEquivalentTo(originalSubtypes.Union(new[]
                         {
                             CreatureConstants.Types.Subtypes.Extraplanar,
-                            CreatureConstants.Types.Subtypes.Augmented,
                         }))),
                     baseCreature.HitPoints,
                     baseCreature.Abilities,
@@ -634,7 +621,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                         && ct.SubTypes.IsEquivalentTo(originalSubtypes.Union(new[]
                         {
                             CreatureConstants.Types.Subtypes.Extraplanar,
-                            CreatureConstants.Types.Subtypes.Augmented,
                         }))),
                     baseCreature.HitPoints,
                     baseCreature.Abilities,
@@ -697,7 +683,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                         && ct.SubTypes.IsEquivalentTo(originalSubtypes.Union(new[]
                         {
                             CreatureConstants.Types.Subtypes.Extraplanar,
-                            CreatureConstants.Types.Subtypes.Augmented,
                         }))),
                     baseCreature.HitPoints,
                     baseCreature.Abilities,
@@ -761,7 +746,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                         && ct.SubTypes.IsEquivalentTo(originalSubtypes.Union(new[]
                         {
                             CreatureConstants.Types.Subtypes.Extraplanar,
-                            CreatureConstants.Types.Subtypes.Augmented,
                         }))),
                     baseCreature.HitPoints,
                     baseCreature.Abilities,
@@ -818,7 +802,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                         && ct.SubTypes.IsEquivalentTo(originalSubtypes.Union(new[]
                         {
                             CreatureConstants.Types.Subtypes.Extraplanar,
-                            CreatureConstants.Types.Subtypes.Augmented,
                         }))),
                     baseCreature.HitPoints,
                     baseCreature.Abilities,
@@ -876,7 +859,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                         && ct.SubTypes.IsEquivalentTo(originalSubtypes.Union(new[]
                         {
                             CreatureConstants.Types.Subtypes.Extraplanar,
-                            CreatureConstants.Types.Subtypes.Augmented,
                         }))),
                     baseCreature.HitPoints,
                     baseCreature.Abilities,
@@ -934,7 +916,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                         && ct.SubTypes.IsEquivalentTo(originalSubtypes.Union(new[]
                         {
                             CreatureConstants.Types.Subtypes.Extraplanar,
-                            CreatureConstants.Types.Subtypes.Augmented,
                         }))),
                     baseCreature.HitPoints,
                     baseCreature.Abilities,
@@ -1165,7 +1146,7 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
             var (Compatible, Reason) = filters.AreCompatible(
                 [AlignmentConstants.LawfulEvil],
                 [ChallengeRatingConstants.CR1],
-                [CreatureConstants.Types.Humanoid, "subtype 1", "subtype 2", CreatureConstants.Types.Subtypes.Extraplanar, CreatureConstants.Types.Subtypes.Augmented]);
+                [CreatureConstants.Types.Humanoid, "subtype 1", "subtype 2", CreatureConstants.Types.Subtypes.Extraplanar]);
 
             var expected = new InvalidCreatureException(Reason, asCharacter, baseCreature.Name, filters, null, CreatureConstants.Templates.FiendishCreature);
 
@@ -1249,20 +1230,12 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
             Assert.That(creature.Type.Name, Is.EqualTo(adjusted));
             if (original == adjusted)
             {
-                Assert.That(creature.Type.SubTypes.Count(), Is.EqualTo(4));
-                Assert.That(creature.Type.SubTypes, Contains.Item("subtype 1")
-                    .And.Contains("subtype 2")
-                    .And.Contains(CreatureConstants.Types.Subtypes.Extraplanar)
-                    .And.Contains(CreatureConstants.Types.Subtypes.Augmented));
+                Assert.That(creature.Type.SubTypes, Is.EquivalentTo(["subtype 1", "subtype 2", CreatureConstants.Types.Subtypes.Extraplanar]));
             }
             else
             {
-                Assert.That(creature.Type.SubTypes.Count(), Is.EqualTo(5));
-                Assert.That(creature.Type.SubTypes, Contains.Item("subtype 1")
-                    .And.Contains("subtype 2")
-                    .And.Contains(original)
-                    .And.Contains(CreatureConstants.Types.Subtypes.Extraplanar)
-                    .And.Contains(CreatureConstants.Types.Subtypes.Augmented));
+                Assert.That(creature.Type.SubTypes, Is.EquivalentTo(["subtype 1", "subtype 2", CreatureConstants.Types.Subtypes.Extraplanar,
+                    original, CreatureConstants.Types.Subtypes.Augmented]));
             }
         }
 
@@ -1393,7 +1366,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                         && ct.SubTypes.IsEquivalentTo(originalSubtypes.Union(new[]
                         {
                             CreatureConstants.Types.Subtypes.Extraplanar,
-                            CreatureConstants.Types.Subtypes.Augmented,
                         }))),
                     baseCreature.HitPoints,
                     baseCreature.Abilities,
@@ -1448,7 +1420,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                         && ct.SubTypes.IsEquivalentTo(originalSubtypes.Union(new[]
                         {
                             CreatureConstants.Types.Subtypes.Extraplanar,
-                            CreatureConstants.Types.Subtypes.Augmented,
                         }))),
                     baseCreature.HitPoints,
                     baseCreature.Abilities,
@@ -1505,7 +1476,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                         && ct.SubTypes.IsEquivalentTo(originalSubtypes.Union(new[]
                         {
                             CreatureConstants.Types.Subtypes.Extraplanar,
-                            CreatureConstants.Types.Subtypes.Augmented,
                         }))),
                     baseCreature.HitPoints,
                     baseCreature.Abilities,
@@ -1562,7 +1532,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                         && ct.SubTypes.IsEquivalentTo(originalSubtypes.Union(new[]
                         {
                             CreatureConstants.Types.Subtypes.Extraplanar,
-                            CreatureConstants.Types.Subtypes.Augmented,
                         }))),
                     baseCreature.HitPoints,
                     baseCreature.Abilities,
@@ -1619,7 +1588,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                         && ct.SubTypes.IsEquivalentTo(originalSubtypes.Union(new[]
                         {
                             CreatureConstants.Types.Subtypes.Extraplanar,
-                            CreatureConstants.Types.Subtypes.Augmented,
                         }))),
                     baseCreature.HitPoints,
                     baseCreature.Abilities,
@@ -1678,7 +1646,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                         && ct.SubTypes.IsEquivalentTo(originalSubtypes.Union(new[]
                         {
                             CreatureConstants.Types.Subtypes.Extraplanar,
-                            CreatureConstants.Types.Subtypes.Augmented,
                         }))),
                     baseCreature.HitPoints,
                     baseCreature.Abilities,
@@ -1741,7 +1708,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                         && ct.SubTypes.IsEquivalentTo(originalSubtypes.Union(new[]
                         {
                             CreatureConstants.Types.Subtypes.Extraplanar,
-                            CreatureConstants.Types.Subtypes.Augmented,
                         }))),
                     baseCreature.HitPoints,
                     baseCreature.Abilities,
@@ -1805,7 +1771,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                         && ct.SubTypes.IsEquivalentTo(originalSubtypes.Union(new[]
                         {
                             CreatureConstants.Types.Subtypes.Extraplanar,
-                            CreatureConstants.Types.Subtypes.Augmented,
                         }))),
                     baseCreature.HitPoints,
                     baseCreature.Abilities,
@@ -1862,7 +1827,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                         && ct.SubTypes.IsEquivalentTo(originalSubtypes.Union(new[]
                         {
                             CreatureConstants.Types.Subtypes.Extraplanar,
-                            CreatureConstants.Types.Subtypes.Augmented,
                         }))),
                     baseCreature.HitPoints,
                     baseCreature.Abilities,
@@ -1920,7 +1884,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                         && ct.SubTypes.IsEquivalentTo(originalSubtypes.Union(new[]
                         {
                             CreatureConstants.Types.Subtypes.Extraplanar,
-                            CreatureConstants.Types.Subtypes.Augmented,
                         }))),
                     baseCreature.HitPoints,
                     baseCreature.Abilities,
@@ -1978,7 +1941,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                         && ct.SubTypes.IsEquivalentTo(originalSubtypes.Union(new[]
                         {
                             CreatureConstants.Types.Subtypes.Extraplanar,
-                            CreatureConstants.Types.Subtypes.Augmented,
                         }))),
                     baseCreature.HitPoints,
                     baseCreature.Abilities,
@@ -2641,18 +2603,21 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
             Assert.That(compatible, Is.EqualTo(expected));
         }
 
-        [TestCase(CreatureConstants.Types.Subtypes.Augmented)]
-        [TestCase(CreatureConstants.Types.Subtypes.Extraplanar)]
-        public void IsCompatible_WithType_ReturnsTrue(string type)
+        [TestCase(CreatureConstants.Types.Humanoid, CreatureConstants.Types.Subtypes.Extraplanar)]
+        [TestCase(CreatureConstants.Types.Animal, CreatureConstants.Types.Subtypes.Augmented)]
+        [TestCase(CreatureConstants.Types.Animal, CreatureConstants.Types.Subtypes.Extraplanar)]
+        [TestCase(CreatureConstants.Types.Vermin, CreatureConstants.Types.Subtypes.Augmented)]
+        [TestCase(CreatureConstants.Types.Vermin, CreatureConstants.Types.Subtypes.Extraplanar)]
+        public void IsCompatible_WithType_ReturnsTrue(string type, string filter)
         {
             var creature = new CreaturePrototypeBuilder()
                 .WithTestValues()
                 .WithName("my creature")
-                .WithCreatureType(CreatureConstants.Types.Humanoid, "subtype 1", "subtype 2")
+                .WithCreatureType(type, "subtype 1", "subtype 2")
                 .WithAlignments(AlignmentConstants.LawfulEvil, "other alignment")
                 .Build();
 
-            var filters = new Filters { Types = [type] };
+            var filters = new Filters { Types = [filter] };
 
             var compatible = applicator.IsCompatible(creature, filters);
             Assert.That(compatible, Is.True);
@@ -2663,7 +2628,7 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
         [TestCase(CreatureConstants.Types.Humanoid, "subtype 1", true)]
         [TestCase(CreatureConstants.Types.Humanoid, "subtype 2", true)]
         [TestCase(CreatureConstants.Types.Humanoid, CreatureConstants.Types.Subtypes.Extraplanar, true)]
-        [TestCase(CreatureConstants.Types.Humanoid, CreatureConstants.Types.Subtypes.Augmented, true)]
+        [TestCase(CreatureConstants.Types.Humanoid, CreatureConstants.Types.Subtypes.Augmented, false)]
         [TestCase(CreatureConstants.Types.Humanoid, "wrong type", false)]
         [TestCase(CreatureConstants.Types.Animal, null, true)]
         [TestCase(CreatureConstants.Types.Animal, CreatureConstants.Types.Animal, true)]
@@ -2688,7 +2653,7 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
         [TestCase(CreatureConstants.Types.MagicalBeast, "subtype 1", true)]
         [TestCase(CreatureConstants.Types.MagicalBeast, "subtype 2", true)]
         [TestCase(CreatureConstants.Types.MagicalBeast, CreatureConstants.Types.Subtypes.Extraplanar, true)]
-        [TestCase(CreatureConstants.Types.MagicalBeast, CreatureConstants.Types.Subtypes.Augmented, true)]
+        [TestCase(CreatureConstants.Types.MagicalBeast, CreatureConstants.Types.Subtypes.Augmented, false)]
         [TestCase(CreatureConstants.Types.MagicalBeast, "wrong type", false)]
         public void IsCompatible_WithType_ReturnsCompatibility_AdjustedTypeMustMatch(string originalType, string filterType, bool expected)
         {
@@ -2862,7 +2827,7 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
             var (Compatible, Reason) = filters.AreCompatible(
                 [AlignmentConstants.LawfulEvil],
                 [ChallengeRatingConstants.CR1],
-                [CreatureConstants.Types.Humanoid, "subtype 1", "subtype 2", CreatureConstants.Types.Subtypes.Extraplanar, CreatureConstants.Types.Subtypes.Augmented]);
+                [CreatureConstants.Types.Humanoid, "subtype 1", "subtype 2", CreatureConstants.Types.Subtypes.Extraplanar]);
 
             var expected = new InvalidCreatureException(Reason, asCharacter, creature.Name, filters, null, CreatureConstants.Templates.FiendishCreature);
             var func = () => applicator.ApplyTo(creature, filters);
@@ -2898,7 +2863,6 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
                 "subtype 1",
                 "subtype 2",
                 CreatureConstants.Types.Subtypes.Extraplanar,
-                CreatureConstants.Types.Subtypes.Augmented
             ]));
             Assert.That(updatedPrototype.Abilities, Has.Count.EqualTo(6));
             Assert.That(updatedPrototype.Abilities[AbilityConstants.Strength].FullScore, Is.EqualTo(0));
@@ -3135,11 +3099,10 @@ namespace DnDGen.CreatureGen.Tests.Unit.Templates
             var updatedPrototype = applicator.ApplyTo(creature);
             Assert.That(updatedPrototype.Name, Is.EqualTo("my creature"));
             Assert.That(updatedPrototype.Type.Name, Is.EqualTo(adjustedType));
-            Assert.That(updatedPrototype.Type.SubTypes,
-                Is.SupersetOf(["subtype 1", "subtype 2", CreatureConstants.Types.Subtypes.Augmented, CreatureConstants.Types.Subtypes.Extraplanar]));
+            Assert.That(updatedPrototype.Type.SubTypes, Is.SupersetOf(["subtype 1", "subtype 2", CreatureConstants.Types.Subtypes.Extraplanar]));
 
             if (originalType != adjustedType)
-                Assert.That(updatedPrototype.Type.SubTypes, Is.SupersetOf([originalType]));
+                Assert.That(updatedPrototype.Type.SubTypes, Is.SupersetOf([CreatureConstants.Types.Subtypes.Augmented, originalType]));
         }
 
         [Test]

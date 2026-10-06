@@ -121,13 +121,12 @@ namespace DnDGen.CreatureGen.Templates
             var adjustedSubtypes = subtypes.Union(
             [
                 CreatureConstants.Types.Subtypes.Extraplanar,
-                CreatureConstants.Types.Subtypes.Augmented,
             ]);
 
             if (creatureType == CreatureConstants.Types.Animal
                 || creatureType == CreatureConstants.Types.Vermin)
             {
-                return new[] { CreatureConstants.Types.MagicalBeast }.Union(adjustedSubtypes).Union([creatureType]);
+                return new[] { CreatureConstants.Types.MagicalBeast }.Union(adjustedSubtypes).Union([CreatureConstants.Types.Subtypes.Augmented, creatureType]);
             }
 
             return new[] { creatureType }.Union(adjustedSubtypes);
